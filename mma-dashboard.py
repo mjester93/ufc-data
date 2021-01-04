@@ -299,9 +299,6 @@ def avg_win_dk_chart(ufcstats_id, weight_class):
 
     ax.set_xlabel('Average Winning DK Points (New)', fontsize=12)
 
-    # ax.grid(zorder=0,alpha=.2)
-    # ax.set_axisbelow(True)
-
     st.pyplot(avg_new_dk_pts_fig)
 
 
@@ -445,6 +442,8 @@ all_career_stats_df = all_career_stats_df.merge(
     right_on="ufcstats_id"
 )
 
+# Getting takedowns absorbed
+
 # GETTING EXTERNAL IDS
 external_ids_df = pd.read_csv(
     "https://github.com/mjester93/ufc-data/blob/main/external_ids.csv?raw=True",
@@ -517,9 +516,13 @@ with row1_1, _lock:
     else: 
         st.image(f"{BASE_ESPN_URL}{espn_id}.png", width=300)
 
+    tapology_search_name = fighter_name.lower().replace(" ","+")
+    tapology_url = f"https://www.tapology.com/search?term={tapology_search_name}&commit=Submit&model%5Bfighters%5D=fightersSearch"
+    
     st.write(f'[ESPN](https://www.espn.com/mma/fighter/_/id/{espn_id}) / \
         [Sherdog](https://www.sherdog.com/fighter/{sherdog_id}) / \
-        [UFCStats](http://www.ufcstats.com/fighter-details/{ufcstats_id})')
+        [UFCStats](http://www.ufcstats.com/fighter-details/{ufcstats_id}) / \
+        [Tapology]({tapology_url})')
 
 
 with row1_2, _lock:
@@ -557,6 +560,8 @@ with row1_3, _lock:
     sig_str_acc = fighter_career_stats_filter['sig_strike_accuracy'].astype(int).to_string(index=False).lstrip()
     str_acc = fighter_career_stats_filter['strike_accuracy'].astype(int).to_string(index=False).lstrip()
     sig_str_def = fighter_career_stats_filter['sig_strike_defence'].astype(int).to_string(index=False).lstrip()
+    fight_seconds = fighter_career_stats_filter['fight_time_seconds_for'].astype(float).to_string(index=False).lstrip()
+    fight_time_mins = float(fight_seconds) / 60 if fight_seconds != "Series([], )" else 0
 
     st.text(f"SSLpM: {fighter_career_stats_filter['sig_strikes_landed_per_minute'].astype(float).to_string(index=False).lstrip()}")
     st.text(f"SSApM: {fighter_career_stats_filter['sig_strikes_absorbed_per_minute'].astype(float).to_string(index=False).lstrip()}")
@@ -565,6 +570,7 @@ with row1_3, _lock:
     st.text(f"*SLpM: {fighter_career_stats_filter['strikes_landed_per_minute'].astype(float).to_string(index=False).lstrip()}")
     st.text(f"*SApM: {fighter_career_stats_filter['strikes_absorbed_per_minute'].astype(float).to_string(index=False).lstrip()}")
     st.text(f"*Str. Acc: {str_acc}%")
+    st.text(f"*Fight Time (mins): {fight_time_mins}")
 
 with row1_4, _lock:
     st.subheader(' ')
@@ -641,7 +647,7 @@ with row4_1, _lock:
     td_chart(ufcstats_id, weight_class)
 
 
-with row4_2, _lock:
+with row4_3, _lock:
     st.subheader('Avg. Win. DK Pts by Class (2018-present)')
     avg_win_dk_chart(ufcstats_id, weight_class)
 

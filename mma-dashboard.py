@@ -481,7 +481,7 @@ row2_spacer1, row2_1, row2_spacer2, row2_2, row2_spacer3 = st.beta_columns(
     (.1, 1.6, .1, 1.6, .1))
 
 with row2_1:
-    records = all_fighters_df.to_dict("records")
+    records = all_fighters_df.sort_values(by=['full_name']).to_dict("records")
 
     selected_data = st.selectbox(
         "Select a Fighter",

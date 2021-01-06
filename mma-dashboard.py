@@ -355,7 +355,6 @@ most_recent_fighters_with_weights = all_fight_data_df.drop_duplicates(
 
 all_fighters_df = all_fighters_df.merge(
     most_recent_fighters_with_weights, 
-    how="left",
     left_on="ufcstats_id",
     right_on="ufcstats_id"
 )

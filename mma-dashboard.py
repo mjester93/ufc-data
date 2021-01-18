@@ -322,6 +322,8 @@ all_fighters_df = pd.read_csv(
     "https://github.com/mjester93/ufc-data/blob/main/fighters.csv?raw=True",
     low_memory=False)
 
+all_fightters_df
+
 # GETTING CAREER STATS
 all_career_stats_df = pd.read_csv(
     "https://github.com/mjester93/ufc-data/blob/main/fighter_career_stats.csv?raw=True",

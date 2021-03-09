@@ -1,4 +1,34 @@
 ﻿fight_id,event_id,event_name,event_date,ufcstats_id,fighter_name,fighter_odds
+7de9867b7cc2b1b1,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,99df7d0a2a08a8a8,Jan Blachowicz,220
+7de9867b7cc2b1b1,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,1338e2c7480bdf9e,Israel Adesanya,-270
+fd92fe0c494d0959,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,80fa8218c99f9c58,Amanda Nunes,-815
+fd92fe0c494d0959,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,a0e75f4a13eb73f1,Megan Anderson,565
+15c9cb5f9320c555,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,cb696ebfb6598724,Aljamain Sterling,105
+15c9cb5f9320c555,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,d661ce4da776fc20,Petr Yan,-125
+c06d7bb29bc24d00,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,275aca31f61ba28c,Islam Makhachev,-490
+c06d7bb29bc24d00,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,519e4fe37ce9ff75,Drew Dober,365
+04a788abbbd1f256,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,333b9e5c723ac873,Aleksandar Rakic,-190
+04a788abbbd1f256,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,dea070ed4a2a8281,Thiago Santos,160
+f4363f1317b47213,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,10f3ba6cd2f44a97,Dominick Cruz,105
+f4363f1317b47213,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,e7bba7ce4d6c7b07,Casey Kenney,-125
+5980ab31e4718a83,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,60425d07ef4b91a7,Kyler Phillips,150
+5980ab31e4718a83,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,efb96bf3e9ada36f,Yadong Song,-180
+ae5d14a9fc1ad19c,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,b1d19449397541dc,Askar Askarov,-150
+ae5d14a9fc1ad19c,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,80eacd4da0617c57,Joseph Benavidez,130
+873306ad79b62f5e,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,853eb0dd5c0e2149,Kai Kara-France,-130
+873306ad79b62f5e,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,07a2bdaa0afdd831,Rogerio Bontorin,110
+2704d31de2c2f43b,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,c96d9178c9ed9e62,Tim Elliott,-135
+2704d31de2c2f43b,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,215a70f073a7b726,Jordan Espinosa,115
+d170f6580e1c244f,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,8667caa0451d245b,Kennedy Nzechukwu,185
+d170f6580e1c244f,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,9014c02eff8b3d62,Carlos Ulberg,-225
+7ad09f889d2cdb6f,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,45f7cb591c3ab00b,Sean Brady,-220
+7ad09f889d2cdb6f,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,a845f0735bc67405,Jake Matthews,180
+50ef636148fa6fac,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,3df5493bb279226f,Amanda Lemos,-225
+50ef636148fa6fac,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,dab8cfbb6b1db10a,Livinha Souza,185
+e2abba69c3371618,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,681399317dbf4701,Uros Medic,-190
+e2abba69c3371618,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,003d82fa384ca1d0,Aalon Cruz,160
+c096342c57a6f2c4,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,ec23c1be628d8057,Trevin Jones,190
+c096342c57a6f2c4,6e2b1d631832921d,UFC 259: Blachowicz vs. Adesanya,6-Mar-21,bc711b6dd95c1af6,Mario Bautista,-235
 4a704dae3091adaf,81b57acd6975ac06,UFC Fight Night: Rozenstruik vs. Gane,27-Feb-21,787bb1f087ccff8a,Ciryl Gane,-250
 4a704dae3091adaf,81b57acd6975ac06,UFC Fight Night: Rozenstruik vs. Gane,27-Feb-21,2cd428e9606856fd,Jairzinho Rozenstruik,200
 3a4e2dffcdd1c838,81b57acd6975ac06,UFC Fight Night: Rozenstruik vs. Gane,27-Feb-21,d802174b0c0c1f4e,Magomed Ankalaev,-310

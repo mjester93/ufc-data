@@ -48,7 +48,7 @@ d26934530dc5b248,Gilbert,Aldana,Gilbert Aldana,El Peligro,"6' 1""",250,--,Orthod
 578ef12674df1e6a,Irene,Aldana,Irene Aldana,,"5' 9""",135,68,Orthodox,12,6,0,"Mar 26, 1988",5.52,38,5.97,61,0.23,50,84,0.1
 c487223b0289bda9,Hector,Aldana,Hector Aldana,,"5' 11""",170,72,Orthodox,4,3,0,"Aug 17, 1988",3.59,38,5.08,59,0.93,100,0,0.0
 d0f3959b4a9747e6,Jose,Aldo,Jose Aldo,,"5' 7""",135,70,Orthodox,29,7,0,"Sep 09, 1986",3.45,45,3.52,61,0.57,56,91,0.1
-6fd953151d981979,JJ,Aldrich,JJ Aldrich,,"5' 5""",125,67,Southpaw,8,4,0,"Sep 29, 1992",3.88,40,4.68,62,0.31,25,53,0.0
+6fd953151d981979,JJ,Aldrich,JJ Aldrich,,"5' 5""",125,67,Southpaw,9,4,0,"Sep 29, 1992",3.76,41,4.55,61,0.8,40,57,0.0
 fe5a9547479396ab,Jim,Alers,Jim Alers,The Beast,"5' 9""",145,71,Orthodox,13,3,0 (1 NC),"Oct 14, 1986",2.9,40,4.38,56,2.26,41,80,0.3
 7a15f3694c5cbc02,John,Alessio,John Alessio,The Natural,"5' 10""",155,72,Orthodox,35,17,0 (2 NC),"Jul 05, 1979",2.1,39,2.91,54,1.85,38,70,1.2
 0541480fbf719d86,Houston,Alexander,Houston Alexander,The Assassin,"6' 0""",205,72,Orthodox,17,15,1 (2 NC),"Mar 22, 1972",3.06,54,3.2,52,1.19,57,33,0.0
@@ -96,7 +96,7 @@ d562b12b8fe88336,JJ,Ambrose,JJ Ambrose,,"5' 10""",170,--,Orthodox,28,7,0 (2 NC),
 87a1dc546b1c5caf,Makwan,Amirkhani,Makwan Amirkhani,Mr. Finland,"5' 10""",145,72,Southpaw,16,5,0,"Nov 08, 1988",1.42,44,2.63,51,3.37,37,57,1.4
 53adf5b845d91e4a,Bertrand,Amoussou,Bertrand Amoussou,,"5' 8""",190,--,Orthodox,1,1,0,--,6.75,39,2.01,83,0.0,0,0,0.0
 23a8c33869bf5392,Karl,Amoussou,Karl Amoussou,The Psycho,"5' 11""",185,--,Orthodox,27,7,2,"Nov 21, 1985",1.47,34,2.67,54,0.0,0,25,1.0
-cad24459b28592ca,Eryk,Anders,Eryk Anders,Ya Boi,"6' 1""",185,75,Southpaw,13,5,0,"Apr 21, 1987",3.02,45,4.18,51,1.34,34,80,0.1
+cad24459b28592ca,Eryk,Anders,Eryk Anders,Ya Boi,"6' 1""",185,75,Southpaw,13,5,0 (1 NC),"Apr 21, 1987",3.23,46,4.15,51,1.62,35,80,0.1
 8738eacd62e82a32,Matt,Andersen,Matt Andersen,,"6' 2""",230,--,Southpaw,14,8,1,"May 29, 1971",0.0,0,0.0,0,0.0,0,0,0.0
 9199e0735b83dd32,Andy,Anderson,Andy Anderson,The Hammer,"5' 6""",240,--,,0,1,0,"Jul 16, 1974",0.0,0,0.0,0,0.0,0,0,0.0
 1ffc38f67785797b,Lowell,Anderson,Lowell Anderson,,"5' 6""",160,--,Orthodox,0,1,0,--,0.0,0,0.0,0,0.0,0,0,0.0
@@ -169,7 +169,7 @@ ba5c6eeb8ef45f5c,Levi,Avera,Levi Avera,,"6' 1""",170,--,,18,15,0,"May 17, 1982",
 da603332ad41f165,Saad,Awad,Saad Awad,Assassin,"5' 11""",155,--,,20,9,0,"Jun 07, 1983",2.13,26,1.87,60,0.5,16,100,0.5
 26387c19f32dda0f,Javy,Ayala,Javy Ayala,Eye Candy,"6' 1""",265,--,,10,5,0,"Aug 20, 1988",0.83,25,5.0,33,0.0,0,0,0.0
 6eaec40f724852f4,Jessin,Ayari,Jessin Ayari,,"6' 0""",155,73,Orthodox,16,6,0,"May 31, 1992",3.53,37,3.59,58,0.0,0,50,0.3
-46d0a888d87d91ac,Abu,Azaitar,Abu Azaitar,,"5' 9""",185,76,Orthodox,14,1,1 (1 NC),"Mar 10, 1986",3.2,37,1.27,57,1.0,100,25,0.0
+46d0a888d87d91ac,Abu,Azaitar,Abu Azaitar,Captain Morocco,"5' 9""",185,76,Orthodox,14,2,1 (1 NC),"Mar 10, 1986",3.2,37,1.27,57,1.0,100,25,0.0
 ee18ff42063174df,Ottman,Azaitar,Ottman Azaitar,Bulldozer,"5' 8""",155,71,Switch,13,0,0,"Feb 20, 1990",8.43,57,1.76,67,0.0,0,100,0.0
 063649e21bc9d6d5,Luiz,Azeredo,Luiz Azeredo,,"5' 9""",154,--,Orthodox,15,10,0,"Jun 10, 1976",2.16,39,2.76,57,1.07,50,45,0.3
 9bcfb40dbcd50568,Luciano,Azevedo,Luciano Azevedo,,"6' 3""",161,--,Orthodox,17,9,1,"Jun 25, 1981",0.76,45,1.97,27,2.28,11,0,0.0
@@ -499,7 +499,7 @@ fef3d17e27e916e7,Antonio,Carvalho,Antonio Carvalho,Pato,"5' 9""",145,70,Orthodox
 68dd7b3783c19f9c,Shane,Carwin,Shane Carwin,The Engineer,"6' 2""",265,80,Orthodox,12,2,0,"Jan 04, 1975",4.38,47,3.53,53,1.42,33,42,0.0
 1f4b04a926ef1287,Johnny,Case,Johnny Case,Hollywood,"5' 10""",155,72,Orthodox,22,6,0,"Jun 28, 1989",3.95,38,2.66,61,1.7,45,72,0.2
 8d9586726252dbf7,Kevin,Casey,Kevin Casey,King,"5' 11""",185,77,Southpaw,9,5,2 (2 NC),"Jun 15, 1981",2.27,53,3.76,46,0.79,22,27,0.4
-5f179af5fffeb9f6,Cortney,Casey,Cortney Casey,Cast Iron,"5' 7""",135,67,Orthodox,9,8,0,"May 05, 1987",4.4,38,4.31,53,0.31,30,37,0.6
+5f179af5fffeb9f6,Cortney,Casey,Cortney Casey,Cast Iron,"5' 7""",125,67,Orthodox,9,9,0,"May 05, 1987",4.33,38,4.19,52,0.28,27,38,0.6
 3993f7dcb7caf42a,Brandon,Cash,Brandon Cash,Money,"6' 5""",255,--,Orthodox,10,4,0,--,5.42,72,0.68,33,10.17,66,0,0.0
 ec7ac09293d26c05,Bendy,Casimir,Bendy Casimir,,"5' 5""",145,--,Southpaw,20,14,2,"Jun 10, 1980",0.74,27,3.42,54,0.0,0,100,0.0
 31c01fbc2586a5eb,Dwayne,Cason,Dwayne Cason,,"5' 10""",212,--,Orthodox,1,1,0,--,0.0,0,0.0,0,0.0,0,0,0.0
@@ -559,7 +559,7 @@ eaebaa6801338ea1,Steven,Ciaccio,Steven Ciaccio,Stryker,"6' 0""",170,--,,4,4,0,--
 2244d9a2b64b8c3b,Hannah,Cifers,Hannah Cifers,Shockwave,"5' 1""",115,62,Orthodox,10,7,0,"Jun 26, 1992",4.99,44,5.39,52,0.26,100,64,0.3
 4e5bbc4566049cbf,Branko,Cikatic,Branko Cikatic,,"6' 1""",215,--,Orthodox,0,2,0,"Oct 03, 1954",0.0,0,0.0,0,0.0,0,0,0.0
 3f3550bf126a5721,Nikolajus,Cilkinas,Nikolajus Cilkinas,,--,--,--,Orthodox,2,6,0,--,0.0,0,5.88,16,0.0,0,0,0.0
-67f272324a030d00,Misha,Cirkunov,Misha Cirkunov,,"6' 3""",205,77,Orthodox,15,5,0,"Feb 27, 1987",4.18,52,2.89,62,4.42,57,71,2.4
+67f272324a030d00,Misha,Cirkunov,Misha Cirkunov,,"6' 3""",205,77,Orthodox,15,6,0,"Feb 27, 1987",4.18,51,3.22,60,4.28,57,71,2.3
 42611508ba8c3298,Johnny,Cisneros,Johnny Cisneros,The Tattooed Terror,"5' 11""",170,--,,9,6,0,"Feb 05, 1980",0.0,0,0.0,0,0.0,0,0,0.0
 1c2f2571b18791b6,Laverne,Clark,Laverne Clark,,"5' 11""",170,--,Orthodox,27,21,1,"Dec 02, 1973",0.0,0,0.0,0,0.0,0,0,0.0
 6776260cb0aef647,Logan,Clark,Logan Clark,,"6' 2""",185,--,Orthodox,18,6,0,"Feb 16, 1985",2.2,54,1.49,53,0.31,100,30,2.1
@@ -596,6 +596,7 @@ cc900c6a71ed23f3,Clay,Collard,Clay Collard,Cassius,"5' 11""",145,73,Orthodox,14,
 a85998eb79650b2c,Wes,Combs,Wes Combs,The Soldier,"6' 2""",205,--,Orthodox,20,6,0,"Jun 18, 1973",2.14,48,4.73,45,0.0,0,0,0.0
 f9f07bb5a43535ed,Carlos,Condit,Carlos Condit,The Natural Born Killer,"6' 2""",170,75,Orthodox,32,13,0,"Apr 26, 1984",3.63,39,2.49,56,0.62,54,39,1.0
 41e77dc504a192c6,Chris,Condo,Chris Condo,,"6' 0""",335,--,Orthodox,0,1,0,--,0.0,0,0.0,0,0.0,0,0,0.0
+1235b31de15d0c6e,Montserrat,Conejo,Montserrat Conejo,,"5' 0""",115,61,Southpaw,9,1,0,"Feb 03, 1993",0.0,0,0.0,0,0.0,0,0,0.0
 2ebfbe72ed703925,Tristan,Connelly,Tristan Connelly,Boondock,"5' 10""",170,68,Orthodox,14,6,0,"Dec 12, 1985",4.27,51,2.13,57,0.0,0,60,1.0
 d450769115a193c2,Marcos,Conrado Jr.,Marcos Conrado Jr.,,"6' 2""",220,--,Orthodox,5,1,0,"Mar 14, 1982",1.6,34,9.69,35,1.84,14,0,0.0
 18f5669a92e99d92,Jeremiah,Constant,Jeremiah Constant,,"6' 1""",240,--,Orthodox,11,8,0 (1 NC),"Jul 19, 1974",1.5,75,3.25,43,0.0,0,0,7.5
@@ -731,7 +732,7 @@ f9aa6376ae16bfb4,Johil,de Oliveira,Johil de Oliveira,,"5' 6""",170,--,Orthodox,1
 ddf3e0ea10ea6d8c,Jorge,de Oliveira,Jorge de Oliveira,Blade,"5' 8""",155,--,Orthodox,9,2,0,"Jan 22, 1980",1.26,31,4.84,48,0.0,0,22,0.0
 37d752ec41ed84bb,Maria,De Oliveira Neta,Maria De Oliveira Neta,,"5' 5""",115,--,Orthodox,10,5,0,"Dec 12, 1996",2.62,42,11.48,23,0.0,0,0,0.0
 e0f959f65d0406b4,Isabela,de Padua,Isabela de Padua,Belinha,"5' 3""",125,64,Orthodox,5,2,0,"Sep 04, 1991",1.0,35,2.07,50,2.0,66,0,1.0
-5dd180c8b3196786,Gloria,de Paula,Gloria de Paula,Glorinha,"5' 5""",115,67,Orthodox,5,2,0,"Jun 10, 1995",4.6,57,0.8,70,0.0,0,81,2.0
+5dd180c8b3196786,Gloria,de Paula,Gloria de Paula,Glorinha,"5' 5""",115,67,Orthodox,5,3,0,"Jun 10, 1995",3.33,54,1.2,70,0.0,0,71,1.0
 1d239d571e342453,Germaine,de Randamie,Germaine de Randamie,The Iron Lady,"5' 9""",135,71,Orthodox,10,4,0,"Apr 24, 1984",2.72,46,2.14,65,0.0,0,69,0.4
 3746e21bb508391a,Crezio,de Souza,Crezio de Souza,,--,170,--,Orthodox,1,2,0,--,0.0,0,0.0,0,0.0,0,0,0.0
 0bcfe2513cb3bc39,Tom,DeBlass,Tom DeBlass,,"6' 0""",185,--,Orthodox,9,2,0,"May 14, 1982",1.5,35,4.43,37,1.0,50,28,0.5
@@ -857,7 +858,7 @@ f2688492b9a525a3,Frankie,Edgar,Frankie Edgar,The Answer,"5' 6""",135,68,Orthodox
 528c24b99fbaab79,Johnny,Eduardo,Johnny Eduardo,,"5' 7""",135,71,Orthodox,28,12,0,"Aug 03, 1978",2.89,38,3.34,63,0.0,0,62,0.5
 5f04e3d58d9ce982,Yves,Edwards,Yves Edwards,,"5' 9""",155,73,Southpaw,42,22,1 (1 NC),"Sep 30, 1976",2.91,42,2.34,66,0.76,53,69,0.7
 e56daf7725a0b5ab,Justin,Edwards,Justin Edwards,Fast Eddy,"5' 10""",155,70,Orthodox,9,5,0,"Jan 26, 1983",2.68,42,3.32,51,2.14,26,27,1.0
-f1fac969a1d70b08,Leon,Edwards,Leon Edwards,Rocky,"6' 2""",170,74,Southpaw,18,3,0,"Aug 25, 1991",2.53,47,2.05,55,1.39,31,70,0.4
+f1fac969a1d70b08,Leon,Edwards,Leon Edwards,Rocky,"6' 2""",170,74,Southpaw,18,3,0 (1 NC),"Aug 25, 1991",2.56,47,2.03,55,1.35,30,70,0.4
 ef44e4ea9050f2ea,Te,Edwards,Te Edwards,,"5' 8""",155,72,Orthodox,6,3,0,"Sep 11, 1990",1.5,41,4.15,44,0.72,100,44,0.0
 e6904a03a66e711d,Adli,Edwards,Adli Edwards,,--,145,--,,4,1,0,"Aug 28, 1989",0.0,0,0.0,0,0.0,0,0,0.0
 f9ab66e67240db7b,Joselyne,Edwards,Joselyne Edwards,La Pantera,"5' 8""",135,70,Orthodox,10,3,0,"Sep 29, 1995",4.2,53,3.83,46,0.5,16,37,0.5
@@ -1021,7 +1022,7 @@ a47e9ec288c91067,Jeremy, Freitag,Jeremy  Freitag,,"6' 1""",205,--,,6,10,0,--,0.0
 73321668ff977f1b,Clay,French,Clay French,,"5' 7""",161,--,Southpaw,19,7,0,"Oct 07, 1980",1.52,50,1.27,16,0.0,0,100,0.0
 756f45905fb20cb5,Mike,French,Mike French,,"5' 10""",145,--,,9,10,0,"May 29, 1975",0.23,23,2.17,42,0.0,0,22,1.0
 dccb63727f2f5f74,Matt,Frevola,Matt Frevola,The SteamRolla,"5' 9""",155,71,Orthodox,8,2,1,"Jun 11, 1990",2.73,37,3.44,58,2.59,37,40,1.1
-d05cb1e8d1b885d8,Jinh,Yu Frey,Jinh Yu Frey,,"5' 3""",115,65,Southpaw,9,6,0,"May 20, 1985",1.9,48,4.05,42,0.55,25,83,0.0
+d05cb1e8d1b885d8,Jinh,Yu Frey,Jinh Yu Frey,,"5' 3""",115,65,Southpaw,10,6,0,"May 20, 1985",1.79,40,3.35,44,1.06,42,83,0.7
 ee704df0afd74558,Artem,Frolov,Artem Frolov,,"5' 10""",185,--,,11,0,0,"Sep 07, 1991",0.0,0,0.0,0,0.0,0,0,0.0
 1641ef250e9de19b,Sarah,Frota,Sarah Frota,A Treta,"5' 6""",125,69,Southpaw,9,2,0,"Apr 14, 1987",4.52,52,2.57,55,0.0,0,53,0.0
 271fe91f4ba9d2c5,Don,Frye,Don Frye,The Predator,"6' 1""",219,--,Orthodox,20,9,1 (1 NC),"Nov 23, 1965",2.87,64,3.57,37,0.91,57,45,0.7
@@ -1074,6 +1075,7 @@ a2b12c3f3d60ff69,Alex,Garcia,Alex Garcia,The Dominican Nightmare,"5' 9""",170,72
 8a04d94dfcfab159,Nick,Garcia,Nick Garcia,Nitro,"5' 4""",125,--,,8,3,0 (1 NC),--,0.67,25,3.03,50,0.0,0,83,5.1
 97cf1a2c7c5e7889,Steve,Garcia,Steve Garcia,Mean Machine,"6' 0""",155,75,Southpaw,11,4,0,"May 22, 1992",4.31,55,2.52,36,0.61,25,100,0.6
 ac5a7400da3a9a41,Elias,Garcia,Elias Garcia,,"5' 5""",125,67,Southpaw,6,2,0,"Sep 13, 1992",1.59,27,5.05,50,0.68,14,33,1.4
+e132d47bd9efbbe0,Rafa,Garcia,Rafa Garcia,Gifted,"5' 7""",155,70,Orthodox,12,1,0,"Aug 05, 1994",3.47,23,6.6,54,0.0,0,100,0.0
 4f7e290e71d60f87,Rulon,Gardner,Rulon Gardner,,"6' 3""",265,--,Orthodox,1,0,0,"Aug 16, 1971",2.05,25,1.45,60,0.75,100,100,0.0
 70167689d6a01793,David,Gardner,David Gardner,,"5' 11""",155,--,Orthodox,18,21,0,"May 17, 1977",0.17,100,0.34,0,0.0,0,66,0.0
 8e5bfd4e82352340,Pablo,Garza,Pablo Garza,The Scarecrow,"6' 1""",145,73,Orthodox,12,4,0,"Sep 16, 1983",3.37,44,2.7,50,0.94,25,15,1.3
@@ -1188,7 +1190,7 @@ a6bbd3df469c6bea,Roger,Gracie,Roger Gracie,,"6' 4""",185,79,Orthodox,8,2,0,"Sep 
 6e4acc2c115215b5,Scott,Graham,Scott Graham,,"6' 4""",185,--,Orthodox,3,1,0,--,0.91,42,2.27,28,0.0,0,0,0.0
 7559395ad833c074,Miranda,Granger,Miranda Granger,Danger,"5' 7""",125,68,Orthodox,7,2,0,"Apr 13, 1992",2.91,48,2.64,59,0.0,0,40,0.0
 a26198ba5093147e,TJ,Grant,TJ Grant,,"5' 10""",155,72,Orthodox,21,5,0,"Feb 26, 1984",3.95,54,3.21,56,1.63,43,36,0.6
-113df4fde64735c6,Davey,Grant,Davey Grant,Dangerous,"5' 8""",135,69,Orthodox,12,4,0,"Dec 18, 1985",3.67,48,2.32,63,2.59,47,66,0.2
+113df4fde64735c6,Davey,Grant,Davey Grant,Dangerous,"5' 8""",135,69,Orthodox,13,4,0,"Dec 18, 1985",3.93,47,2.47,63,2.3,45,66,0.2
 8be158ca1e5ea6a0,Dwight,Grant,Dwight Grant,The Body Snatcher,"6' 1""",170,76,Switch,10,3,0,"Sep 14, 1984",3.39,37,2.16,69,0.34,100,78,0.0
 e8b731feff72294b,Alexa,Grasso,Alexa Grasso,,"5' 5""",125,66,Orthodox,13,3,0,"Aug 09, 1993",4.96,43,3.61,64,0.28,40,60,0.6
 601964f9654f911a,Tony,Gravely,Tony Gravely,,"5' 5""",135,69,Orthodox,20,6,0,"Sep 28, 1991",3.69,55,3.16,42,5.6,51,50,0.8
@@ -1266,7 +1268,7 @@ c727c7d31c50c4cf,Anthony,Hamilton,Anthony Hamilton,Freight Train,"6' 5""",260,76
 24e9d6b0a24cff9d,Dean,Hancock,Dean Hancock,The Hammer,--,155,--,,2,1,0,--,7.97,63,1.94,67,1.71,33,75,1.7
 86e388ed20761ad9,Joachim,Hansen,Joachim Hansen,Hellboy,"5' 7""",150,--,Southpaw,23,14,1,"May 26, 1979",2.01,43,2.04,58,2.21,58,34,1.9
 4100c7a09497ad41,Kay,Hansen,Kay Hansen,,"5' 2""",115,63,Orthodox,7,4,0,"Aug 14, 1999",3.57,59,3.03,54,2.19,25,100,1.6
-b7b84ccd221be298,Nasrat,Haqparast,Nasrat Haqparast,,"5' 10""",155,72,Southpaw,12,3,0,"Aug 22, 1995",5.63,47,3.18,74,0.22,25,81,0.0
+b7b84ccd221be298,Nasrat,Haqparast,Nasrat Haqparast,,"5' 10""",155,72,Southpaw,13,3,0,"Aug 22, 1995",5.81,47,3.23,74,0.18,16,84,0.0
 b9c3ee342eb72100,Janay,Harding,Janay Harding,Hollowpoint,--,135,--,,2,3,0,--,0.0,0,0.0,0,0.0,0,0,0.0
 69b69c0178c4004d,Antoni,Hardonk,Antoni Hardonk,,"6' 4""",245,78,Orthodox,8,6,0,"Feb 05, 1976",3.4,61,3.07,46,0.0,0,40,0.9
 473ce3aa581251a2,Dan,Hardy,Dan Hardy,The Outlaw,"6' 0""",170,74,Orthodox,25,10,0 (1 NC),"May 17, 1982",2.46,35,3.44,51,0.73,35,35,0.4
@@ -1354,7 +1356,7 @@ e5d03e4d966126bd,Jason,High,Jason High,The Kansas City Bandit,"5' 8""",155,73,So
 2af2d675f7d847e3,Alex,Higley,Alex Higley,,"5' 10""",145,--,,4,3,0,--,0.29,100,1.74,60,0.0,0,0,0.0
 abbc737317f66b81,Corey,Hill,Corey Hill,,"6' 4""",155,80,Orthodox,6,9,0,"Oct 03, 1978",3.57,46,1.61,70,3.02,80,100,0.0
 86b30a86664cb6e4,Isaiah,Hill,Isaiah Hill,,"5' 10""",155,--,,5,7,1 (1 NC),--,4.84,50,0.97,80,0.0,0,66,14.5
-f0feeb2192937424,Angela,Hill,Angela Hill,Overkill,"5' 3""",115,64,Orthodox,12,9,0,"Jan 12, 1985",5.7,49,5.16,63,0.41,37,77,0.1
+f0feeb2192937424,Angela,Hill,Angela Hill,Overkill,"5' 3""",115,64,Orthodox,13,9,0,"Jan 12, 1985",5.66,50,4.98,64,0.45,36,76,0.1
 006efbb0c1621fd7,Tyler,Hill,Tyler Hill,,"6' 3""",170,--,Switch,8,2,0,"Aug 10, 1991",3.64,39,5.33,47,0.0,0,0,0.0
 5444c5a201d3ee5a,Jamahal,Hill,Jamahal Hill,Sweet Dreams,"6' 4""",205,79,Southpaw,7,0,0 (2 NC),"May 19, 1991",7.9,52,3.15,49,0.0,0,53,0.0
 bc7efc037c5f6550,Kailan,Hill,Kailan Hill,,"6' 1""",185,77,Southpaw,4,1,0 (1 NC),"Dec 01, 1994",2.6,53,4.8,37,3.0,42,0,0.0
@@ -1433,7 +1435,7 @@ edc9eb3051f444fa,Adam,Hunter,Adam Hunter,Warhammer,"6' 1""",185,--,Orthodox,7,1,
 59279a7c978f7da0,Al,Iaquinta,Al Iaquinta,Raging,"5' 10""",155,70,Orthodox,14,6,1,"Apr 30, 1987",4.06,40,4.44,61,0.64,18,74,0.2
 c3218c810959d279,Khadis,Ibragimov,Khadis Ibragimov,,"6' 3""",205,78,Orthodox,8,4,0,"May 21, 1995",3.55,49,4.26,47,0.97,30,80,0.3
 4565d435005319c0,Minoki,Ichihara,Minoki Ichihara,,"5' 7""",178,--,Orthodox,0,1,0,--,0.0,0,0.0,0,0.0,0,0,0.0
-82a5152216251682,Dan,Ige,Dan Ige,50K,"5' 7""",145,71,Orthodox,14,3,0,"Aug 06, 1991",3.96,46,3.36,58,1.69,27,59,0.5
+82a5152216251682,Dan,Ige,Dan Ige,50K,"5' 7""",145,71,Orthodox,15,3,0,"Aug 06, 1991",3.95,46,3.36,58,1.68,27,59,0.5
 7b6ce3a9460565b5,Valeri,Ignatov,Valeri Ignatov,,"5' 9""",170,--,Orthodox,1,2,0,--,0.0,0,0.0,0,0.0,0,0,0.0
 df9e9c1f65805d29,Sergey,Ignatov,Sergey Ignatov,,"5' 9""",210,--,Orthodox,0,1,0,--,0.35,50,3.25,42,0.0,0,0,0.0
 263ebd4a669e1e98,Fabiano,Iha,Fabiano Iha,,"5' 8""",155,--,Orthodox,9,5,0,"Jul 28, 1970",1.73,47,2.49,42,2.88,40,50,2.9
@@ -1566,7 +1568,7 @@ ca2efc9d7d523c43,Shawn,Jordan,Shawn Jordan,The Savage,"6' 0""",260,75,Southpaw,1
 388abbf8832b5adf,Jeff,Joslin,Jeff Joslin,The Inferno,"6' 0""",170,--,Orthodox,5,3,0,"Apr 30, 1975",2.17,39,1.57,65,0.5,33,64,0.5
 4e06913c91da5200,Krzysztof,Jotko,Krzysztof Jotko,,"6' 1""",185,77,Southpaw,22,4,0,"Aug 19, 1989",2.98,45,1.9,58,1.27,35,87,0.1
 cf65d56b0755ed3b,Alan,Jouban,Alan Jouban,Brahma,"6' 0""",170,73,Southpaw,17,7,0,"Nov 25, 1981",5.67,50,3.77,60,0.51,44,58,0.3
-f1d64ae34e088832,Charles,Jourdain,Charles Jourdain,Air,"5' 9""",145,69,Switch,10,3,1,"Nov 27, 1995",4.13,43,3.85,60,0.0,0,47,0.8
+f1d64ae34e088832,Charles,Jourdain,Charles Jourdain,Air,"5' 9""",145,69,Switch,11,3,1,"Nov 27, 1995",4.79,45,4.11,61,0.0,0,47,0.7
 35080a7f406f9ab3,Mike,Joy,Mike Joy,,"5' 6""",155,--,Southpaw,11,8,0,"Jul 18, 1985",0.57,33,1.71,47,0.78,33,0,2.3
 791367e8c35cfb6a,Dustin,Joynson,Dustin Joynson,,"6' 6""",244,78,Orthodox,5,0,0 (1 NC),"Oct 14, 1985",3.28,53,5.63,47,0.0,0,0,0.0
 97f3692d5444a80a,Tony,Juarez,Tony Juarez,,--,155,--,,1,12,0,--,0.89,25,10.34,38,4.43,100,66,0.0
@@ -1594,7 +1596,7 @@ f3a078277b3b8ff4,Masanori,Kanehara,Masanori Kanehara,,"5' 7""",135,67,Orthodox,2
 5345f86680378fc1,Ken,Kaneko,Ken Kaneko,,"6' 0""",161,--,Orthodox,0,3,0,--,0.0,0,0.94,42,0.0,0,0,3.5
 3c241737a6069b9f,Denis,Kang,Denis Kang,,"5' 11""",185,77,Orthodox,35,16,2 (2 NC),"Sep 17, 1977",2.27,35,1.65,67,2.51,65,38,1.2
 a7897d200692ab64,Kyung,Ho Kang,Kyung Ho Kang,Mr. Perfect,"5' 9""",135,73,Orthodox,17,8,0 (1 NC),"Sep 09, 1987",2.52,44,2.43,58,2.53,59,71,1.1
-5d1b7e3dd9e11074,Manel,Kape,Manel Kape,StarBoy,"5' 5""",125,68,Southpaw,15,5,0,"Nov 14, 1993",3.27,53,4.93,50,2.0,28,100,0.0
+5d1b7e3dd9e11074,Manel,Kape,Manel Kape,StarBoy,"5' 5""",125,68,Southpaw,15,6,0,"Nov 14, 1993",3.67,45,4.3,48,1.0,28,80,0.0
 5669b828e7e11329,David,Kaplan,David Kaplan,Diamond,"5' 7""",155,--,Orthodox,3,4,0,"Nov 16, 1979",2.88,46,4.32,67,4.88,43,0,0.7
 853eb0dd5c0e2149,Kai,Kara-France,Kai Kara-France,Don't Blink,"5' 4""",125,69,Orthodox,22,9,0 (1 NC),"Mar 26, 1993",5.02,39,3.84,66,0.53,23,86,0.0
 43292ecf0e72c143,Georgi,Karakhanyan,Georgi Karakhanyan,Insane,"5' 8""",145,--,,26,7,1,"May 29, 1985",4.49,39,5.0,54,1.41,50,33,1.9
@@ -1980,7 +1982,7 @@ abbc4fc02e0d84b3,Eric,Martin,Eric Martin,,--,--,--,,0,1,0,--,0.0,0,0.0,0,0.0,0,0
 8a9c6c4301f6d088,Danny,Martinez,Danny Martinez,The Gremlin,"5' 6""",125,67,Orthodox,21,8,0,"Jun 14, 1985",2.73,28,3.77,63,3.0,45,36,0.0
 feffee4fc6da3aa3,Alonzo,Martinez,Alonzo Martinez,Zo Diddy,"5' 10""",155,--,,42,20,1,"Apr 22, 1984",3.07,27,7.33,52,0.0,0,0,0.0
 76729a829623e266,Henry,Martinez,Henry Martinez,Sicario,"5' 7""",155,69,Southpaw,9,4,0,"Aug 07, 1983",2.79,25,4.01,60,0.0,0,80,0.0
-f2477cf43c4975cc,Jonathan,Martinez,Jonathan Martinez,Dragon,"5' 8""",145,70,Southpaw,13,3,0,"Apr 20, 1994",4.34,46,3.61,58,0.53,37,61,0.0
+f2477cf43c4975cc,Jonathan,Martinez,Jonathan Martinez,Dragon,"5' 8""",135,70,Southpaw,13,4,0,"Apr 20, 1994",4.27,46,3.81,58,0.48,37,63,0.0
 8851bb0418d27d28,Poppies,Martinez,Poppies Martinez,The Tachi Kid,"5' 9""",145,--,,29,11,0,"Aug 19, 1983",2.88,50,2.16,51,1.54,33,50,9.2
 f8c2aba4815876b5,Andrew,Martinez,Andrew Martinez,Mickey D,"5' 9""",215,--,,9,6,0,--,3.4,31,2.3,47,1.5,50,0,0.0
 c0386644627a7ee5,Mana,Martinez,Mana Martinez,ManaBoi,"5' 10""",135,70,Orthodox,6,2,0,"Mar 25, 1996",2.11,62,1.27,50,0.0,0,0,6.3
@@ -2217,7 +2219,7 @@ ae922e7d9e852d7a,Kin,Moy,Kin Moy,Kong,"5' 5""",135,--,,8,3,0,--,2.3,33,1.93,62,1
 3cf18e01cb6cbde3,Su,Mudaerji,Su Mudaerji,The Tibetan Eagle,"5' 8""",125,72,Southpaw,14,4,0,"Jan 20, 1996",4.49,51,2.19,68,0.4,100,77,0.8
 d0c325dfefdde31f,Garrett,Mueller,Garrett Mueller,,"5' 9""",135,--,,3,3,0,"Jan 29, 1989",0.0,0,0.0,0,0.0,0,0,0.0
 f923e012414c883e,Lauren,Mueller,Lauren Mueller,Princess Tiger,"5' 5""",125,67,Orthodox,5,3,0,"Nov 15, 1991",4.08,41,3.77,58,0.7,50,71,0.0
-b1b0729d27936f2f,Belal,Muhammad,Belal Muhammad,Remember the Name,"5' 11""",170,72,Orthodox,18,3,0,"Jul 09, 1988",4.86,43,4.03,60,2.03,28,84,0.2
+b1b0729d27936f2f,Belal,Muhammad,Belal Muhammad,Remember the Name,"5' 11""",170,72,Orthodox,18,3,0 (1 NC),"Jul 09, 1988",4.75,43,4.02,60,1.97,28,85,0.2
 2252b2c892397f0d,Fazlo,Mulabitinovic,Fazlo Mulabitinovic,,--,135,--,,4,2,0,--,0.54,16,0.0,100,0.0,0,0,8.0
 16af2d5a6f28bee2,Quinn,Mulhern,Quinn Mulhern,,"6' 3""",155,--,Orthodox,18,4,0,"Sep 20, 1984",1.48,28,2.09,51,1.36,20,33,0.0
 8d5350fa18b79e9a,James,Mulheron,James Mulheron,,"5' 10""",243,73,Orthodox,11,2,0,"Feb 20, 1988",2.4,31,3.47,42,0.0,0,25,0.0
@@ -2309,7 +2311,7 @@ fbbbc68d368832fa,Emanuel,Newton,Emanuel Newton,The Hardcore Kid,"6' 1""",205,--,
 69037fc7730e4225,Steven,Nguyen,Steven Nguyen,,"5' 11""",145,--,Switch,3,1,0,"May 19, 1993",6.3,31,9.04,59,0.0,0,100,0.0
 2b6d855c6e280fb1,Alex,Nicholson,Alex Nicholson,The Spartan,"6' 4""",185,77,Orthodox,7,4,0,"May 02, 1990",4.12,43,4.65,47,0.0,0,50,0.5
 330ec26453c44a59,Mike,Nickels,Mike Nickels,,"6' 4""",205,--,Orthodox,9,5,0,"Dec 13, 1971",4.44,52,1.11,64,11.11,80,0,2.8
-1a31ef98efce7a79,Matheus,Nicolau,Matheus Nicolau,,"5' 6""",125,66,Orthodox,15,3,1,"Jan 06, 1993",3.83,51,2.43,70,1.9,66,100,1.6
+1a31ef98efce7a79,Matheus,Nicolau,Matheus Nicolau,,"5' 6""",125,66,Orthodox,16,3,1,"Jan 06, 1993",3.79,52,2.83,67,1.93,44,100,1.4
 3edf45e1717fa764,Jaimelene,Nievera,Jaimelene Nievera,Queenie,"5' 5""",125,--,Orthodox,7,4,0,"Oct 28, 1984",1.67,53,8.73,33,1.79,16,0,0.0
 52a003d768f10d91,Khomkrit,Niimi,Khomkrit Niimi,The Bumblebee,"5' 2""",125,--,,6,10,0,--,0.0,0,5.73,44,0.0,0,0,0.0
 5fceb45939fc0c8a,Tom,Niinimaki,Tom Niinimaki,Stoneface,"5' 9""",145,69,Orthodox,22,8,1,"Jul 25, 1982",1.91,54,2.31,58,2.97,46,33,0.5
@@ -2734,7 +2736,7 @@ cbf5e6f231b55443,Yair,Rodriguez,Yair Rodriguez,El Pantera,"5' 11""",145,71,Ortho
 18b602842a24f7c5,Mike,Rodriguez,Mike Rodriguez,Slo Mike,"6' 4""",205,82,Southpaw,11,6,0 (1 NC),"Nov 28, 1988",4.61,59,3.39,40,0.0,0,41,0.0
 cd2c4d30c6e13b47,Marina,Rodriguez,Marina Rodriguez,,"5' 6""",115,65,Orthodox,13,1,2,"Apr 29, 1987",4.86,50,3.16,53,0.36,33,59,0.2
 8a1f3b5c526cd6e6,Daniel,Rodriguez,Daniel Rodriguez,D-Rod,"6' 1""",170,74,Southpaw,13,2,0,"Dec 31, 1986",7.68,46,6.12,57,1.34,62,90,0.3
-90e0985df05e51bc,Ray,Rodriguez,Ray Rodriguez,The Judge,"5' 7""",135,71,Orthodox,16,7,0,"Dec 10, 1987",1.24,32,5.73,40,2.32,50,40,0.0
+90e0985df05e51bc,Ray,Rodriguez,Ray Rodriguez,The Judge,"5' 7""",135,70,Orthodox,16,8,0,"Dec 10, 1987",0.9,27,3.89,40,1.42,50,44,0.0
 f2900678e98f6d6a,Luis,Rodriguez,Luis Rodriguez,Lazy Boy,"5' 6""",125,65,Orthodox,11,2,0,"May 07, 1999",1.27,37,3.2,54,2.0,50,100,2.0
 dc3b9cf7641b7ab6,Drako,Rodriguez,Drako Rodriguez,,"5' 8""",135,69,Orthodox,7,2,0,"Jun 16, 1996",2.57,35,2.57,26,2.75,100,0,2.8
 f6e5972c9d16c40e,Victor,Rodriguez,Victor Rodriguez,Vicious,"5' 5""",135,67,Switch,7,3,0,"Sep 05, 1992",2.17,46,6.14,50,0.0,0,0,0.0
@@ -2744,7 +2746,7 @@ ab943cd2c3c17825,Marcos,Rogerio de Lima,Marcos Rogerio de Lima,Pezao,"6' 1""",25
 f304aff405c4a8fa,Brian,Rogers,Brian Rogers,The Professional Predator,"5' 11""",185,--,,14,9,0,"Feb 15, 1984",4.79,38,5.76,58,1.22,50,100,0.6
 36f3d235493d35ad,Pete,Rogers Jr.,Pete Rogers Jr.,The Heat,"6' 0""",145,--,,2,4,0,--,0.66,15,1.71,65,0.0,0,0,0.0
 59a27d2e6d0802ac,Max,Rohskopf,Max Rohskopf,Rated R,"6' 1""",155,71,Orthodox,5,1,0,"Sep 27, 1994",1.7,31,5.8,42,3.0,33,0,1.5
-2804ce8dadab5770,Marcelo,Rojo,Marcelo Rojo,Pitbull,"5' 8""",135,--,Orthodox,16,7,0,"Jul 02, 1988",0.0,0,0.0,0,0.0,0,0,0.0
+2804ce8dadab5770,Marcelo,Rojo,Marcelo Rojo,Pitbull,"5' 8""",145,71,Orthodox,16,8,0,"Jul 02, 1988",5.1,36,7.3,51,1.03,50,100,0.0
 75e0d3cc2262b732,Shane,Roller,Shane Roller,,"5' 10""",155,72,Orthodox,11,7,0,"Jul 14, 1979",2.04,34,2.65,60,2.46,33,42,1.9
 c4b6099f0d25f75e,Jared,Rollins,Jared Rollins,J-Roc,"5' 9""",170,--,Orthodox,8,4,0,"Jan 26, 1977",3.33,57,2.41,39,2.5,50,50,1.2
 3b83fec860a45ca1,Tim,Roman,Tim Roman,,"6' 1""",170,--,,3,4,0,"Jun 08, 1985",0.6,40,2.4,40,1.0,100,16,0.0
@@ -2753,6 +2755,7 @@ c0badf3243907e59,Alexandr,Romanov,Alexandr Romanov,King Kong,"6' 2""",262,75,Sou
 f77c68bb4be8516d,Yoel,Romero,Yoel Romero,Soldier of God,"6' 0""",185,73,Southpaw,13,5,0,"Apr 30, 1977",3.44,49,3.05,60,1.57,30,78,0.0
 6f81399074fcdbba,Anthony,Romero,Anthony Romero,The Genius,"5' 11""",155,70,Orthodox,8,0,0,"Feb 25, 1997",5.87,52,4.0,65,2.0,22,100,0.0
 82cbb809d5ee565c,Mara,Romero Borella,Mara Romero Borella,,"5' 6""",125,69,Orthodox,12,9,0 (2 NC),"Jun 03, 1986",2.54,37,2.48,71,1.83,44,66,0.2
+a13d755965a4ec9f,Rong,Zhu,Rong Zhu,,--,135,--,,16,3,0,"Mar 07, 2000",0.0,0,0.0,0,0.0,0,0,0.0
 5580771f383e141f,Jesse,Ronson,Jesse Ronson,The Body Snatcher,"5' 10""",170,70,Southpaw,21,10,0 (1 NC),"Dec 24, 1985",3.54,49,2.99,59,0.63,40,61,0.6
 3c0437fbeda06962,George,Roop,George Roop,,"6' 1""",135,72,Orthodox,15,13,1,"Nov 10, 1981",3.43,34,2.47,60,1.05,57,59,0.1
 0f6528b461e47462,Joao,Roque,Joao Roque,,"5' 6""",155,--,Orthodox,7,2,4,"Jul 22, 1971",0.0,0,0.0,0,0.0,0,0,0.0
@@ -2925,7 +2928,7 @@ d6b68eaf4b68b160,Rony,Sefo,Rony Sefo,,"5' 9""",225,--,Orthodox,0,2,0,--,0.0,0,0.
 e4bb7e483c4ad318,Brendan,Seguin,Brendan Seguin,,"6' 0""",185,--,,23,19,1,"Jul 03, 1976",2.6,45,0.6,84,5.0,62,100,0.0
 348dff4e03bd18c6,Stefan,Sekulic,Stefan Sekulic,,"6' 0""",170,75,Southpaw,12,3,0,"Feb 12, 1992",1.47,37,2.4,57,1.0,20,33,0.0
 0359313549d230a1,Pete,Sell,Pete Sell,Drago,"5' 11""",170,75,Orthodox,10,7,0,"Aug 05, 1982",2.6,42,3.65,51,0.91,21,47,0.9
-4aa58269d0664b5b,Matthew,Semelsberger,Matthew Semelsberger,Semi The Jedi,"6' 1""",170,--,Switch,7,2,0,"Nov 23, 1992",7.87,50,5.13,57,2.0,100,100,1.0
+4aa58269d0664b5b,Matthew,Semelsberger,Matthew Semelsberger,Semi The Jedi,"6' 1""",170,75,Switch,8,2,0,"Nov 23, 1992",7.93,50,5.31,56,1.97,100,100,1.0
 5f2f0da6fd6a84fd,Andrei,Semenov,Andrei Semenov,,"6' 0""",185,--,Orthodox,34,9,2,"Jun 17, 1977",0.78,15,2.44,60,1.74,80,55,0.4
 51b1e2fd9872005b,Mackens,Semerzier,Mackens Semerzier,Da Menace,"5' 9""",145,72,Orthodox,8,4,0 (1 NC),"Nov 03, 1980",2.91,45,3.48,46,2.14,50,50,2.1
 3ed134d85dfbd7b4,Brandon,Sene,Brandon Sene,,"5' 11""",205,--,,2,2,0,"May 21, 1981",0.0,0,0.0,0,0.0,0,0,0.0
@@ -3057,6 +3060,7 @@ af65aa688d13eedf,Joe,Solecki,Joe Solecki,,"5' 9""",155,70,Orthodox,10,2,0,"Aug 2
 83b743fedde154fb,Joe,Son,Joe Son,,"5' 4""",236,--,Orthodox,0,4,0,"Nov 22, 1970",0.0,0,0.0,0,0.0,0,0,0.0
 9775eabcb1be1a00,Paul,Song,Paul Song,,--,185,--,,2,2,0,--,0.0,0,0.0,0,0.0,0,0,0.0
 32490e80ddab1e5a,Song,Kenan,Song Kenan,The Assassin,"6' 0""",170,71,Orthodox,16,5,0,"Mar 10, 1990",4.3,45,4.2,56,0.0,0,45,0.0
+efb96bf3e9ada36f,Song,Yadong,Song Yadong,,"5' 8""",145,67,Orthodox,16,5,1 (1 NC),"Dec 02, 1997",4.35,42,3.64,57,0.59,75,56,0.4
 48d1f690b763934c,Chael,Sonnen,Chael Sonnen,,"6' 1""",205,73,Southpaw,29,15,1,"Apr 03, 1977",3.08,43,1.1,62,3.81,59,66,0.4
 3324129f3745b300,Cody,Sons,Cody Sons,,"5' 9""",205,--,,3,7,0,--,0.0,0,0.0,0,0.0,0,0,0.0
 7c9c6a884be167fe,Jin,Soo Son,Jin Soo Son,,"5' 6""",135,69,Orthodox,9,4,0,"Apr 01, 1993",5.1,36,7.63,52,1.5,25,100,0.0
@@ -3080,7 +3084,7 @@ dab8cfbb6b1db10a,Livinha,Souza,Livinha Souza,The Brazilian Gangsta,"5' 3""",115,
 c278e8843b8abfec,Charon,Spain,Charon Spain,,"5' 9""",155,--,,14,26,0,"Mar 11, 1988",0.0,0,0.0,0,0.0,0,0,0.0
 411d012af19ecb59,Chris,Spang,Chris Spang,The Kiss,"6' 2""",170,--,Orthodox,6,3,0,"Nov 26, 1987",1.83,36,1.95,60,0.0,0,50,0.9
 b9eb5b4ed07d1525,Andreas,Spang,Andreas Spang,Sweet Swede,"6' 1""",185,--,,9,3,0,"Nov 07, 1978",0.0,0,0.0,0,0.0,0,0,0.0
-a67f5afa8d6a1b80,Ryan,Spann,Ryan Spann,Superman,"6' 5""",205,79,Orthodox,18,6,0,"Aug 24, 1991",3.27,44,3.43,46,1.76,41,60,1.8
+a67f5afa8d6a1b80,Ryan,Spann,Ryan Spann,Superman,"6' 5""",205,79,Orthodox,19,6,0,"Aug 24, 1991",3.55,45,3.45,47,1.72,41,60,1.7
 743fd9080892501d,Ron,Sparks,Ron Sparks,The Monster,"6' 5""",265,--,,8,3,0,--,0.0,0,0.0,0,0.0,0,0,0.0
 1411c630ba711b64,Tommy,Speer,Tommy Speer,,"5' 10""",170,71,Orthodox,21,7,0,"Aug 20, 1984",2.56,51,5.12,35,2.02,33,33,0.0
 ae4650eb56ab6a11,Patrick,Speight,Patrick Speight,,"6' 1""",170,--,Orthodox,7,3,0,--,0.0,0,0.0,0,0.0,0,0,0.0
@@ -3123,7 +3127,7 @@ cb696ebfb6598724,Aljamain,Sterling,Aljamain Sterling,Funk Master,"5' 7""",135,71
 79899ecf62020f6d,Joe,Stevenson,Joe Stevenson,Daddy,"5' 7""",145,70,Orthodox,33,16,0,"Jun 15, 1982",2.05,44,2.44,60,2.75,44,39,2.2
 2fee10d5cf86bfca,Maia,Stevenson,Maia Stevenson,,"5' 4""",115,62,Orthodox,6,5,0,"Mar 19, 1982",1.57,54,3.13,33,3.91,100,50,0.0
 27b1a406ac171b19,Luke,Stewart,Luke Stewart,,"5' 11""",170,--,Orthodox,6,3,0,--,3.75,56,2.34,53,3.75,33,50,1.9
-a17ad5a5048e8c3f,Darren,Stewart,Darren Stewart,The Dentist,"6' 0""",185,74,Orthodox,12,6,0 (1 NC),"Dec 30, 1990",3.08,44,2.82,52,1.56,40,66,0.1
+a17ad5a5048e8c3f,Darren,Stewart,Darren Stewart,The Dentist,"6' 0""",185,74,Orthodox,12,6,0 (2 NC),"Dec 30, 1990",3.09,44,3.09,50,1.5,40,65,0.1
 bb61823f76361297,Kyle,Stewart,Kyle Stewart,Gunz Up,"6' 0""",170,76,Orthodox,11,3,0,"Jan 31, 1989",1.41,35,2.42,43,1.32,20,60,0.0
 df5a77121ba84a5d,Alex,Stiebling,Alex Stiebling,The Brazilian Killa,"6' 2""",205,--,Southpaw,19,11,1 (1 NC),--,1.77,42,1.45,52,0.35,66,66,0.7
 2cf520143e76cd2e,Tyler,Stinson,Tyler Stinson,The Evolution,"6' 3""",170,--,,30,10,0,"Jan 17, 1986",2.8,23,4.6,56,0.5,100,0,0.5
@@ -3142,6 +3146,7 @@ fbf0947399d14323,Ken,Stone,Ken Stone,,"5' 8""",135,71,Southpaw,11,4,0,"Oct 08, 1
 e09dbbd5fe3f0fe2,Curtis,Stout,Curtis Stout,,"6' 1""",185,--,Southpaw,11,12,1,"Nov 07, 1973",0.69,67,3.2,29,0.0,0,20,0.0
 501b07aec9b8fc2d,Sam,Stout,Sam Stout,Hands of Stone,"5' 9""",155,70,Orthodox,20,12,1,"Apr 23, 1984",4.17,28,4.08,57,0.63,38,77,0.1
 e1a4568fec1fc24f,Tim,Stout,Tim Stout,,"5' 11""",185,--,,12,10,0,"Feb 09, 1979",0.0,0,0.0,0,0.0,0,0,0.0
+8c39367b53eadf8a,Jesse,Strader,Jesse Strader,Sui Generis,"5' 8""",135,--,Orthodox,5,1,0,"May 29, 1991",0.0,0,0.0,0,0.0,0,0,0.0
 495add4fbede0a44,Gennaro,Strangis,Gennaro Strangis,,--,--,--,,0,1,0,--,0.0,0,0.0,0,0.0,0,0,0.0
 980b4e712489098e,Dave,Strasser,Dave Strasser,,"5' 10""",170,--,Orthodox,25,8,0,"Jul 13, 1969",3.04,45,1.88,59,0.72,33,33,0.0
 15347cd4cdf01b03,Daniel,Straus,Daniel Straus,,"5' 7""",145,71,,24,7,0 (1 NC),"Jul 27, 1984",4.76,43,2.99,57,0.84,15,81,1.1
@@ -3293,7 +3298,7 @@ e14b5aa06eea9653,Abel,Trujillo,Abel Trujillo,Killa,"5' 8""",155,70,Orthodox,15,8
 eae48ff31db420c2,Arman,Tsarukyan,Arman Tsarukyan,Ahalkalakets,"5' 7""",155,72,Orthodox,16,2,0,"Oct 11, 1996",3.35,44,1.43,62,3.5,35,78,0.0
 df05aa15b2d66f57,Chris,Tuchscherer,Chris Tuchscherer,The Crowbar,"6' 2""",258,76,Orthodox,21,4,0 (1 NC),"Sep 08, 1975",1.35,31,3.17,47,1.19,18,0,0.6
 53ec9cb470e1a4ea,Jon,Tuck,Jon Tuck,Super Saiyan,"5' 11""",155,73,Orthodox,10,5,0,"Aug 28, 1984",3.0,40,3.74,60,0.42,33,50,1.0
-da816417a579a0bd,Gavin,Tucker,Gavin Tucker,Guv'nor,"5' 6""",145,66,Southpaw,13,1,0,"Jun 17, 1986",4.4,45,4.29,57,3.0,42,53,1.5
+da816417a579a0bd,Gavin,Tucker,Gavin Tucker,Guv'nor,"5' 6""",145,66,Southpaw,13,2,0,"Jun 17, 1986",4.39,45,4.28,57,2.98,42,53,1.5
 1ed32eaaba9ffe10,Jumabieke,Tuerxun,Jumabieke Tuerxun,The Wild Wolf,"5' 7""",135,--,Orthodox,19,4,1,"Apr 17, 1986",1.6,28,3.08,59,0.47,11,66,0.9
 b9aa7d230865b5fe,Tom,Tuggle,Tom Tuggle,The Law,"6' 2""",250,--,Orthodox,0,3,0,--,0.0,0,2.14,0,32.14,100,0,0.0
 63f8775391301891,Blair,Tugman,Blair Tugman,,"6' 0""",135,--,,10,6,0,--,2.25,53,0.93,50,7.5,60,0,0.0
@@ -3500,7 +3505,7 @@ fc9a9559a05f2704,Eddie,Wineland,Eddie Wineland,,"5' 7""",135,69,Orthodox,24,15,1
 b45d6b73f4ca4467,Andre,Winner,Andre Winner,,"5' 11""",155,73,Orthodox,21,11,2,"Nov 09, 1981",2.52,33,4.57,51,0.0,0,74,0.0
 53f84637dfffab7a,Eric,Wisely,Eric Wisely,Little Lee,"5' 8""",145,--,Southpaw,26,9,1,"Jul 25, 1984",1.42,47,2.08,56,0.0,0,27,0.9
 cd12227edd3f134b,Keith,Wisniewski,Keith Wisniewski,The Polish Connection,"6' 0""",170,--,Orthodox,28,15,1,"Oct 25, 1981",2.32,52,4.86,42,1.57,40,78,0.3
-5f3805dda9661cba,Jason,Witt,Jason Witt,The Vanilla Gorilla,"5' 10""",170,70,Orthodox,18,6,0,"Nov 07, 1986",2.77,61,2.39,26,3.77,50,0,1.9
+5f3805dda9661cba,Jason,Witt,Jason Witt,The Vanilla Gorilla,"5' 10""",170,70,Orthodox,18,7,0,"Nov 07, 1986",3.16,65,2.68,29,3.65,50,0,1.8
 7f9f528cb72a6ed1,Travis,Wiuff,Travis Wiuff,The Diesel,"6' 3""",205,--,Orthodox,75,21,0 (1 NC),"Mar 15, 1978",0.48,30,4.03,41,4.84,57,44,1.2
 ea0ad155451ed1f5,Ray,Wizard,Ray Wizard,,--,--,--,,0,1,0,--,0.0,0,0.0,0,0.0,0,0,0.0
 a7e3f02fe2b2fe30,Danyelle,Wolf,Danyelle Wolf,,"5' 11""",145,70,Orthodox,1,0,0,"Sep 08, 1983",3.4,28,5.67,44,0.0,0,100,1.0
@@ -3521,10 +3526,9 @@ c878270af633eb11,Jordan,Wright,Jordan Wright,The Beverly Hills Ninja,"6' 2""",20
 aac6edb0d5e0b7e9,Marcin,Wrzosek,Marcin Wrzosek,The Polish Zombie,"5' 9""",155,--,,12,4,0,"Oct 14, 1987",3.47,43,4.07,43,3.0,25,33,0.0
 fdbefee0827e1567,Wu,Yanan,Wu Yanan,Mulan,"5' 8""",125,66,Orthodox,11,4,0,"Apr 18, 1996",4.51,45,4.82,51,0.61,22,66,0.3
 e6dac752a2418a88,Rubens,Xavier,Rubens Xavier,Macula,"6' 3""",220,--,Orthodox,5,3,0,--,0.77,42,1.82,21,2.1,40,25,1.1
-efb96bf3e9ada36f,Yadong,Song,Yadong Song,,"5' 8""",145,67,Orthodox,16,5,1 (1 NC),"Dec 02, 1997",4.35,42,3.64,57,0.59,75,56,0.4
 85248da6e9e2f7e7,Jamie,Yager,Jamie Yager,The Chosyn 1,"6' 1""",185,--,Orthodox,8,4,0,"Nov 29, 1983",3.08,39,2.55,63,0.0,0,66,0.0
 cc84b68f862b466f,Eddie,Yagin,Eddie Yagin,The Filipino Phenom,"5' 7""",145,--,Orthodox,16,7,1,"Mar 23, 1979",3.13,30,5.77,42,0.0,0,62,1.0
-94527830000ab715,Rani,Yahya,Rani Yahya,,"5' 6""",135,67,Orthodox,26,10,1 (1 NC),"Sep 12, 1984",1.59,36,1.74,50,2.86,32,24,2.0
+94527830000ab715,Rani,Yahya,Rani Yahya,,"5' 6""",135,67,Orthodox,27,10,1 (1 NC),"Sep 12, 1984",1.57,37,1.7,50,2.89,33,24,2.0
 d06f8869449ba7bd,Alexander,Yakovlev,Alexander Yakovlev,Russian Thunder,"6' 3""",155,74,Southpaw,24,10,1,"Jul 18, 1984",1.74,47,2.41,58,1.66,35,72,0.1
 6014d25e73b669c9,Keiichiro,Yamamiya,Keiichiro Yamamiya,,"5' 11""",185,--,Southpaw,45,35,10,"Jul 12, 1972",0.0,0,0.0,0,0.0,0,0,0.0
 9f488f520ed25bbf,Kenichi,Yamamoto,Kenichi Yamamoto,,"6' 0""",170,--,Orthodox,5,12,2,"Jul 11, 1976",0.3,46,1.93,38,0.0,0,10,0.3
@@ -3547,7 +3551,7 @@ a0b91014e9d16a76,Cale,Yarbrough,Cale Yarbrough,,"6' 1""",185,--,Orthodox,8,3,0,"
 49e7e05f902479ca,Tadao,Yasuda,Tadao Yasuda,,"6' 4""",310,--,Orthodox,2,4,0,"Oct 09, 1963",2.7,73,0.85,60,0.75,14,0,0.0
 620be7e0712d431b,Yoshiaki,Yatsu,Yoshiaki Yatsu,,"6' 1""",165,--,Orthodox,0,2,0,"Jul 19, 1956",0.0,0,5.57,48,0.0,0,0,0.0
 920632ca1b78fae5,Chris,Yee,Chris Yee,,"5' 9""",185,--,,4,6,0,--,0.0,0,0.0,0,0.0,0,0,0.0
-b4c6c904a9ffc5e8,Ashley,Yoder,Ashley Yoder,Spider Monkey,"5' 7""",115,69,Southpaw,8,6,0,"Oct 20, 1987",2.81,41,3.33,47,1.25,38,68,0.8
+b4c6c904a9ffc5e8,Ashley,Yoder,Ashley Yoder,Spider Monkey,"5' 7""",115,69,Southpaw,8,7,0,"Oct 20, 1987",2.75,39,3.53,46,1.33,37,68,0.7
 35585d970300d45a,Hirotaka,Yokoi,Hirotaka Yokoi,Kaibatsu-Kun,"5' 11""",205,--,Orthodox,11,5,0,"Jun 08, 1978",1.52,33,3.42,38,1.87,41,66,0.4
 a8e8587a06e73c87,Kazunori,Yokota,Kazunori Yokota,,"5' 8""",154,--,Orthodox,25,7,3,"Apr 03, 1978",0.67,31,1.13,57,0.0,0,0,0.0
 40eb2aef4d5577d4,John,Yoo,John Yoo,,--,135,--,,0,1,0,--,0.0,0,0.0,0,0.0,0,0,0.0

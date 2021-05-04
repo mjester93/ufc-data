@@ -1,4 +1,26 @@
 ﻿fight_id,event_id,event_name,event_date,ufcstats_id,fighter_name,fighter_odds
+394802bb096b403e,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,009341ed974bad72,Jiri Prochazka,-105
+394802bb096b403e,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,2e19380f34871c6a,Dominick Reyes,-115
+2f82e8079ba354f4,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,9560ff14eb3129f7,Giga Chikadze,-200
+2f82e8079ba354f4,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,d247691a6c0e9034,Cub Swanson,170
+ec8d93ae99a7799d,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,cd13728ae1151f46,Ion Cutelaba,-138
+ec8d93ae99a7799d,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,e4277e87a789d687,Dustin Jacoby,120
+ffd8e8575a551875,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,0d8011111be000b2,Sean Strickland,-250
+ffd8e8575a551875,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,4e06913c91da5200,Krzysztof Jotko,200
+26202a4bd36d3fd2,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,c03520b5c88ed6b4,Merab Dvalishvili,-270
+26202a4bd36d3fd2,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,bf7ad5628363eec9,Cody Stamann,220
+c9c79de21823d941,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,a3a542074109b347,Luana Pinheiro,-160
+c9c79de21823d941,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,4a57ebb14315b251,Randa Markos,135
+d72f9b3ac742a9e3,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,d31cbcdd7d69536d,TJ Brown,125
+d72f9b3ac742a9e3,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,eee0ef3e2b14816b,Kai Kamaka,-145
+2ef09c8fe29251ac,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,528b071cf3da7c56,Luana Carolina,200
+2ef09c8fe29251ac,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,5c126c6aac3ef364,Poliana Botelho,-250
+d6b5a6ad27a730ae,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,4e30e4250cb08b61,Loma Lookboonmee,-390
+d6b5a6ad27a730ae,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,e94085e821bd81de,Sam Hughes,305
+78dc032441394331,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,79325a3c1a5c3bf4,Andreas Michailidis,-220
+78dc032441394331,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,9cd047a828dd7515,KB Bhullar,180
+3d790112d2e6d851,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,dbac0a413af64bbe,Felipe Colares,105
+3d790112d2e6d851,d57e6a8971b6d2bd,UFC Fight Night: Reyes vs. Prochazka,1-May-21,96428b9e9bd048ea,Luke Sanders,-125
 6a5eb525331fa1fc,27541033b97c076d,UFC 261: Usman vs. Masvidal 2,24-Apr-21,f1b2aa7853d1ed6e,Kamaru Usman,-340
 6a5eb525331fa1fc,27541033b97c076d,UFC 261: Usman vs. Masvidal 2,24-Apr-21,47b9e0e7703a4868,Jorge Masvidal,270
 6d8da45352344964,27541033b97c076d,UFC 261: Usman vs. Masvidal 2,24-Apr-21,47b63240018d5d86,Rose Namajunas,170

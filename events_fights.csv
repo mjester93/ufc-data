@@ -1,4 +1,26 @@
 event_id,fight_id,fighter_one_id,fighter_one_name,fighter_two_id,fighter_two_name,winning_fighter,weight_class,fighter_id,fighter_name
+c95fbc085e17a532,18f19b1422e8154b,,,,,b9706f80d005036c,Women's Bantamweight,b9706f80d005036c,Ketlen Vieira
+c95fbc085e17a532,18f19b1422e8154b,,,,,b9706f80d005036c,Women's Bantamweight,b96619b3acd7d9da,Miesha Tate
+c95fbc085e17a532,50bf4bb2f8d9aba4,,,,,45f7cb591c3ab00b,Welterweight,45f7cb591c3ab00b,Sean Brady
+c95fbc085e17a532,50bf4bb2f8d9aba4,,,,,45f7cb591c3ab00b,Welterweight,c58f51dedb310998,Michael Chiesa
+c95fbc085e17a532,bb15c0a2911043bd,,,,,f7467152fd9f18a2,Women's Flyweight,f7467152fd9f18a2,Taila Santos
+c95fbc085e17a532,bb15c0a2911043bd,,,,,f7467152fd9f18a2,Women's Flyweight,12f91bfa8f1f723b,Joanne Wood
+c95fbc085e17a532,1cd8f5a107f64e39,,,,,94527830000ab715,Bantamweight,94527830000ab715,Rani Yahya
+c95fbc085e17a532,1cd8f5a107f64e39,,,,,94527830000ab715,Bantamweight,a7897d200692ab64,Kyung Ho Kang
+c95fbc085e17a532,9b9ef12603e820ec,,,,,0232cabbc30a2372,Bantamweight,0232cabbc30a2372,Adrian Yanez
+c95fbc085e17a532,9b9ef12603e820ec,,,,,0232cabbc30a2372,Bantamweight,113df4fde64735c6,Davey Grant
+c95fbc085e17a532,f592f168f3b8b807,,,,,b8bbdeff718dbb7d,Featherweight,b8bbdeff718dbb7d,Pat Sabatini
+c95fbc085e17a532,f592f168f3b8b807,,,,,b8bbdeff718dbb7d,Featherweight,7832f2f62f04178f,Tucker Lutz
+c95fbc085e17a532,fd60e75303622e5e,,,,,e132d47bd9efbbe0,Lightweight,e132d47bd9efbbe0,Rafa Garcia
+c95fbc085e17a532,fd60e75303622e5e,,,,,e132d47bd9efbbe0,Lightweight,a29db9cd4f9ccea5,Natan Levy
+c95fbc085e17a532,450534f9fb9b13cd,,,,,8e5d953bdb9ae5e7,Women's Strawweight,8e5d953bdb9ae5e7,Loopy Godinez
+c95fbc085e17a532,450534f9fb9b13cd,,,,,8e5d953bdb9ae5e7,Women's Strawweight,4e30e4250cb08b61,Loma Lookboonmee
+c95fbc085e17a532,84c68c4c387d2e32,,,,,7f6ed67d3ed3c036,Flyweight,7f6ed67d3ed3c036,Cody Durden
+c95fbc085e17a532,84c68c4c387d2e32,,,,,7f6ed67d3ed3c036,Flyweight,7d420039bbfe7c1a,Aoriqileng
+c95fbc085e17a532,1ff89e2a9cc2f2d2,,,,,0a73acff6325c1e2,Featherweight,0a73acff6325c1e2,Shayilan Nuerdanbieke
+c95fbc085e17a532,1ff89e2a9cc2f2d2,,,,,0a73acff6325c1e2,Featherweight,bd5403efbaa445c0,Sean Soriano
+c95fbc085e17a532,8dd086e2e70144fd,,,,,a3a542074109b347,Women's Strawweight,a3a542074109b347,Luana Pinheiro
+c95fbc085e17a532,8dd086e2e70144fd,,,,,a3a542074109b347,Women's Strawweight,e94085e821bd81de,Sam Hughes
 b5abaa65f87938eb,147e984aa34e3028,,,,,150ff4cc642270b9,Featherweight,150ff4cc642270b9,Max Holloway
 b5abaa65f87938eb,147e984aa34e3028,,,,,150ff4cc642270b9,Featherweight,cbf5e6f231b55443,Yair Rodriguez
 b5abaa65f87938eb,1013cdbb6c9a4a2e,,,,,ab943cd2c3c17825,Heavyweight,ab943cd2c3c17825,Marcos Rogerio de Lima

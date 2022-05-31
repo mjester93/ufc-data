@@ -1,4 +1,296 @@
 event_id,fight_id,fighter_one_id,fighter_one_name,fighter_two_id,fighter_two_name,winning_fighter,weight_class,fighter_id,fighter_name
+a6c32678efd4f434,7a2c841693b54dd7,,,,,b9706f80d005036c,Women's Bantamweight,b9706f80d005036c,Ketlen Vieira
+a6c32678efd4f434,7a2c841693b54dd7,,,,,b9706f80d005036c,Women's Bantamweight,634e2fb70bde3fd5,Holly Holm
+a6c32678efd4f434,5d4fb748ad246269,,,,,595db60957de51d3,Welterweight,595db60957de51d3,Michel Pereira
+a6c32678efd4f434,5d4fb748ad246269,,,,,595db60957de51d3,Welterweight,6d1bffff14897645,Santiago Ponzinibbio
+a6c32678efd4f434,f682118709b4143e,,,,,c68c68efaa5ca6ef,Middleweight,c68c68efaa5ca6ef,Chidi Njokuani
+a6c32678efd4f434,f682118709b4143e,,,,,c68c68efaa5ca6ef,Middleweight,866fd7b1a6c90e7f,Dusko Todorovic
+a6c32678efd4f434,5eaff5c832430378,,,,,d25240135aee03e5,Women's Strawweight,d25240135aee03e5,Tabatha Ricci
+a6c32678efd4f434,5eaff5c832430378,,,,,d25240135aee03e5,Women's Strawweight,9673a497a9da119a,Polyana Viana
+a6c32678efd4f434,4a789cdd5aaf4439,,,,,285ae0b4a68221f4,Middleweight,285ae0b4a68221f4,Junyong Park
+a6c32678efd4f434,4a789cdd5aaf4439,,,,,285ae0b4a68221f4,Middleweight,cad24459b28592ca,Eryk Anders
+a6c32678efd4f434,cbdfb3c648d7bada,,,,,8d20d76af3f213ce,Middleweight,8d20d76af3f213ce,Joseph Holmes
+a6c32678efd4f434,cbdfb3c648d7bada,,,,,8d20d76af3f213ce,Middleweight,70fa1c64a2c439ef,Alen Amedovski
+a6c32678efd4f434,1b4d0c9e3c59b33b,,,,,41e83a89929d1327,Heavyweight,41e83a89929d1327,Jailton Almeida
+a6c32678efd4f434,1b4d0c9e3c59b33b,,,,,41e83a89929d1327,Heavyweight,ac40f7e3cbecdda4,Parker Porter
+a6c32678efd4f434,534c07488396e124,,,,,681399317dbf4701,Lightweight,681399317dbf4701,Uros Medic
+a6c32678efd4f434,534c07488396e124,,,,,681399317dbf4701,Lightweight,a0e6753c42698f13,Omar Morales
+a6c32678efd4f434,3542f9f30926f364,,,,,f2477cf43c4975cc,Bantamweight,f2477cf43c4975cc,Jonathan Martinez
+a6c32678efd4f434,3542f9f30926f364,,,,,f2477cf43c4975cc,Bantamweight,37098a6e6c27fb66,Vince Morales
+a6c32678efd4f434,5136dc566f46daf6,,,,,971246648e162f0d,Featherweight,971246648e162f0d,Chase Hooper
+a6c32678efd4f434,5136dc566f46daf6,,,,,971246648e162f0d,Featherweight,dbac0a413af64bbe,Felipe Colares
+a6c32678efd4f434,bc7228d30ff5be46,,,,,e94085e821bd81de,Women's Strawweight,e94085e821bd81de,Sam Hughes
+a6c32678efd4f434,bc7228d30ff5be46,,,,,e94085e821bd81de,Women's Strawweight,ac7c765882f2c68c,Elise Reed
+60ba33c3f555a7a3,5c281439d20184f1,,,,,99df7d0a2a08a8a8,Light Heavyweight,99df7d0a2a08a8a8,Jan Blachowicz
+60ba33c3f555a7a3,5c281439d20184f1,,,,,99df7d0a2a08a8a8,Light Heavyweight,333b9e5c723ac873,Aleksandar Rakic
+60ba33c3f555a7a3,2fa88b72973478b6,,,,,a67f5afa8d6a1b80,Light Heavyweight,a67f5afa8d6a1b80,Ryan Spann
+60ba33c3f555a7a3,2fa88b72973478b6,,,,,a67f5afa8d6a1b80,Light Heavyweight,cd13728ae1151f46,Ion Cutelaba
+60ba33c3f555a7a3,43543a2c1c7a7135,,,,,113df4fde64735c6,Bantamweight,113df4fde64735c6,Davey Grant
+60ba33c3f555a7a3,43543a2c1c7a7135,,,,,113df4fde64735c6,Bantamweight,d2bc285ead803db0,Louis Smolka
+60ba33c3f555a7a3,fad150a0288efbd7,,,,,e872e9a9a902c045,Women's Flyweight,e872e9a9a902c045,Katlyn Chookagian
+60ba33c3f555a7a3,fad150a0288efbd7,,,,,e872e9a9a902c045,Women's Flyweight,beecb672a279223e,Amanda Ribas
+60ba33c3f555a7a3,e240d6f77747ec46,,,,,2e7878927067fdca,Lightweight,2e7878927067fdca,Manuel Torres
+60ba33c3f555a7a3,e240d6f77747ec46,,,,,2e7878927067fdca,Lightweight,764342d39cdaa54a,Frank Camacho
+60ba33c3f555a7a3,b3248692dfb954b2,,,,,253076a23d03dcd0,Flyweight,253076a23d03dcd0,Allan Nascimento
+60ba33c3f555a7a3,b3248692dfb954b2,,,,,253076a23d03dcd0,Flyweight,60a42bf82447c919,Jake Hadley
+60ba33c3f555a7a3,7e047b195135ef06,,,,,36541f1e6c5d4955,Women's Flyweight,36541f1e6c5d4955,Viviane Araujo
+60ba33c3f555a7a3,7e047b195135ef06,,,,,36541f1e6c5d4955,Women's Flyweight,05fa626cb33d15b8,Andrea Lee
+60ba33c3f555a7a3,8a1aa64eb1f17913,,,,,511e82663651438d,Lightweight,511e82663651438d,Michael Johnson
+60ba33c3f555a7a3,8a1aa64eb1f17913,,,,,511e82663651438d,Lightweight,cd7763bcadb5d4c8,Alan Patrick
+60ba33c3f555a7a3,f549164690d723bb,,,,,7dda2cf308f24a02,Women's Strawweight,7dda2cf308f24a02,Virna Jandiroba
+60ba33c3f555a7a3,f549164690d723bb,,,,,7dda2cf308f24a02,Women's Strawweight,f0feeb2192937424,Angela Hill
+60ba33c3f555a7a3,22f1133d02700bb2,,,,,4461d7e47375a895,Flyweight,4461d7e47375a895,Tatsuro Taira
+60ba33c3f555a7a3,22f1133d02700bb2,,,,,4461d7e47375a895,Flyweight,760a55d5b6098cbe,Carlos Candelario
+60ba33c3f555a7a3,afed0bac5ce5a2f3,,,,,5f61780fe5e9b6d0,Middleweight,5f61780fe5e9b6d0,Andre Petroski
+60ba33c3f555a7a3,afed0bac5ce5a2f3,,,,,5f61780fe5e9b6d0,Middleweight,12585614e0ed2626,Nick Maximov
+253d3f9e97ca149a,7d4e49d8a6678157,,,,,07225ba28ae309b6,Lightweight,07225ba28ae309b6,Charles Oliveira
+253d3f9e97ca149a,7d4e49d8a6678157,,,,,07225ba28ae309b6,Lightweight,9e8f6c728eb01124,Justin Gaethje
+253d3f9e97ca149a,9d61012a6020516e,,,,,d910665038efc639,Women's Strawweight,d910665038efc639,Carla Esparza
+253d3f9e97ca149a,9d61012a6020516e,,,,,d910665038efc639,Women's Strawweight,47b63240018d5d86,Rose Namajunas
+253d3f9e97ca149a,a2ebb5f86eb64f22,,,,,4b93a88f3b1de35b,Lightweight,4b93a88f3b1de35b,Michael Chandler
+253d3f9e97ca149a,a2ebb5f86eb64f22,,,,,4b93a88f3b1de35b,Lightweight,22a92d7f62195791,Tony Ferguson
+253d3f9e97ca149a,c020ccbd7cdefb6e,,,,,50db8711c70196cd,Light Heavyweight,50db8711c70196cd,Ovince Saint Preux
+253d3f9e97ca149a,c020ccbd7cdefb6e,,,,,50db8711c70196cd,Light Heavyweight,140745cbbcb023ac,Mauricio Rua
+253d3f9e97ca149a,8390441d93736719,,,,,c6aee362c7a7d482,Welterweight,c6aee362c7a7d482,Randy Brown
+253d3f9e97ca149a,8390441d93736719,,,,,c6aee362c7a7d482,Welterweight,2558ae2e5671e318,Khaos Williams
+253d3f9e97ca149a,6a902b97ac98c283,,,,,a8283a4f415e1eb9,Welterweight,a8283a4f415e1eb9,Francisco Trinaldo
+253d3f9e97ca149a,6a902b97ac98c283,,,,,a8283a4f415e1eb9,Welterweight,a6cba6bb66c1a8c9,Danny Roberts
+253d3f9e97ca149a,fc4939b3c9071e66,,,,,9cdd2da1a9104a0b,Women's Featherweight,9cdd2da1a9104a0b,Macy Chiasson
+253d3f9e97ca149a,fc4939b3c9071e66,,,,,9cdd2da1a9104a0b,Women's Featherweight,d3f5d33d61cd00c9,Norma Dumont
+253d3f9e97ca149a,80ac36a9dbc4b1a1,,,,,6e15f63b6c2e2c15,Flyweight,6e15f63b6c2e2c15,Brandon Royval
+253d3f9e97ca149a,80ac36a9dbc4b1a1,,,,,6e15f63b6c2e2c15,Flyweight,67c1d46f4ed16f9e,Matt Schnell
+253d3f9e97ca149a,ff6c8dab41efcc09,,,,,1788eee370f077b7,Heavyweight,1788eee370f077b7,Blagoy Ivanov
+253d3f9e97ca149a,ff6c8dab41efcc09,,,,,1788eee370f077b7,Heavyweight,ab943cd2c3c17825,Marcos Rogerio de Lima
+253d3f9e97ca149a,397dd9a8694ef413,,,,,33efaf2d0941cfcf,Welterweight,33efaf2d0941cfcf,Andre Fialho
+253d3f9e97ca149a,397dd9a8694ef413,,,,,33efaf2d0941cfcf,Welterweight,87e2468b986ebb79,Cameron VanCamp
+253d3f9e97ca149a,60d9d50b763adc62,,,,,68d4a891e5cf2029,Women's Flyweight,68d4a891e5cf2029,Tracy Cortez
+253d3f9e97ca149a,60d9d50b763adc62,,,,,68d4a891e5cf2029,Women's Flyweight,a4a80dd7336ffd59,Melissa Gatto
+253d3f9e97ca149a,8289033e03b4d9a3,,,,,077e3ace32b72be9,Flyweight,077e3ace32b72be9,CJ Vergara
+253d3f9e97ca149a,8289033e03b4d9a3,,,,,077e3ace32b72be9,Flyweight,102a8fdf8cbf7467,Kleydson Rodrigues
+253d3f9e97ca149a,88455c967a7ef6fc,,,,,8e5d953bdb9ae5e7,Women's Strawweight,8e5d953bdb9ae5e7,Loopy Godinez
+253d3f9e97ca149a,88455c967a7ef6fc,,,,,8e5d953bdb9ae5e7,Women's Strawweight,c0d5c0c95c59050b,Ariane Carnelossi
+253d3f9e97ca149a,430309e0f8a315d5,,,,,78f485f851891d68,Bantamweight,78f485f851891d68,Journey Newson
+253d3f9e97ca149a,430309e0f8a315d5,,,,,78f485f851891d68,Bantamweight,9e92e1ca498d7244,Fernie Garcia
+6bf5a7d3e081ade2,5ae5eb729c6bb169,,,,,7c7332319c14094c,Bantamweight,7c7332319c14094c,Marlon Vera
+6bf5a7d3e081ade2,5ae5eb729c6bb169,,,,,7c7332319c14094c,Bantamweight,05339613bf8e9808,Rob Font
+6bf5a7d3e081ade2,eb277b5ea2a19124,,,,,3738e68d2261e60f,Heavyweight,3738e68d2261e60f,Andrei Arlovski
+6bf5a7d3e081ade2,eb277b5ea2a19124,,,,,3738e68d2261e60f,Heavyweight,92fa1401b7927da3,Jake Collier
+6bf5a7d3e081ade2,632c2d4ed12f2bdf,,,,,791c8437b341fba5,Featherweight,791c8437b341fba5,Joanderson Brito
+6bf5a7d3e081ade2,632c2d4ed12f2bdf,,,,,791c8437b341fba5,Featherweight,8fd808923cffff82,Andre Fili
+6bf5a7d3e081ade2,7c8701bb78cb4de8,,,,,99bd51917728c25d,Lightweight,99bd51917728c25d,Grant Dawson
+6bf5a7d3e081ade2,7c8701bb78cb4de8,,,,,99bd51917728c25d,Lightweight,7026eca45f65377b,Jared Gordon
+6bf5a7d3e081ade2,760e3f292b834637,,,,,92a9aa9c93192871,Featherweight,92a9aa9c93192871,Darren Elkins
+6bf5a7d3e081ade2,760e3f292b834637,,,,,92a9aa9c93192871,Featherweight,2ebfbe72ed703925,Tristan Connelly
+6bf5a7d3e081ade2,6b956992204ec040,,,,,4e06913c91da5200,Middleweight,4e06913c91da5200,Krzysztof Jotko
+6bf5a7d3e081ade2,6b956992204ec040,,,,,4e06913c91da5200,Middleweight,6ac9bc2953c47345,Gerald Meerschaert
+6bf5a7d3e081ade2,d2484d74f819d813,,,,,c0badf3243907e59,Heavyweight,c0badf3243907e59,Alexandr Romanov
+6bf5a7d3e081ade2,d2484d74f819d813,,,,,c0badf3243907e59,Heavyweight,01b352b6a9074d5c,Chase Sherman
+6bf5a7d3e081ade2,7e4b7a70838e5ba4,,,,,cdadae5363b66eef,Flyweight,cdadae5363b66eef,Francisco Figueiredo
+6bf5a7d3e081ade2,7e4b7a70838e5ba4,,,,,cdadae5363b66eef,Flyweight,31bb0772f21cabd8,Daniel Da Silva
+6bf5a7d3e081ade2,5b731da9e4be4391,,,,,5eb50529a8418b77,Welterweight,5eb50529a8418b77,Gabe Green
+6bf5a7d3e081ade2,5b731da9e4be4391,,,,,5eb50529a8418b77,Welterweight,f998f5c102250d6e,Yohan Lainesse
+6bf5a7d3e081ade2,9217ecc287ac482d,,,,,a29db9cd4f9ccea5,Lightweight,a29db9cd4f9ccea5,Natan Levy
+6bf5a7d3e081ade2,9217ecc287ac482d,,,,,a29db9cd4f9ccea5,Lightweight,d80ee110748171ac,Mike Breeden
+6bf5a7d3e081ade2,80cf37627a129145,,,,,568bbad0eaced57c,Women's Flyweight,568bbad0eaced57c,Shanna Young
+6bf5a7d3e081ade2,80cf37627a129145,,,,,568bbad0eaced57c,Women's Flyweight,016a8d958883167c,Gina Mazany
+236a37d96d476164,3a3ac7b3987f6799,,,,,6a1901c62ab3870f,Women's Strawweight,6a1901c62ab3870f,Jessica Andrade
+236a37d96d476164,3a3ac7b3987f6799,,,,,6a1901c62ab3870f,Women's Strawweight,3df5493bb279226f,Amanda Lemos
+236a37d96d476164,6017351e164dbca3,,,,,d747eb273a40a920,Lightweight,d747eb273a40a920,Claudio Puelles
+236a37d96d476164,6017351e164dbca3,,,,,d747eb273a40a920,Lightweight,c47df9303d318c67,Clay Guida
+236a37d96d476164,a45d4327bc82bc28,,,,,6a740daf1b279661,Women's Flyweight,6a740daf1b279661,Maycee Barber
+236a37d96d476164,a45d4327bc82bc28,,,,,6a740daf1b279661,Women's Flyweight,80d8aed0ca9b00f3,Montana De La Rosa
+236a37d96d476164,173d576e6247a88a,,,,,f1d64ae34e088832,Featherweight,f1d64ae34e088832,Charles Jourdain
+236a37d96d476164,173d576e6247a88a,,,,,f1d64ae34e088832,Featherweight,f9b200db02b488d9,Lando Vannata
+236a37d96d476164,992e84bf59837e21,,,,,8e9eb3fc86db0f7d,Catch Weight,8e9eb3fc86db0f7d,Marc-Andre Barriault
+236a37d96d476164,992e84bf59837e21,,,,,8e9eb3fc86db0f7d,Catch Weight,c878270af633eb11,Jordan Wright
+236a37d96d476164,9b8a82276f06829f,,,,,90da09db03e41748,Welterweight,90da09db03e41748,Sergey Khandozhko
+236a37d96d476164,9b8a82276f06829f,,,,,90da09db03e41748,Welterweight,8be158ca1e5ea6a0,Dwight Grant
+236a37d96d476164,e8c57c6259193466,,,,,49e96ff8ab781589,Light Heavyweight,49e96ff8ab781589,Tyson Pedro
+236a37d96d476164,e8c57c6259193466,,,,,49e96ff8ab781589,Light Heavyweight,f9d0cae37dabfafc,Ike Villanueva
+236a37d96d476164,926977ec3ed0ebe1,,,,,7d420039bbfe7c1a,Bantamweight,7d420039bbfe7c1a,Aoriqileng
+236a37d96d476164,926977ec3ed0ebe1,,,,,7d420039bbfe7c1a,Bantamweight,5f3da9a9610d8969,Cameron Else
+236a37d96d476164,e4d946470fd150fe,,,,,9fe7af8b3fbe00a0,Welterweight,9fe7af8b3fbe00a0,Preston Parsons
+236a37d96d476164,e4d946470fd150fe,,,,,9fe7af8b3fbe00a0,Welterweight,d9a56ecb6e94f02e,Evan Elder
+236a37d96d476164,6a4ba72b084193b5,,,,,53c943c873cffe90,Light Heavyweight,53c943c873cffe90,Philipe Lins
+236a37d96d476164,6a4ba72b084193b5,,,,,53c943c873cffe90,Light Heavyweight,6370c1c1e12723d5,Marcin Prachnio
+236a37d96d476164,7cf7960c6ccb5fa1,,,,,0641c21bec209472,Welterweight,0641c21bec209472,Mike Jackson
+236a37d96d476164,7cf7960c6ccb5fa1,,,,,0641c21bec209472,Welterweight,a6f3d15cb84334bb,Dean Barry
+8753e125f4499816,6d4b6224f26572f9,,,,,b1b0729d27936f2f,Welterweight,b1b0729d27936f2f,Belal Muhammad
+8753e125f4499816,6d4b6224f26572f9,,,,,b1b0729d27936f2f,Welterweight,6d4b63c767106d3a,Vicente Luque
+8753e125f4499816,a0a120c50d93f70a,,,,,4126a78111c0855a,Middleweight,4126a78111c0855a,Caio Borralho
+8753e125f4499816,a0a120c50d93f70a,,,,,4126a78111c0855a,Middleweight,684d3aee255a3d09,Gadzhi Omargadzhiev
+8753e125f4499816,7c5fc3fc7be4a997,,,,,33efaf2d0941cfcf,Welterweight,33efaf2d0941cfcf,Andre Fialho
+8753e125f4499816,7c5fc3fc7be4a997,,,,,33efaf2d0941cfcf,Welterweight,82d4c957649faf9b,Miguel Baeza
+8753e125f4499816,2e94ee4b9f5fddea,,,,,cc8c623cca88f54f,Women's Bantamweight,cc8c623cca88f54f,Mayra Bueno Silva
+8753e125f4499816,2e94ee4b9f5fddea,,,,,cc8c623cca88f54f,Women's Bantamweight,fdbefee0827e1567,Wu Yanan
+8753e125f4499816,4f6e7159e77d4215,,,,,b8bbdeff718dbb7d,Featherweight,b8bbdeff718dbb7d,Pat Sabatini
+8753e125f4499816,4f6e7159e77d4215,,,,,b8bbdeff718dbb7d,Featherweight,cd2e5a390821fb48,TJ Laramie
+8753e125f4499816,559031e51ced0b53,,,,,49ee5024966efc0d,Welterweight,49ee5024966efc0d,Mounir Lazzez
+8753e125f4499816,559031e51ced0b53,,,,,49ee5024966efc0d,Welterweight,1497e735d9f2560a,Ange Loosa
+8753e125f4499816,b09f8cd4cbd7ba56,,,,,cc7040fe76f0ef91,Heavyweight,cc7040fe76f0ef91,Devin Clark
+8753e125f4499816,b09f8cd4cbd7ba56,,,,,cc7040fe76f0ef91,Heavyweight,5da33b8fbfa5ee95,William Knight
+8753e125f4499816,c20e6697335c3b3d,,,,,91dac5e69e28d5b5,Women's Bantamweight,91dac5e69e28d5b5,Pannie Kianzad
+8753e125f4499816,c20e6697335c3b3d,,,,,91dac5e69e28d5b5,Women's Bantamweight,2eeaefbfc7f9fcff,Lina Lansberg
+8753e125f4499816,74c58b9d638c5eaa,,,,,7cbf7c78d3b34218,Lightweight,7cbf7c78d3b34218,Drakkar Klose
+8753e125f4499816,74c58b9d638c5eaa,,,,,7cbf7c78d3b34218,Lightweight,6a8928652fc01bee,Brandon Jenkins
+8753e125f4499816,0987b3f785e26d1c,,,,,e132d47bd9efbbe0,Lightweight,e132d47bd9efbbe0,Rafa Garcia
+8753e125f4499816,0987b3f785e26d1c,,,,,e132d47bd9efbbe0,Lightweight,5580771f383e141f,Jesse Ronson
+8753e125f4499816,1ceab8fa45996f51,,,,,8eb046f83e82bf26,Heavyweight,8eb046f83e82bf26,Martin Buday
+8753e125f4499816,1ceab8fa45996f51,,,,,8eb046f83e82bf26,Heavyweight,7a5e8c94a86f9895,Chris Barnett
+8753e125f4499816,eac46cfead228e11,,,,,ac026518a9b4dc0f,Lightweight,ac026518a9b4dc0f,Jordan Leavitt
+8753e125f4499816,eac46cfead228e11,,,,,ac026518a9b4dc0f,Lightweight,cfc3e7bb44685289,Trey Ogden
+8753e125f4499816,0daf776bd222daad,,,,,e94085e821bd81de,Women's Strawweight,e94085e821bd81de,Sam Hughes
+8753e125f4499816,0daf776bd222daad,,,,,e94085e821bd81de,Women's Strawweight,efc67b07eed39794,Istela Nunes
+8753e125f4499816,fb7ebdda8658fa05,,,,,1897b7b913736a7c,Bantamweight,1897b7b913736a7c,Alatengheili
+8753e125f4499816,fb7ebdda8658fa05,,,,,1897b7b913736a7c,Bantamweight,35b3772629e27a49,Kevin Croom
+3a97fda0de6f1fa4,dc0ab34f1952cb48,,,,,e1248941344b3288,Featherweight,e1248941344b3288,Alexander Volkanovski
+3a97fda0de6f1fa4,dc0ab34f1952cb48,,,,,e1248941344b3288,Featherweight,c451d67c09c55418,Chan Sung Jung
+3a97fda0de6f1fa4,9a8964b148cb5923,,,,,cb696ebfb6598724,Bantamweight,cb696ebfb6598724,Aljamain Sterling
+3a97fda0de6f1fa4,9a8964b148cb5923,,,,,cb696ebfb6598724,Bantamweight,d661ce4da776fc20,Petr Yan
+3a97fda0de6f1fa4,394b0347b0438622,,,,,767755fd74662dbf,Welterweight,767755fd74662dbf,Khamzat Chimaev
+3a97fda0de6f1fa4,394b0347b0438622,,,,,767755fd74662dbf,Welterweight,23024fdfc966410a,Gilbert Burns
+3a97fda0de6f1fa4,d8945e21a63e2451,,,,,7447e9f28508106a,Women's Strawweight,7447e9f28508106a,Mackenzie Dern
+3a97fda0de6f1fa4,d8945e21a63e2451,,,,,7447e9f28508106a,Women's Strawweight,31ef8b67e13495b3,Tecia Torres
+3a97fda0de6f1fa4,15311d4b33d93004,,,,,da0995f19b749cfa,Lightweight,da0995f19b749cfa,Mark Madsen
+3a97fda0de6f1fa4,15311d4b33d93004,,,,,da0995f19b749cfa,Lightweight,c77a953488e5607d,Vinc Pichel
+3a97fda0de6f1fa4,313b85fe82b2ba80,,,,,442c9011034ae1fd,Welterweight,442c9011034ae1fd,Ian Garry
+3a97fda0de6f1fa4,313b85fe82b2ba80,,,,,442c9011034ae1fd,Welterweight,326a001926ffb7ec,Darian Weeks
+3a97fda0de6f1fa4,7c6ed5b3d830d0cb,,,,,093e1f5bb73850be,Middleweight,093e1f5bb73850be,Anthony Hernandez
+3a97fda0de6f1fa4,7c6ed5b3d830d0cb,,,,,093e1f5bb73850be,Middleweight,ca43de99b07b6b40,Josh Fremd
+3a97fda0de6f1fa4,88c6e7f71b79fd65,,,,,fc169c387b4b465d,Women's Bantamweight,fc169c387b4b465d,Raquel Pennington
+3a97fda0de6f1fa4,88c6e7f71b79fd65,,,,,fc169c387b4b465d,Women's Bantamweight,d4691518d012b9e7,Aspen Ladd
+3a97fda0de6f1fa4,7458a37feabf8788,,,,,dd6103dd7127db1d,Welterweight,dd6103dd7127db1d,Mike Malott
+3a97fda0de6f1fa4,7458a37feabf8788,,,,,dd6103dd7127db1d,Welterweight,9e50097a89442158,Mickey Gall
+3a97fda0de6f1fa4,278b965694e563b2,,,,,98c23cb6da5b3352,Heavyweight,98c23cb6da5b3352,Aleksei Oleinik
+3a97fda0de6f1fa4,278b965694e563b2,,,,,98c23cb6da5b3352,Heavyweight,2b68d9f125d07b42,Jared Vanderaa
+3a97fda0de6f1fa4,9e52a67410f2c879,,,,,e375cb5caf4717b6,Women's Strawweight,e375cb5caf4717b6,Piera Rodriguez
+3a97fda0de6f1fa4,9e52a67410f2c879,,,,,e375cb5caf4717b6,Women's Strawweight,4100c7a09497ad41,Kay Hansen
+3a97fda0de6f1fa4,313c36ce9bde6cf6,,,,,1291edf2d566a71a,Bantamweight,1291edf2d566a71a,Julio Arce
+3a97fda0de6f1fa4,313c36ce9bde6cf6,,,,,1291edf2d566a71a,Bantamweight,b67d6bacc68d4c92,Daniel Santos
+1fac46d466abd5b8,c4e866d9dd606faa,,,,,fa6796c55d6c5440,Heavyweight,fa6796c55d6c5440,Curtis Blaydes
+1fac46d466abd5b8,c4e866d9dd606faa,,,,,fa6796c55d6c5440,Heavyweight,d0aaedcf7ccd0b45,Chris Daukaus
+1fac46d466abd5b8,1b650c76387c0f4b,,,,,e8b731feff72294b,Women's Flyweight,e8b731feff72294b,Alexa Grasso
+1fac46d466abd5b8,1b650c76387c0f4b,,,,,e8b731feff72294b,Women's Flyweight,12f91bfa8f1f723b,Joanne Wood
+1fac46d466abd5b8,f3c37e23ca30c87d,,,,,a331233f597090a5,Welterweight,a331233f597090a5,Bryan Barberena
+1fac46d466abd5b8,f3c37e23ca30c87d,,,,,a331233f597090a5,Welterweight,31123249b0bbf52e,Matt Brown
+1fac46d466abd5b8,410e65e4d1782bfc,,,,,853eb0dd5c0e2149,Flyweight,853eb0dd5c0e2149,Kai Kara-France
+1fac46d466abd5b8,410e65e4d1782bfc,,,,,853eb0dd5c0e2149,Flyweight,b1d19449397541dc,Askar Askarov
+1fac46d466abd5b8,3f92025b29e06bfd,,,,,84b3e7d38f2d2ec5,Welterweight,84b3e7d38f2d2ec5,Neil Magny
+1fac46d466abd5b8,3f92025b29e06bfd,,,,,84b3e7d38f2d2ec5,Welterweight,b0d6a1d8ac3d563d,Max Griffin
+1fac46d466abd5b8,f6afaf2a39fa441c,,,,,32c355b04fc57f3a,Lightweight,32c355b04fc57f3a,Marc Diakiese
+1fac46d466abd5b8,f6afaf2a39fa441c,,,,,32c355b04fc57f3a,Lightweight,19c591115a58982c,Viacheslav Borshchev
+1fac46d466abd5b8,bb31c77bddd1317e,,,,,7be74a12d7352df2,Women's Bantamweight,7be74a12d7352df2,Sara McMann
+1fac46d466abd5b8,bb31c77bddd1317e,,,,,7be74a12d7352df2,Women's Bantamweight,351c4ec637380ad5,Karol Rosa
+1fac46d466abd5b8,d0b7a79d3e7f3362,,,,,45f0cc9d18f35137,Bantamweight,45f0cc9d18f35137,Chris Gutierrez
+1fac46d466abd5b8,d0b7a79d3e7f3362,,,,,45f0cc9d18f35137,Bantamweight,3b0a516d2921e0d6,Batgerel Danaa
+1fac46d466abd5b8,6ed495c177d69a3a,,,,,7ab478c397cd68ef,Middleweight,7ab478c397cd68ef,Aliaskhab Khizriev
+1fac46d466abd5b8,6ed495c177d69a3a,,,,,7ab478c397cd68ef,Middleweight,0112352cb32f5026,Denis Tiuliulin
+1fac46d466abd5b8,3ecccdab76baa59c,,,,,34ff304266360297,Women's Flyweight,34ff304266360297,Manon Fiorot
+1fac46d466abd5b8,3ecccdab76baa59c,,,,,34ff304266360297,Women's Flyweight,8e1f36476ef02a6a,Jennifer Maia
+1fac46d466abd5b8,82b2b97b85c7225c,,,,,1a31ef98efce7a79,Flyweight,1a31ef98efce7a79,Matheus Nicolau
+1fac46d466abd5b8,82b2b97b85c7225c,,,,,1a31ef98efce7a79,Flyweight,9ada30894bf04e19,David Dvorak
+1fac46d466abd5b8,97e522591ac7eb29,,,,,12e0fdc606f7e274,Featherweight,12e0fdc606f7e274,Luis Saldana
+1fac46d466abd5b8,97e522591ac7eb29,,,,,12e0fdc606f7e274,Featherweight,0e5c4e72237461bb,Bruno Souza
+1d00756835ca67c9,06641a8c62e45661,,,,,399afbabc02376b5,Heavyweight,399afbabc02376b5,Tom Aspinall
+1d00756835ca67c9,06641a8c62e45661,,,,,399afbabc02376b5,Heavyweight,279566840aa55bf2,Alexander Volkov
+1d00756835ca67c9,ce3d94186567a684,,,,,040a74bb0a465c54,Featherweight,040a74bb0a465c54,Arnold Allen
+1d00756835ca67c9,ce3d94186567a684,,,,,040a74bb0a465c54,Featherweight,193b9d1858bc4df3,Dan Hooker
+1d00756835ca67c9,001441f70c293931,,,,,7826923b47f8d72a,Lightweight,7826923b47f8d72a,Paddy Pimblett
+1d00756835ca67c9,001441f70c293931,,,,,7826923b47f8d72a,Lightweight,ec18eb918121787c,Kazula Vargas
+1d00756835ca67c9,bcd1e1d71a172d53,,,,,fd55393021a8c255,Welterweight,fd55393021a8c255,Gunnar Nelson
+1d00756835ca67c9,bcd1e1d71a172d53,,,,,fd55393021a8c255,Welterweight,8abac218746e04ca,Takashi Sato
+1d00756835ca67c9,5a878a6bebc973d7,,,,,51018a31ddf31eb2,Women's Flyweight,51018a31ddf31eb2,Molly McCann
+1d00756835ca67c9,5a878a6bebc973d7,,,,,51018a31ddf31eb2,Women's Flyweight,528b071cf3da7c56,Luana Carolina
+1d00756835ca67c9,a200b5dcbdd2506e,,,,,54f64b5e283b0ce7,Lightweight,54f64b5e283b0ce7,Ilia Topuria
+1d00756835ca67c9,a200b5dcbdd2506e,,,,,54f64b5e283b0ce7,Lightweight,4c88a1db5a46c6a4,Jai Herbert
+1d00756835ca67c9,6e705b2365bc03fa,,,,,87a1dc546b1c5caf,Featherweight,87a1dc546b1c5caf,Makwan Amirkhani
+1d00756835ca67c9,6e705b2365bc03fa,,,,,87a1dc546b1c5caf,Featherweight,56fcb2c4d99f9d1b,Mike Grundy
+1d00756835ca67c9,ae989e21c3839b49,,,,,f14cf73e51b29254,Heavyweight,f14cf73e51b29254,Sergei Pavlovich
+1d00756835ca67c9,ae989e21c3839b49,,,,,f14cf73e51b29254,Heavyweight,2f5cbecbbe18bac4,Shamil Abdurakhimov
+1d00756835ca67c9,766b4f5e77ab0860,,,,,eabf206b162b3b83,Light Heavyweight,eabf206b162b3b83,Paul Craig
+1d00756835ca67c9,766b4f5e77ab0860,,,,,eabf206b162b3b83,Light Heavyweight,1091d4d957141094,Nikita Krylov
+1d00756835ca67c9,53d0df57a917c6a0,,,,,b8a85389d115e35a,Bantamweight,b8a85389d115e35a,Jack Shore
+1d00756835ca67c9,53d0df57a917c6a0,,,,,b8a85389d115e35a,Bantamweight,45e738622ea2c02c,Timur Valiev
+1d00756835ca67c9,5e378c52f26935d6,,,,,ac7c765882f2c68c,Women's Strawweight,ac7c765882f2c68c,Elise Reed
+1d00756835ca67c9,5e378c52f26935d6,,,,,ac7c765882f2c68c,Women's Strawweight,3351aa64aa83c4d9,Cory McKenna
+1d00756835ca67c9,4c7e55061dc3bf89,,,,,75353550928a7921,Flyweight,75353550928a7921,Muhammad Mokaev
+1d00756835ca67c9,4c7e55061dc3bf89,,,,,75353550928a7921,Flyweight,7f6ed67d3ed3c036,Cody Durden
+1f9344211ca7fd60,8aa16cc1ba99aac1,,,,,d802174b0c0c1f4e,Light Heavyweight,d802174b0c0c1f4e,Magomed Ankalaev
+1f9344211ca7fd60,8aa16cc1ba99aac1,,,,,d802174b0c0c1f4e,Light Heavyweight,dea070ed4a2a8281,Thiago Santos
+1f9344211ca7fd60,9b46a662b8fa1d8d,,,,,efb96bf3e9ada36f,Bantamweight,efb96bf3e9ada36f,Song Yadong
+1f9344211ca7fd60,9b46a662b8fa1d8d,,,,,efb96bf3e9ada36f,Bantamweight,fea79f9bc8c68769,Marlon Moraes
+1f9344211ca7fd60,70b8d357e89383bd,,,,,94426bb170c88115,Featherweight,94426bb170c88115,Sodiq Yusuff
+1f9344211ca7fd60,70b8d357e89383bd,,,,,94426bb170c88115,Featherweight,7aa3d6964eff4877,Alex Caceres
+1f9344211ca7fd60,23eec2d9cb2d78cd,,,,,749f572d1d3161fb,Light Heavyweight,749f572d1d3161fb,Khalil Rountree Jr.
+1f9344211ca7fd60,23eec2d9cb2d78cd,,,,,749f572d1d3161fb,Light Heavyweight,37d5b176d438d2a5,Karl Roberson
+1f9344211ca7fd60,463fac0e48505b62,,,,,519e4fe37ce9ff75,Lightweight,519e4fe37ce9ff75,Drew Dober
+1f9344211ca7fd60,463fac0e48505b62,,,,,519e4fe37ce9ff75,Lightweight,809bd1a871491508,Terrance McKinney
+1f9344211ca7fd60,226884e46a10865d,,,,,e5549c82bfb5582d,Middleweight,e5549c82bfb5582d,Alex Pereira
+1f9344211ca7fd60,226884e46a10865d,,,,,e5549c82bfb5582d,Middleweight,12ebd7d157e91701,Bruno Silva
+1f9344211ca7fd60,3b06c512abfa0494,,,,,4aa58269d0664b5b,Welterweight,4aa58269d0664b5b,Matthew Semelsberger
+1f9344211ca7fd60,3b06c512abfa0494,,,,,4aa58269d0664b5b,Welterweight,725b1abc9a39d873,AJ Fletcher
+1f9344211ca7fd60,26fbee4ed13ff35d,,,,,6fd953151d981979,Women's Flyweight,6fd953151d981979,JJ Aldrich
+1f9344211ca7fd60,26fbee4ed13ff35d,,,,,6fd953151d981979,Women's Flyweight,38c7f72747f4f712,Gillian Robertson
+1f9344211ca7fd60,b70313eae7c24b27,,,,,bbab3baf66128ae2,Bantamweight,bbab3baf66128ae2,Javid Basharat
+1f9344211ca7fd60,b70313eae7c24b27,,,,,bbab3baf66128ae2,Bantamweight,ec23c1be628d8057,Trevin Jones
+1f9344211ca7fd60,5cad3ab6553e9ec9,,,,,29af297d9f1de0f8,Featherweight,29af297d9f1de0f8,Damon Jackson
+1f9344211ca7fd60,5cad3ab6553e9ec9,,,,,29af297d9f1de0f8,Featherweight,c7d7fda69ec410d3,Kamuela Kirk
+1f9344211ca7fd60,b55de7d791b9f62d,,,,,f29a6350c69f4a33,Women's Flyweight,f29a6350c69f4a33,Miranda Maverick
+1f9344211ca7fd60,b55de7d791b9f62d,,,,,f29a6350c69f4a33,Women's Flyweight,70d2329a92864fdb,Sabina Mazo
+1f9344211ca7fd60,9cb78122a23e6a7d,,,,,f14f644d41ade29f,Middleweight,f14f644d41ade29f,Cody Brundage
+1f9344211ca7fd60,9cb78122a23e6a7d,,,,,f14f644d41ade29f,Middleweight,ce632027bf2a871b,Dalcha Lungiambula
+1f9344211ca7fd60,b400c29fbeee0206,,,,,d05412b513b19621,Bantamweight,d05412b513b19621,Guido Cannetti
+1f9344211ca7fd60,b400c29fbeee0206,,,,,d05412b513b19621,Bantamweight,9c27f3217891f3f0,Kris Moutinho
+1f9344211ca7fd60,f10c2c84652ef573,,,,,e90a2f22417af68e,Light Heavyweight,e90a2f22417af68e,Azamat Murzakanov
+1f9344211ca7fd60,f10c2c84652ef573,,,,,e90a2f22417af68e,Light Heavyweight,6aae253467e8f9ce,Tafon Nchukwi
+75e0d3cc2262b732,d03d0abf331df751,,,,,dc9572dd6ec74859,Welterweight,dc9572dd6ec74859,Colby Covington
+75e0d3cc2262b732,d03d0abf331df751,,,,,dc9572dd6ec74859,Welterweight,47b9e0e7703a4868,Jorge Masvidal
+75e0d3cc2262b732,838bb84a5a976a9c,,,,,6a2f7c151031653d,Catch Weight,6a2f7c151031653d,Rafael Dos Anjos
+75e0d3cc2262b732,838bb84a5a976a9c,,,,,6a2f7c151031653d,Catch Weight,b6452706b373eea1,Renato Moicano
+75e0d3cc2262b732,abd45edc07a8d9e3,,,,,d9c6f19f958643e9,Featherweight,d9c6f19f958643e9,Bryce Mitchell
+75e0d3cc2262b732,abd45edc07a8d9e3,,,,,d9c6f19f958643e9,Featherweight,64a50dad704d1d49,Edson Barboza
+75e0d3cc2262b732,43b43c5d439b2f98,,,,,3a46b268013afede,Welterweight,3a46b268013afede,Kevin Holland
+75e0d3cc2262b732,43b43c5d439b2f98,,,,,3a46b268013afede,Welterweight,57b10fca4f9c9a7a,Alex Oliveira
+75e0d3cc2262b732,cda06ff86cfe4f5f,,,,,e2f6b2769aaedd6c,Heavyweight,e2f6b2769aaedd6c,Serghei Spivac
+75e0d3cc2262b732,cda06ff86cfe4f5f,,,,,e2f6b2769aaedd6c,Heavyweight,85073dbd1be65ed9,Greg Hardy
+75e0d3cc2262b732,fce6ab43b7d09aa4,,,,,4d8fa64202cee4c1,Lightweight,4d8fa64202cee4c1,Jalin Turner
+75e0d3cc2262b732,fce6ab43b7d09aa4,,,,,4d8fa64202cee4c1,Lightweight,af9f42e6894047fc,Jamie Mullarkey
+75e0d3cc2262b732,9321b3c90ea5ca6c,,,,,cd2c4d30c6e13b47,Women's Strawweight,cd2c4d30c6e13b47,Marina Rodriguez
+75e0d3cc2262b732,9321b3c90ea5ca6c,,,,,cd2c4d30c6e13b47,Women's Strawweight,c41d426cc7326d1b,Yan Xiaonan
+75e0d3cc2262b732,ee278a5a25744cac,,,,,8c57c7b8c3bab0eb,Light Heavyweight,8c57c7b8c3bab0eb,Nicolae Negumereanu
+75e0d3cc2262b732,ee278a5a25744cac,,,,,8c57c7b8c3bab0eb,Light Heavyweight,8667caa0451d245b,Kennedy Nzechukwu
+75e0d3cc2262b732,c6fc43c351b08bda,,,,,b4192a975027aab6,Women's Flyweight,b4192a975027aab6,Maryna Moroz
+75e0d3cc2262b732,c6fc43c351b08bda,,,,,b4192a975027aab6,Women's Flyweight,a08ddd04eaffd81d,Mariya Agapova
+75e0d3cc2262b732,59d44b6888885500,,,,,2b6fc1c02736833d,Featherweight,2b6fc1c02736833d,Umar Nurmagomedov
+75e0d3cc2262b732,59d44b6888885500,,,,,2b6fc1c02736833d,Featherweight,7be14eaed4c74856,Brian Kelleher
+75e0d3cc2262b732,c420c376cc1d149c,,,,,c96d9178c9ed9e62,Flyweight,c96d9178c9ed9e62,Tim Elliott
+75e0d3cc2262b732,c420c376cc1d149c,,,,,c96d9178c9ed9e62,Flyweight,f00ac08ab056af5d,Tagir Ulanbekov
+75e0d3cc2262b732,36d9337a27b71ba9,,,,,5b86d491d63890c5,Lightweight,5b86d491d63890c5,Ludovit Klein
+75e0d3cc2262b732,36d9337a27b71ba9,,,,,5b86d491d63890c5,Lightweight,207773daeb4afa7b,Devonte Smith
+75e0d3cc2262b732,d5323490163dde0e,,,,,e4277e87a789d687,Light Heavyweight,e4277e87a789d687,Dustin Jacoby
+75e0d3cc2262b732,d5323490163dde0e,,,,,e4277e87a789d687,Light Heavyweight,0d65c432720accb9,Michal Oleksiejczuk
+f6a7b02c42e9fc5b,2f4d42e0b9696f71,,,,,275aca31f61ba28c,Catch Weight,275aca31f61ba28c,Islam Makhachev
+f6a7b02c42e9fc5b,2f4d42e0b9696f71,,,,,275aca31f61ba28c,Catch Weight,887961364be5ceb3,Bobby Green
+f6a7b02c42e9fc5b,01468f766dd7385c,,,,,4dcfb28c011c11b2,Middleweight,4dcfb28c011c11b2,Wellington Turman
+f6a7b02c42e9fc5b,01468f766dd7385c,,,,,4dcfb28c011c11b2,Middleweight,67f272324a030d00,Misha Cirkunov
+f6a7b02c42e9fc5b,c4eb14c3de579842,,,,,b1e5bcaad32a3cac,Women's Flyweight,b1e5bcaad32a3cac,Priscila Cachoeira
+f6a7b02c42e9fc5b,c4eb14c3de579842,,,,,b1e5bcaad32a3cac,Women's Flyweight,a20f234df70f2182,Ji Yeon Kim
+f6a7b02c42e9fc5b,8515f07911765f89,,,,,eae48ff31db420c2,Lightweight,eae48ff31db420c2,Arman Tsarukyan
+f6a7b02c42e9fc5b,8515f07911765f89,,,,,eae48ff31db420c2,Lightweight,58bbef3770bb2dfc,Joel Alvarez
+f6a7b02c42e9fc5b,84d633d4a9fbf331,,,,,369ea36e450ae62a,Middleweight,369ea36e450ae62a,Armen Petrosyan
+f6a7b02c42e9fc5b,84d633d4a9fbf331,,,,,369ea36e450ae62a,Middleweight,d1c65d2cf2925ddd,Gregory Rodrigues
+f6a7b02c42e9fc5b,61a20ff34b6948ba,,,,,e4a47b07044ddd72,Lightweight,e4a47b07044ddd72,Ignacio Bahamondes
+f6a7b02c42e9fc5b,61a20ff34b6948ba,,,,,e4a47b07044ddd72,Lightweight,a13d755965a4ec9f,Rong Zhu
+f6a7b02c42e9fc5b,f087a10a6f2bcc99,,,,,68d35296f566792b,Women's Featherweight,68d35296f566792b,Josiane Nunes
+f6a7b02c42e9fc5b,f087a10a6f2bcc99,,,,,68d35296f566792b,Women's Featherweight,3eb4dc9a7d4ac906,Ramona Pascual
+f6a7b02c42e9fc5b,cb1f27818d46af0e,,,,,809bd1a871491508,Lightweight,809bd1a871491508,Terrance McKinney
+f6a7b02c42e9fc5b,cb1f27818d46af0e,,,,,809bd1a871491508,Lightweight,1e4f273069fb9e85,Fares Ziam
+f6a7b02c42e9fc5b,901e62b7af57f559,,,,,f2477cf43c4975cc,Featherweight,f2477cf43c4975cc,Jonathan Martinez
+f6a7b02c42e9fc5b,901e62b7af57f559,,,,,f2477cf43c4975cc,Featherweight,80daefbed11ce998,Alejandro Perez
+f6a7b02c42e9fc5b,c5d5fcf290cc029e,,,,,3d074044a33825e7,Welterweight,3d074044a33825e7,Ramiz Brahimaj
+f6a7b02c42e9fc5b,c5d5fcf290cc029e,,,,,3d074044a33825e7,Welterweight,ce175eaafe867d1f,Micheal Gillmore
+f6a7b02c42e9fc5b,181ceedcacc01d48,,,,,798e48f9e7f6ba22,Flyweight,798e48f9e7f6ba22,Carlos Hernandez
+f6a7b02c42e9fc5b,181ceedcacc01d48,,,,,798e48f9e7f6ba22,Flyweight,dc7927cd622676a7,Victor Altamirano
 77940e45bc86208e,f7865e5a6d009a87,,,,,5444c5a201d3ee5a,Light Heavyweight,5444c5a201d3ee5a,Jamahal Hill
 77940e45bc86208e,f7865e5a6d009a87,,,,,5444c5a201d3ee5a,Light Heavyweight,c21f26bbde777573,Johnny Walker
 77940e45bc86208e,99fd8396cbe1df03,,,,,d6c0cdd7e467c440,Catch Weight,d6c0cdd7e467c440,Kyle Daukaus
@@ -431,7 +723,7 @@ e15d0a2519d6a0b5,e7423a91a253b416,,,,,80daefbed11ce998,Bantamweight,528c24b99fba
 4c27ca8c8481f79a,d06495deb1ff1750,,,,,6aae253467e8f9ce,Light Heavyweight,18b602842a24f7c5,Mike Rodriguez
 4c27ca8c8481f79a,2d42742aade53799,,,,,fc169c387b4b465d,Women's Bantamweight,fc169c387b4b465d,Raquel Pennington
 4c27ca8c8481f79a,2d42742aade53799,,,,,fc169c387b4b465d,Women's Bantamweight,91dac5e69e28d5b5,Pannie Kianzad
-4c27ca8c8481f79a,85e5498808346d6b,,,,,a13d755965a4ec9f,Lightweight,a13d755965a4ec9f,Rongzhu
+4c27ca8c8481f79a,85e5498808346d6b,,,,,a13d755965a4ec9f,Lightweight,a13d755965a4ec9f,Rong Zhu
 4c27ca8c8481f79a,85e5498808346d6b,,,,,a13d755965a4ec9f,Lightweight,6a8928652fc01bee,Brandon Jenkins
 4c27ca8c8481f79a,dc870fab1e0f15e1,,,,,cc1a8b4b38b92c6d,Bantamweight,cc1a8b4b38b92c6d,Montel Jackson
 4c27ca8c8481f79a,dc870fab1e0f15e1,,,,,cc1a8b4b38b92c6d,Bantamweight,0b362247806341e5,JP Buys
@@ -834,11 +1126,11 @@ d57e6a8971b6d2bd,3d790112d2e6d851,,,,,dbac0a413af64bbe,Featherweight,96428b9e9bd
 27541033b97c076d,eb5d62bda1581c62,,,,,3b0a516d2921e0d6,Bantamweight,3b0a516d2921e0d6,Batgerel Danaa
 27541033b97c076d,eb5d62bda1581c62,,,,,3b0a516d2921e0d6,Bantamweight,0c258d1d8e16e5f1,Kevin Natividad
 27541033b97c076d,c3b8d8e7d256c307,,,,,ec18eb918121787c,Lightweight,ec18eb918121787c,Kazula Vargas
-27541033b97c076d,c3b8d8e7d256c307,,,,,ec18eb918121787c,Lightweight,a13d755965a4ec9f,Rongzhu
+27541033b97c076d,c3b8d8e7d256c307,,,,,ec18eb918121787c,Lightweight,a13d755965a4ec9f,Rong Zhu
 27541033b97c076d,b5a8323de18f7e95,,,,,008ea710276c9606,Flyweight,008ea710276c9606,Jeff Molina
 27541033b97c076d,b5a8323de18f7e95,,,,,008ea710276c9606,Flyweight,7d420039bbfe7c1a,Aoriqileng
 27541033b97c076d,a3cde349c8e018fb,,,,,c0d5c0c95c59050b,Women's Strawweight,c0d5c0c95c59050b,Ariane Carnelossi
-27541033b97c076d,a3cde349c8e018fb,,,,,c0d5c0c95c59050b,Women's Strawweight,ec0dcceace7d25a3,Na Liang
+27541033b97c076d,a3cde349c8e018fb,,,,,c0d5c0c95c59050b,Women's Strawweight,ec0dcceace7d25a3,Liang Na
 4a35913bd9aa4161,f67aa0b16e16a9ea,,,,,e1147d3d2dabe1ce,Middleweight,e1147d3d2dabe1ce,Robert Whittaker
 4a35913bd9aa4161,f67aa0b16e16a9ea,,,,,e1147d3d2dabe1ce,Middleweight,8c0580d4fff106c1,Kelvin Gastelum
 4a35913bd9aa4161,f2c82f027201ba21,,,,,3738e68d2261e60f,Heavyweight,3738e68d2261e60f,Andrei Arlovski
@@ -3028,7 +3320,7 @@ b5882371e2a3900d,b247a1900cfae052,,,,,a7897d200692ab64,Bantamweight,88cd34d836b4
 b5882371e2a3900d,11c0ef97497303ef,,,,,4d8fa64202cee4c1,Lightweight,4d8fa64202cee4c1,Jalin Turner
 b5882371e2a3900d,11c0ef97497303ef,,,,,4d8fa64202cee4c1,Lightweight,8fc9ae9c7527dfcb,Callan Potter
 b5882371e2a3900d,8e43d61ca6f2d904,,,,,f2477cf43c4975cc,Bantamweight,f2477cf43c4975cc,Jonathan Martinez
-b5882371e2a3900d,8e43d61ca6f2d904,,,,,f2477cf43c4975cc,Bantamweight,2296125b6c362355,Wuliji Buren
+b5882371e2a3900d,8e43d61ca6f2d904,,,,,f2477cf43c4975cc,Bantamweight,2296125b6c362355,Wulijiburen
 84283233ec42be5f,4e8b2357fea211e9,,,,,fea79f9bc8c68769,Bantamweight,fea79f9bc8c68769,Marlon Moraes
 84283233ec42be5f,4e8b2357fea211e9,,,,,fea79f9bc8c68769,Bantamweight,2f13e4020cea5b38,Raphael Assuncao
 84283233ec42be5f,300f1489174a3ece,,,,,d0f3959b4a9747e6,Featherweight,d0f3959b4a9747e6,Jose Aldo
@@ -3480,7 +3772,7 @@ c0342805a1948cbb,5362ea7c63432cf9,,,,,94527830000ab715,Bantamweight,96428b9e9bd0
 03b1e846b09f721d,5d8a1daadda47ace,,,,,1ebe20ebbfa15e29,Women's Strawweight,1ebe20ebbfa15e29,Zhang Weili
 03b1e846b09f721d,5d8a1daadda47ace,,,,,1ebe20ebbfa15e29,Women's Strawweight,b76c6268dc1d3c05,Danielle Taylor
 03b1e846b09f721d,8e971c1ec4b981cc,,,,,7c7332319c14094c,Bantamweight,7c7332319c14094c,Marlon Vera
-03b1e846b09f721d,8e971c1ec4b981cc,,,,,7c7332319c14094c,Bantamweight,2296125b6c362355,Wuliji Buren
+03b1e846b09f721d,8e971c1ec4b981cc,,,,,7c7332319c14094c,Bantamweight,2296125b6c362355,Wulijiburen
 322a56923b396b4d,bd1fc4ff619f4e61,,,,,029eaff01e6bb8f0,Lightweight,029eaff01e6bb8f0,Dustin Poirier
 322a56923b396b4d,bd1fc4ff619f4e61,,,,,029eaff01e6bb8f0,Lightweight,33a331684283900f,Eddie Alvarez
 322a56923b396b4d,6b47093b62155478,,,,,d0f3959b4a9747e6,Featherweight,d0f3959b4a9747e6,Jose Aldo

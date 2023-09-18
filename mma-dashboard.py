@@ -658,7 +658,7 @@ row6_spacer1, row6_1, row6_spacer2 = st.columns((.1, 3.2, .1))
 
 with row6_1:
     st.markdown('___')
-    about = st.beta_expander('Key/Additional Info')
+    about = st.expander('Key/Additional Info')
     with about:
         '''
         Data and fight statistics are courtesy of UFCStats.com. Headshots are courtesy of ESPN and is used under fair use. \

@@ -461,7 +461,7 @@ all_fighters_df = all_fighters_df.merge(
 # ==========================================================================
 # ---------------------------- ROW 1 (TITLE) -------------------------------
 # ==========================================================================
-row1_spacer1, row1_1, row1_spacer2, row1_2, row1_spacer3 = st.beta_columns(
+row1_spacer1, row1_1, row1_spacer2, row1_2, row1_spacer3 = st.columns(
     (.1, 2, 1.5, 1, .1))
 
 row1_1.title('MMA Fighter Dashboard')
@@ -476,7 +476,7 @@ with row1_2:
 # -------------------------------- ROW 2 -----------------------------------
 # ==========================================================================
 
-row2_spacer1, row2_1, row2_spacer2, row2_2, row2_spacer3 = st.beta_columns(
+row2_spacer1, row2_1, row2_spacer2, row2_2, row2_spacer3 = st.columns(
     (.1, 1.6, .1, 1.6, .1))
 
 with row2_1:
@@ -501,7 +501,7 @@ with row2_1:
 # ==========================================================================
 
 st.write('')
-row1_space1, row1_1, row1_space2, row1_2, row1_space3, row1_3, row1_space4, row1_4, row1_space5 = st.beta_columns(
+row1_space1, row1_1, row1_space2, row1_2, row1_space3, row1_3, row1_space4, row1_4, row1_space5 = st.columns(
     (0.15, 1, .01, 1, .01, 1, 0.01, 1, 0.15))
 
 with row1_1, _lock:
@@ -596,7 +596,7 @@ with row1_4, _lock:
 # ==========================================================================
 
 st.write('')
-row2_space1, row2_1, row2_space2 = st.beta_columns(
+row2_space1, row2_1, row2_space2 = st.columns(
     (.1, 3, 0.1))
 
 
@@ -617,7 +617,7 @@ with row2_1, _lock:
 # ==========================================================================
 
 st.write('')
-row3_space1, row3_1, row3_space2, row3_2, row3_space3, row3_3, row3_space4 = st.beta_columns(
+row3_space1, row3_1, row3_space2, row3_2, row3_space3, row3_3, row3_space4 = st.columns(
     (.15, 1.5, .00000001, 1.5, .00000001, 1.5, 0.15))
 
 with row3_1, _lock:
@@ -638,7 +638,7 @@ with row3_3, _lock:
 # ==========================================================================
 
 st.write('')
-row4_space1, row4_1, row4_space2, row4_2, row4_space3, row4_3, row4_space4 = st.beta_columns(
+row4_space1, row4_1, row4_space2, row4_2, row4_space3, row4_3, row4_space4 = st.columns(
     (.15, 1.5, .00000001, 1.5, .00000001, 1.5, 0.15))
 
 with row4_1, _lock:
@@ -654,11 +654,11 @@ with row4_3, _lock:
 # ==========================================================================
 # -------------------------------- KEY -------------------------------------
 # ==========================================================================
-row6_spacer1, row6_1, row6_spacer2 = st.beta_columns((.1, 3.2, .1))
+row6_spacer1, row6_1, row6_spacer2 = st.columns((.1, 3.2, .1))
 
 with row6_1:
     st.markdown('___')
-    about = st.beta_expander('Key/Additional Info')
+    about = st.expander('Key/Additional Info')
     with about:
         '''
         Data and fight statistics are courtesy of UFCStats.com. Headshots are courtesy of ESPN and is used under fair use. \

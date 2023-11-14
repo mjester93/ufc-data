@@ -1,4 +1,12 @@
 event_id,name,event_date,location
+5a558ba1ff5e9121,UFC 295: Prochazka vs. Pereira,"November 11, 2023","New York City, New York, USA"
+7c4ec656d8fcb867,UFC Fight Night: Almeida vs. Lewis,"November 04, 2023","Sao Paulo, Sao Paulo, Brazil"
+13a0fb8fbdafb54f,UFC 294: Makhachev vs. Volkanovski 2,"October 21, 2023","Abu Dhabi, Abu Dhabi, United Arab Emirates"
+f3a078277b3b8ff4,UFC Fight Night: Yusuff vs. Barboza,"October 14, 2023","Las Vegas, Nevada, USA"
+c8a49ff2acb6f3c5,UFC Fight Night: Dawson vs. Green,"October 07, 2023","Las Vegas, Nevada, USA"
+c945adc22c2bfe8f,UFC Fight Night: Fiziev vs. Gamrot,"September 23, 2023","Las Vegas, Nevada, USA"
+8fa2b06572365321,UFC Fight Night: Grasso vs. Shevchenko 2,"September 16, 2023","Las Vegas, Nevada, USA"
+ece280745f8727b8,UFC 293: Adesanya vs. Strickland,"September 09, 2023","Sydney, New South Wales, Australia"
 ef61d9f5176b3200,UFC Fight Night: Gane vs. Spivac,"September 02, 2023","Paris, Ile-de-France, France"
 89a407032911e27e,UFC Fight Night: Holloway vs. The Korean Zombie,"August 26, 2023","Kallang, Singapore"
 2719f300b0439039,UFC 292: Sterling vs. O'Malley,"August 19, 2023","Boston, Massachusetts, USA"

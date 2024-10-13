@@ -1,4 +1,28 @@
 event_id,fight_id,fighter_one_id,fighter_one_name,fighter_two_id,fighter_two_name,winning_fighter,weight_class,fighter_id,fighter_name
+5bdcbd8dd681a257,998bde5639c61adb,,,,,6e15f63b6c2e2c15,Flyweight,6e15f63b6c2e2c15,Brandon Royval
+5bdcbd8dd681a257,998bde5639c61adb,,,,,6e15f63b6c2e2c15,Flyweight,4461d7e47375a895,Tatsuro Taira
+5bdcbd8dd681a257,6fa2dae90bda4742,,,,,285ae0b4a68221f4,Middleweight,285ae0b4a68221f4,JunYong Park
+5bdcbd8dd681a257,6fa2dae90bda4742,,,,,285ae0b4a68221f4,Middleweight,0c6d9ea8306c029e,Brad Tavares
+5bdcbd8dd681a257,ee5c0b8a757992af,,,,,c68c68efaa5ca6ef,Welterweight,c68c68efaa5ca6ef,Chidi Njokuani
+5bdcbd8dd681a257,ee5c0b8a757992af,,,,,c68c68efaa5ca6ef,Welterweight,c730a0be691dc081,Jared Gooden
+5bdcbd8dd681a257,98c29ba02cee5ba3,,,,,99bd51917728c25d,Lightweight,99bd51917728c25d,Grant Dawson
+5bdcbd8dd681a257,98c29ba02cee5ba3,,,,,99bd51917728c25d,Lightweight,e132d47bd9efbbe0,Rafa Garcia
+5bdcbd8dd681a257,f690949d90ff1dee,,,,,8a1f3b5c526cd6e6,Welterweight,8a1f3b5c526cd6e6,Daniel Rodriguez
+5bdcbd8dd681a257,f690949d90ff1dee,,,,,8a1f3b5c526cd6e6,Welterweight,cdb96af67d096b1e,Alex Morono
+5bdcbd8dd681a257,f1cc9169813c4a3e,,,,,7d0a1968b38ca439,Flyweight,7d0a1968b38ca439,Ramazan Temirov
+5bdcbd8dd681a257,f1cc9169813c4a3e,,,,,7d0a1968b38ca439,Flyweight,077e3ace32b72be9,CJ Vergara
+5bdcbd8dd681a257,69a5895fde58432c,,,,,b8bbdeff718dbb7d,Featherweight,b8bbdeff718dbb7d,Pat Sabatini
+5bdcbd8dd681a257,69a5895fde58432c,,,,,b8bbdeff718dbb7d,Featherweight,87c0b1c696ddfb43,Jonathan Pearce
+5bdcbd8dd681a257,57415110bd494c79,,,,,40f3cb27fc7305a1,Welterweight,40f3cb27fc7305a1,Themba Gorimbo
+5bdcbd8dd681a257,57415110bd494c79,,,,,40f3cb27fc7305a1,Welterweight,d8da10db80131bec,Niko Price
+5bdcbd8dd681a257,85854504ce1aa97a,,,,,c15fa95b9a12fde4,Heavyweight,c15fa95b9a12fde4,Junior Tafa
+5bdcbd8dd681a257,85854504ce1aa97a,,,,,c15fa95b9a12fde4,Heavyweight,0f3a990526c5e706,Sean Sharaf
+5bdcbd8dd681a257,48dd2c9cb39bd2d4,,,,,abb68e3c7ca128f2,Women's Strawweight,abb68e3c7ca128f2,Julia Polastri
+5bdcbd8dd681a257,48dd2c9cb39bd2d4,,,,,abb68e3c7ca128f2,Women's Strawweight,3351aa64aa83c4d9,Cory McKenna
+5bdcbd8dd681a257,b23554da35a84fbc,,,,,8e6654e9f0461b8f,Bantamweight,8e6654e9f0461b8f,Cody Haddon
+5bdcbd8dd681a257,b23554da35a84fbc,,,,,8e6654e9f0461b8f,Bantamweight,e4ba58725825412d,Dan Argueta
+5bdcbd8dd681a257,de484433eef22e1d,,,,,b62d5280966b2460,Flyweight,b62d5280966b2460,Clayton Carpenter
+5bdcbd8dd681a257,de484433eef22e1d,,,,,b62d5280966b2460,Flyweight,e0d3d9b564f95635,Lucas Rocha
 eee8efec7b951d84,8c5e06c71f392f33,,,,,e5549c82bfb5582d,Light Heavyweight,e5549c82bfb5582d,Alex Pereira
 eee8efec7b951d84,8c5e06c71f392f33,,,,,e5549c82bfb5582d,Light Heavyweight,749f572d1d3161fb,Khalil Rountree Jr.
 eee8efec7b951d84,1d68bb733de24b06,,,,,3253b16d38ae087d,Women's Bantamweight,3253b16d38ae087d,Julianna Pena

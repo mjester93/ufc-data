@@ -4,7 +4,7 @@ ufcstats_id,first_name,last_name,full_name,nickname,height,weight,reach,stance,w
 59a9d6dac61c2540,Nariman,Abbasov,Nariman Abbasov,Bayraktar,"5' 8""",155,66.0,Orthodox,28,4,0,False
 b361180739bed4b0,David,Abbott,David Abbott,Tank,"6' 0""",265,,Switch,10,15,0,False
 3329d692aea4dc28,Hamdy,Abdelwahab,Hamdy Abdelwahab,The Hammer,"6' 2""",264,72.0,Southpaw,5,0,0,False
-841695e02c99a521,Mansur,Abdul-Malik,Mansur Abdul-Malik,,"6' 2""",185,79.0,Orthodox,6,0,0,False
+841695e02c99a521,Mansur,Abdul-Malik,Mansur Abdul-Malik,,"6' 2""",185,79.0,Orthodox,7,0,0,False
 2f5cbecbbe18bac4,Shamil,Abdurakhimov,Shamil Abdurakhimov,Abrek,"6' 3""",235,76.0,Orthodox,20,8,0,False
 c0ed7b208197e8de,Hiroyuki,Abe,Hiroyuki Abe,Abe Ani,"5' 6""",145,,Orthodox,8,15,3,False
 5140122c3eecd307,Daichi,Abe,Daichi Abe,,"5' 11""",170,71.0,Orthodox,6,2,0,False
@@ -20,7 +20,7 @@ a77633a989013265,Anthony,Adams,Anthony Adams,Sugafoot,"6' 1""",185,76.0,Orthodox
 79cb2a690b9ba5e8,Zarrukh,Adashev,Zarrukh Adashev,The Lion,"5' 5""",125,65.0,Southpaw,4,4,0,False
 1338e2c7480bdf9e,Israel,Adesanya,Israel Adesanya,The Last Stylebender,"6' 4""",185,80.0,Switch,24,4,0,False
 0e9869d712e81f8f,Sam,Adkins,Sam Adkins,The Experience,"6' 3""",225,,Orthodox,7,20,2,False
-7a846fcbf182a7c8,Mohamed,Ado,Mohamed Ado,,--,170,,Switch,5,0,0,False
+7a846fcbf182a7c8,Mohamed,Ado,Mohamed Ado,,"5' 11""",170,76.0,Switch,5,1,0,False
 ebc5af72ad5a28cb,Nick,Agallar,Nick Agallar,,"5' 8""",155,,Orthodox,24,6,0,False
 a08ddd04eaffd81d,Mariya,Agapova,Mariya Agapova,Money Mashka,"5' 6""",125,68.0,Southpaw,10,5,0,False
 26f4288e83188c61,Kantharaj,Agasa,Kantharaj Agasa,Kannadiga,--,135,,,12,3,0,False
@@ -44,7 +44,7 @@ b0550072e5f0afa7,Yoshihiro,Akiyama,Yoshihiro Akiyama,,"5' 10""",170,75.0,Orthodo
 7578cc6bd750206b,Herdem,Alacabek,Herdem Alacabek,,"6' 2""",205,75.0,Orthodox,5,1,0,False
 2144954270be834d,Javi,Alanis,Javi Alanis,,"5' 6""",135,,,0,4,0,False
 1897b7b913736a7c,,Alatengheili, Alatengheili,The Mongolian Knight,"5' 5""",135,66.0,Orthodox,17,9,2,False
-6d35bf94f7d30241,Amir,Albazi,Amir Albazi,The Prince,"5' 5""",125,68.0,Orthodox,17,1,0,False
+6d35bf94f7d30241,Amir,Albazi,Amir Albazi,The Prince,"5' 5""",125,68.0,Orthodox,17,2,0,False
 9b28292abe3166d5,Brett,Albee,Brett Albee,,--,225,,,3,2,0,False
 7bd94b60d7521e4a,John,Albert,John Albert,Prince,"5' 8""",135,68.0,Orthodox,6,5,0,False
 c482c8605455a213,Junior,Albini,Junior Albini,Baby,"6' 3""",264,74.0,Orthodox,14,6,0,False
@@ -76,7 +76,7 @@ b757c73f443d4fca,Olaf,Alfonso,Olaf Alfonso,,"6' 2""",170,,Orthodox,8,12,0,False
 669a3cb6e394f515,Royce,Alger,Royce Alger,,"5' 10""",199,,Orthodox,3,2,0,False
 e17770faae3ca54c,Amir,Aliakbari,Amir Aliakbari,,"6' 3""",250,,,10,1,0,False
 e70de1859b7ee78e,Sultan,Aliev,Sultan Aliev,,"5' 11""",170,74.0,Orthodox,15,3,0,False
-ca28cdf526d6b6e9,Nurullo,Aliev,Nurullo Aliev,Tajik Eagle,"5' 10""",155,72.0,Orthodox,9,0,0,False
+ca28cdf526d6b6e9,Nurullo,Aliev,Nurullo Aliev,Tajik Eagle,"5' 10""",155,72.0,Orthodox,10,0,0,False
 b07aed698fba8624,Ikram,Aliskerov,Ikram Aliskerov,,"6' 0""",185,76.0,Southpaw,15,2,0,False
 6db394bf6c3b017c,Leon,Aliu,Leon Aliu,The Albanian Lion,"6' 0""",185,74.0,Orthodox,10,2,0,False
 6ebe96a116e79e52,John,Allan,John Allan,,"6' 1""",205,75.0,Orthodox,13,7,0,False
@@ -85,7 +85,7 @@ b07aed698fba8624,Ikram,Aliskerov,Ikram Aliskerov,,"6' 0""",185,76.0,Southpaw,15,
 2f181c0467965b98,Brendan,Allen,Brendan Allen,All In,"6' 2""",185,75.0,Orthodox,24,6,0,False
 adf9a901308fb8e3,Daniel,Allen,Daniel Allen,,"6' 0""",155,75.0,Southpaw,5,0,0,False
 c4fe2e9a06ea5bcb,Ben,Alloway,Ben Alloway,Blanco,"5' 11""",170,76.0,Orthodox,18,8,0,False
-8d3273573b85be09,Asu,Almabayev,Asu Almabayev,Zulfikar,"5' 4""",125,65.0,Orthodox,20,2,0,False
+8d3273573b85be09,Asu,Almabayev,Asu Almabayev,Zulfikar,"5' 4""",125,65.0,Orthodox,21,2,0,False
 a4dc0f2b95df4cc1,Bekzat,Almakhan,Bekzat Almakhan,The Turan Warrior,"5' 7""",135,68.0,Orthodox,11,2,0,False
 088aa1b19b2dc14a,John Dave,Almanza,John Dave Almanza,The Striker,"5' 7""",125,67.0,Southpaw,6,1,0,False
 91186547a7f3f758,Ricardo,Almeida,Ricardo Almeida,Big Dog,"6' 0""",170,74.0,Orthodox,13,5,0,False
@@ -95,7 +95,7 @@ d615d6a10a4704cd,Magno,Almeida,Magno Almeida,,"6' 0""",155,,,10,3,0,False
 f16ddfa31236efed,Estefani,Almeida,Estefani Almeida,,"5' 4""",125,,Orthodox,7,3,0,False
 41e83a89929d1327,Jailton,Almeida,Jailton Almeida,Malhadinho,"6' 3""",205,79.0,Orthodox,21,3,0,False
 710f0f8c5d5c9d41,Lucas,Almeida,Lucas Almeida,,"5' 11""",145,71.0,Orthodox,15,3,0,False
-64d47ef881a437a4,Cesar,Almeida,Cesar Almeida,Cesinha,"6' 1""",185,74.0,Orthodox,6,1,0,False
+64d47ef881a437a4,Cesar,Almeida,Cesar Almeida,Cesinha,"6' 1""",185,74.0,Orthodox,7,1,0,False
 c6bf75775b278ed8,Mauricio,Alonso,Mauricio Alonso,,"6' 2""",170,,,13,7,0,False
 49b130de1da2e1bf,Sarah,Alpar,Sarah Alpar,Too Sweet,"5' 4""",135,63.0,Southpaw,9,6,0,False
 e87a13e02c01331d,Ali,AlQaisi,Ali AlQaisi,The Royal Fighter,"5' 6""",135,68.0,Orthodox,8,5,0,False
@@ -106,7 +106,7 @@ c11036da9162cb5f,Mike,Altman,Mike Altman,,"5' 10""",185,,Orthodox,1,4,0,False
 e741536153227386,Sean,Alvarez,Sean Alvarez,,"6' 0""",235,,Orthodox,4,3,0,False
 33a331684283900f,Eddie,Alvarez,Eddie Alvarez,,"5' 9""",155,69.0,Orthodox,29,6,0,False
 4438482bd1d5a029,Jaime,Alvarez,Jaime Alvarez,,"5' 8""",125,69.0,Orthodox,6,1,0,False
-58bbef3770bb2dfc,Joel,Alvarez,Joel Alvarez,El Fenomeno,"6' 3""",155,77.0,Orthodox,21,3,0,False
+58bbef3770bb2dfc,Joel,Alvarez,Joel Alvarez,El Fenomeno,"6' 3""",155,77.0,Orthodox,22,3,0,False
 31ee470ef5dc8d7f,Thiago,Alves,Thiago Alves,Pitbull,"5' 9""",170,70.0,Orthodox,23,15,0,False
 bd92cf5da5413d2a,Anthony,Alves,Anthony Alves,,--,,,,1,4,0,False
 dc5a6b2fdb27e7dc,Amilcar,Alves,Amilcar Alves,,"6' 0""",170,,Southpaw,15,12,0,False
@@ -126,7 +126,7 @@ d562b12b8fe88336,JJ,Ambrose,JJ Ambrose,,"5' 10""",170,,Orthodox,28,7,0,False
 bc7d1ad49fcb2d08,Jaqueline,Amorim,Jaqueline Amorim,,"5' 3""",115,68.0,Orthodox,9,1,0,False
 53adf5b845d91e4a,Bertrand,Amoussou,Bertrand Amoussou,,"5' 8""",190,,Orthodox,1,1,0,False
 23a8c33869bf5392,Karl,Amoussou,Karl Amoussou,The Psycho,"5' 11""",185,,Orthodox,27,7,2,False
-cad24459b28592ca,Eryk,Anders,Eryk Anders,Ya Boi,"6' 1""",185,75.0,Southpaw,16,8,0,False
+cad24459b28592ca,Eryk,Anders,Eryk Anders,Ya Boi,"6' 1""",185,75.0,Southpaw,17,8,0,False
 8738eacd62e82a32,Matt,Andersen,Matt Andersen,,"6' 2""",230,,Southpaw,14,8,1,False
 9199e0735b83dd32,Andy,Anderson,Andy Anderson,The Hammer,"5' 6""",240,,,0,1,0,False
 1ffc38f67785797b,Lowell,Anderson,Lowell Anderson,,"5' 6""",160,,Orthodox,0,1,0,False
@@ -146,9 +146,9 @@ d221ee27afc7a60e,Viscardi,Andrade,Viscardi Andrade,,"5' 11""",170,75.0,Orthodox,
 d6a3e131ad4ba064,,Angga, Angga,The Hitman,"5' 7""",145,68.0,Orthodox,13,3,0,False
 e20ad078a7d63361,Julius,Anglickas,Julius Anglickas,,"6' 3""",205,,Orthodox,5,1,0,False
 047a91d3d9c79b05,Collin,Anglin,Collin Anglin,,"5' 9""",145,71.0,Orthodox,8,3,0,False
-c7c39e2fb70248b3,Chad,Anheliger,Chad Anheliger,The Monster,"5' 6""",135,64.0,Orthodox,13,7,0,False
+c7c39e2fb70248b3,Chad,Anheliger,Chad Anheliger,The Monster,"5' 6""",135,64.0,Orthodox,13,8,0,False
 e06fd1260ac865a7,Yoji,Anjo,Yoji Anjo,Mr. 200%,"5' 11""",205,,Orthodox,0,5,1,False
-d802174b0c0c1f4e,Magomed,Ankalaev,Magomed Ankalaev,,"6' 3""",205,75.0,Orthodox,19,1,1,False
+d802174b0c0c1f4e,Magomed,Ankalaev,Magomed Ankalaev,,"6' 3""",205,75.0,Orthodox,20,1,1,False
 af997f7611673880,Gadzhimurad,Antigulov,Gadzhimurad Antigulov,,"5' 11""",205,70.0,Orthodox,20,8,0,False
 25b31165758402dd,Adam,Antolin,Adam Antolin,Captain Chaos,"5' 5""",125,63.0,Orthodox,12,3,0,False
 dbd198f780286aca,Angelo,Antonio,Angelo Antonio,,--,205,,Orthodox,1,4,0,False
@@ -163,17 +163,17 @@ cc49ada1ea955b13,Vanilto,Antunes,Vanilto Antunes,,"6' 0""",170,72.0,Orthodox,16,
 73ef22f25d0f70e2,Romie,Aram,Romie Aram,,"5' 10""",170,,Orthodox,7,1,0,False
 71002dbc1743b9a7,Felipe,Arantes,Felipe Arantes,Sertanejo,"5' 8""",135,73.0,Orthodox,18,10,1,False
 dbea8c1cb327ab3d,Igor,Araujo,Igor Araujo,,"6' 1""",170,77.0,Orthodox,25,9,0,False
-36541f1e6c5d4955,Viviane,Araujo,Viviane Araujo,Vivi,"5' 4""",125,68.0,Orthodox,12,6,0,False
+36541f1e6c5d4955,Viviane,Araujo,Viviane Araujo,Vivi,"5' 4""",125,68.0,Orthodox,13,6,0,False
 1291edf2d566a71a,Julio,Arce,Julio Arce,,"5' 7""",145,70.0,Southpaw,19,6,0,False
 d25e39e74efb0a77,Art,Arciniega,Art Arciniega,King Arthur,"5' 8""",145,,,15,7,0,False
-87f8699fdcc2c404,Alice,Ardelean,Alice Ardelean,,"5' 3""",115,62.0,Orthodox,9,6,0,False
+87f8699fdcc2c404,Alice,Ardelean,Alice Ardelean,,"5' 3""",115,62.0,Orthodox,9,7,0,False
 9c9455912d917e4e,Tristan,Arenal,Tristan Arenal,,--,155,,,7,4,0,False
 db3c4a884d704efe,Gabriel,Arges,Gabriel Arges,,--,170,,,0,0,0,False
 e4ba58725825412d,Dan,Argueta,Dan Argueta,The Determined,"5' 7""",135,68.0,Southpaw,9,3,0,False
 90063913321e7670,Reza,Arianto,Reza Arianto,The Crazy Lion,--,155,,,5,0,0,False
 9a7ffa80766caa51,Hashem,Arkhagha,Hashem Arkhagha,,"6' 2""",185,75.0,Orthodox,6,1,0,False
 3738e68d2261e60f,Andrei,Arlovski,Andrei Arlovski,The Pitbull,"6' 3""",240,77.0,Orthodox,34,24,0,False
-1effd880e1f1bb30,Garrett,Armfield,Garrett Armfield,,"5' 6""",135,70.0,Orthodox,10,4,0,False
+1effd880e1f1bb30,Garrett,Armfield,Garrett Armfield,,"5' 6""",135,70.0,Orthodox,10,5,0,False
 30ad2050273d016a,Joey,Armstrong,Joey Armstrong,,--,,,,5,2,0,False
 bf0e700106d00e55,Austin,Arnett,Austin Arnett,,"6' 0""",145,72.0,Orthodox,16,6,0,False
 05fbfe628658c538,Ricardo,Arona,Ricardo Arona,The Brazilian Tiger,"5' 11""",205,,Orthodox,14,5,0,False
@@ -185,7 +185,7 @@ de62052b2ede65ba,Matt,Arroyo,Matt Arroyo,No Regard,"5' 10""",170,72.0,Orthodox,3
 2dea80c069847321,Gilles,Arsene,Gilles Arsene,,"5' 9""",190,,Southpaw,1,1,0,False
 91e3388e69060e69,Veta,Arteaga,Veta Arteaga,,"5' 7""",125,,,3,1,0,False
 49f78022126bf4a4,Cesar,Arzamendia,Cesar Arzamendia,Goku,"5' 11""",155,,Orthodox,8,3,0,False
-d33da8a3d82bdb62,Kai,Asakura,Kai Asakura,,--,125,,,21,4,0,False
+d33da8a3d82bdb62,Kai,Asakura,Kai Asakura,,"5' 8""",125,69.0,Orthodox,21,5,0,False
 a373085066dbfb54,Teddy,Ash,Teddy Ash,Bear,"6' 1""",185,73.0,Switch,14,5,0,False
 d26a0988c9dc9886,Arman,Ashimov,Arman Ashimov,Mustafa Ozturik,"5' 6""",125,,,11,3,1,False
 c739c2995a275314,Yanal,Ashmouz,Yanal Ashmouz,Red Fox,"5' 9""",155,69.0,Orthodox,8,1,0,False
@@ -196,7 +196,7 @@ b1d19449397541dc,Askar,Askarov,Askar Askarov,Bullet,"5' 6""",125,67.0,Orthodox,1
 5c10da56d712ac9c,Khusein,Askhabov,Khusein Askhabov,Nohcho,"5' 8""",145,69.0,Orthodox,23,1,0,False
 06827d70c53ff0d9,Scott,Askham,Scott Askham,,"6' 3""",185,75.0,Southpaw,14,4,0,False
 0b31f87be71ebbb1,Ben,Askren,Ben Askren,Funky,"5' 11""",170,73.0,Orthodox,19,2,0,False
-6e8f1bcdda94ff45,Ibo,Aslan,Ibo Aslan,The Last Ottoman,"6' 3""",205,77.0,Orthodox,13,1,0,False
+6e8f1bcdda94ff45,Ibo,Aslan,Ibo Aslan,The Last Ottoman,"6' 3""",205,77.0,Orthodox,14,1,0,False
 399afbabc02376b5,Tom,Aspinall,Tom Aspinall,,"6' 5""",256,78.0,Orthodox,15,3,0,True
 ff222167cce02919,Bruno,Assis,Bruno Assis,Brunao,"6' 2""",185,,Orthodox,8,4,0,False
 d0d7160824278840,Junior,Assuncao,Junior Assuncao,,"5' 9""",145,72.0,Orthodox,16,6,0,False
@@ -218,7 +218,7 @@ da603332ad41f165,Saad,Awad,Saad Awad,Assassin,"5' 11""",155,,,20,9,0,False
 26387c19f32dda0f,Javy,Ayala,Javy Ayala,Eye Candy,"6' 1""",265,,,10,5,0,False
 6eaec40f724852f4,Jessin,Ayari,Jessin Ayari,,"6' 0""",155,73.0,Orthodox,16,6,0,False
 46d0a888d87d91ac,Abu,Azaitar,Abu Azaitar,Captain Morocco,"5' 9""",185,76.0,Orthodox,14,4,1,False
-ee18ff42063174df,Ottman,Azaitar,Ottman Azaitar,Bulldozer,"5' 8""",155,71.0,Switch,13,2,0,False
+ee18ff42063174df,Ottman,Azaitar,Ottman Azaitar,Bulldozer,"5' 8""",155,71.0,Switch,13,3,0,False
 063649e21bc9d6d5,Luiz,Azeredo,Luiz Azeredo,,"5' 9""",154,,Orthodox,15,10,0,False
 9bcfb40dbcd50568,Luciano,Azevedo,Luciano Azevedo,,"6' 3""",161,,Orthodox,17,9,1,False
 2af2f2e26c4c0402,Hunter,Azure,Hunter Azure,,"5' 8""",145,69.0,Orthodox,9,2,0,False
@@ -262,7 +262,7 @@ c06a5c95f1169c0b,James,Barnes,James Barnes,Mooka,"5' 8""",135,71.0,Orthodox,14,5
 78a5eea49638685d,Nick,Barnes,Nick Barnes,,"5' 11""",170,,,11,2,0,False
 e575b6ff678c1aca,Shonte,Barnes,Shonte Barnes,Shyne,"5' 11""",185,76.0,Southpaw,6,2,1,False
 ad3f53c454cbbead,Josh,Barnett,Josh Barnett,The Warmaster,"6' 3""",250,78.0,Orthodox,35,8,0,False
-7a5e8c94a86f9895,Chris,Barnett,Chris Barnett,Beastboy,"5' 9""",265,75.0,Orthodox,23,8,0,False
+7a5e8c94a86f9895,Chris,Barnett,Chris Barnett,Beastboy,"5' 9""",265,75.0,Orthodox,23,9,0,False
 91e69a1c3c87325b,Chris,Barnhizer,Chris Barnhizer,,--,,,,2,3,0,False
 80c0bed43da0e27b,David,Baron,David Baron,,"5' 6""",155,,Switch,17,4,1,False
 1652f3213655b935,Phil,Baroni,Phil Baroni,The New York Bad Ass,"5' 9""",170,72.0,Orthodox,15,18,0,False
@@ -270,7 +270,7 @@ f12f979b657ab876,Dan,Barrera,Dan Barrera,The Fireman,"5' 9""",170,,Orthodox,3,1,
 a220be6d41d6f97d,Carlos,Barreto,Carlos Barreto,,"6' 4""",230,,Orthodox,14,9,0,False
 c32eab6c2119e989,Jose,Barreto,Jose Barreto,,--,185,,Southpaw,0,1,0,False
 d21113c9ff3788ae,Peter,Barrett,Peter Barrett,Slippery,"5' 10""",145,73.0,Southpaw,11,5,0,False
-8e9eb3fc86db0f7d,Marc-Andre,Barriault,Marc-Andre Barriault,Powerbar,"6' 1""",185,74.0,Orthodox,16,8,0,False
+8e9eb3fc86db0f7d,Marc-Andre,Barriault,Marc-Andre Barriault,Powerbar,"6' 1""",185,74.0,Orthodox,16,9,0,False
 e6015889f50075d2,David,Barrios,David Barrios,,"5' 6""",145,,,4,8,0,False
 8fd1f27e86661ede,Alexandre,Barros,Alexandre Barros,Baixinho,"5' 9""",170,,Southpaw,22,11,0,False
 d26394fc0e8e880a,Ricardo,Barros,Ricardo Barros,,"6' 1""",205,,,2,2,0,False
@@ -279,14 +279,14 @@ b69f24c500d783e7,Francimar,Barroso,Francimar Barroso,Bodao,"6' 1""",205,75.0,Ort
 a6f3d15cb84334bb,Dean,Barry,Dean Barry,The Sniper,"5' 10""",170,72.0,Orthodox,4,2,0,False
 be0b310a12eb80b4,Enrique,Barzola,Enrique Barzola,El Fuerte,"5' 7""",145,70.0,Orthodox,17,5,2,False
 bbab3baf66128ae2,Javid,Basharat,Javid Basharat,The Snow Leopard,"5' 9""",135,69.0,Orthodox,14,1,0,False
-a09ed60aa67a3f67,Farid,Basharat,Farid Basharat,Ferocious,"5' 8""",135,71.0,Orthodox,12,0,0,False
-d3f89fa685bd8420,Austin,Bashi,Austin Bashi,,"5' 6""",145,70.0,Orthodox,13,0,0,False
+a09ed60aa67a3f67,Farid,Basharat,Farid Basharat,Ferocious,"5' 8""",135,71.0,Orthodox,13,0,0,False
+d3f89fa685bd8420,Austin,Bashi,Austin Bashi,,"5' 6""",145,70.0,Orthodox,13,1,0,False
 1cecc8fe6748a532,Stephen,Bass,Stephen Bass,Bigfish,"5' 9""",145,,Orthodox,11,2,0,False
 2c733e059462c1dc,Sean,Bassett,Sean Bassett,,--,155,,,0,4,0,False
 29508aff4d93cbbe,Ryan,Bastianelli,Ryan Bastianelli,Relentless,"5' 5""",135,,,6,7,0,False
 8ef4a91ac694b7ce,Shayna,Baszler,Shayna Baszler,The Queen of Spades,"5' 7""",135,,Orthodox,15,11,0,False
 34218661c44ed55d,Michel,Batista,Michel Batista,,"6' 3""",260,,Orthodox,4,1,0,False
-f626118b6da0e020,Bryan,Battle,Bryan Battle,The Butcher,"6' 1""",170,77.0,Orthodox,12,2,0,False
+f626118b6da0e020,Bryan,Battle,Bryan Battle,The Butcher,"6' 1""",170,77.0,Orthodox,13,2,0,False
 c9a94278df042f46,Alan,Baudot,Alan Baudot,The Black Samourai,"6' 3""",243,79.0,Orthodox,8,3,0,False
 bc711b6dd95c1af6,Mario,Bautista,Mario Bautista,,"5' 9""",135,69.0,Switch,15,2,0,False
 55f446032177b119,Chris,Beal,Chris Beal,Real Deal,"5' 7""",125,69.0,Orthodox,10,5,0,False
@@ -301,6 +301,7 @@ ffc3e6daaa6da0b7,Johnny,Bedford,Johnny Bedford,Brutal,"5' 10""",135,71.0,Orthodo
 b16a7e6a627e9789,Chase,Beebe,Chase Beebe,,"5' 7""",135,67.0,Orthodox,24,13,1,False
 babc6b5745335f18,Lyle,Beerbohm,Lyle Beerbohm,Fancy Pants,"5' 10""",155,,Southpaw,24,3,0,False
 d6ed764f8b78d32a,Allan,Begosso,Allan Begosso,Mini,"5' 5""",135,66.0,Orthodox,7,2,1,False
+3bc3f60b21cddc6a,Azamat,Bekoev,Azamat Bekoev,King Pin,--,185,,,18,3,0,False
 cbd3e590a85b18c5,Mirsad,Bektic,Mirsad Bektic,,"5' 8""",145,70.0,Orthodox,13,4,0,False
 d7e40dca3ae125be,Diana,Belbita,Diana Belbita,The Warrior Princess,"5' 7""",115,68.0,Orthodox,15,9,0,False
 4130a743d9d22163,Alan,Belcher,Alan Belcher,The Talent,"6' 2""",185,75.0,Orthodox,18,8,0,False
@@ -363,9 +364,9 @@ b2f743746e8dcfa2,Jason,Black,Jason Black,The Black Legion,"5' 8""",155,,Orthodox
 619d807fa54ae8f7,Jason,Blackford,Jason Blackford,,--,,,,3,3,0,False
 2adb11835acd815b,Tom,Blackledge,Tom Blackledge,,--,205,,Orthodox,10,7,0,False
 0e5c79b3594ff0ad,Sherrard,Blackledge,Sherrard Blackledge,The Thriller,"5' 11""",155,75.0,Orthodox,5,1,0,False
-da22387a0407a2dc,Da'Mon,Blackshear,Da'Mon Blackshear,The Monster,"5' 10""",135,72.0,Switch,14,7,1,False
+da22387a0407a2dc,Da'Mon,Blackshear,Da'Mon Blackshear,The Monster,"5' 10""",135,72.0,Switch,15,7,1,False
 0f4a536507f33576,Chasen,Blair,Chasen Blair,Mestizo,"5' 10""",155,71.0,Orthodox,6,3,0,False
-669970f7feba8ecd,Erin,Blanchfield,Erin Blanchfield,Cold Blooded,"5' 4""",125,66.0,Orthodox,12,2,0,False
+669970f7feba8ecd,Erin,Blanchfield,Erin Blanchfield,Cold Blooded,"5' 4""",125,66.0,Orthodox,13,2,0,False
 4a1329cc8eb0928a,Maximo,Blanco,Maximo Blanco,Maxi,"5' 8""",145,71.0,Orthodox,12,8,1,False
 ebf298f8ac7e232b,David,Blanco,David Blanco,,"5' 7""",145,,,2,0,0,False
 fa6796c55d6c5440,Curtis,Blaydes,Curtis Blaydes,Razor,"6' 4""",265,80.0,Orthodox,18,5,0,False
@@ -386,7 +387,7 @@ d61316139d68dbe3,Roman,Bogatov,Roman Bogatov,,"5' 8""",155,73.0,Orthodox,10,1,0,
 93892752c5fc23ca,Jerry,Bohlander,Jerry Bohlander,,"5' 11""",199,,Orthodox,11,4,0,False
 297a2b35444c245b,Mandy,Bohm,Mandy Bohm,Monster,"5' 7""",125,71.0,Orthodox,8,2,0,False
 d227958e8a0c1466,Kotetsu,Boku,Kotetsu Boku,,"5' 9""",154,,Orthodox,25,11,2,False
-96924b0019b3aff1,Gaston,Bolanos,Gaston Bolanos,The Dreamkiller,"5' 7""",135,69.0,Orthodox,7,4,0,False
+96924b0019b3aff1,Gaston,Bolanos,Gaston Bolanos,The Dreamkiller,"5' 7""",135,69.0,Orthodox,8,4,0,False
 9d455d5cfe6a0e35,Kyle,Bolt,Kyle Bolt,,"6' 2""",185,,,8,4,0,False
 2526be54e6a0e62a,Denys,Bondar,Denys Bondar,Psycho,"5' 6""",125,69.0,Orthodox,14,5,0,False
 8691881b31c16b88,Luc,Bondole,Luc Bondole,,"6' 2""",205,,,5,2,2,False
@@ -428,13 +429,13 @@ a6959da32f0e6b5d,Kyle,Bradley,Kyle Bradley,,"5' 9""",155,71.0,Orthodox,19,12,0,F
 c7011de4765d2497,Paul,Bradley,Paul Bradley,The Gentleman,"5' 9""",170,,Orthodox,23,8,0,False
 45f7cb591c3ab00b,Sean,Brady,Sean Brady,,"5' 10""",170,72.0,Orthodox,17,1,0,False
 dc950d59dc590aca,Ebenezer Fontes,Braga,Ebenezer Fontes Braga,Pitbull,"6' 0""",199,,Orthodox,13,7,2,False
-3d074044a33825e7,Ramiz,Brahimaj,Ramiz Brahimaj,,"5' 10""",170,72.0,Orthodox,10,5,0,False
+3d074044a33825e7,Ramiz,Brahimaj,Ramiz Brahimaj,,"5' 10""",170,72.0,Orthodox,11,5,0,False
 3c99bd6cb5d835ef,Adam,Bramhald,Adam Bramhald,Samurai,"5' 10""",135,70.0,Orthodox,13,3,0,False
 013da757877044a2,Joe,Brammer,Joe Brammer,The South Side Strangler,"5' 8""",155,,Orthodox,7,3,1,False
 d2c55d1d2e67773b,David,Branch,David Branch,,"6' 1""",185,78.0,Orthodox,22,6,0,False
 edae6db2b3453632,Billy,Brand,Billy Brand,,"5' 6""",135,65.0,Orthodox,5,2,0,False
 c2e3e67b5911bfb7,Diego,Brandao,Diego Brandao,DB,"5' 7""",145,64.0,Orthodox,22,11,0,False
-7138a15258dabf20,Bruna,Brasil,Bruna Brasil,,"5' 6""",115,65.0,Orthodox,10,4,1,False
+7138a15258dabf20,Bruna,Brasil,Bruna Brasil,,"5' 6""",125,65.0,Orthodox,10,4,1,False
 dc63542668295c23,Michael,Bravo,Michael Bravo,,--,155,,,7,4,0,False
 9c44f290f5726d95,Martin,Bravo,Martin Bravo,El Toro,"5' 8""",145,71.0,Southpaw,11,3,0,False
 37ce890a4670b287,Roman,Bravo-Young,Roman Bravo-Young,,--,205,,,0,1,0,False
@@ -469,7 +470,7 @@ e0b74df14f52cd15,Mike,Brown,Mike Brown,,"5' 6""",145,70.0,Orthodox,26,9,0,False
 85df85a4e276c90e,Terrell,Brown,Terrell Brown,,--,185,,,3,1,0,False
 9e2624ac992660c6,Chris,Brown,Chris Brown,,--,170,,,10,1,0,False
 880c6b788266a3ef,Frederick,Brown,Frederick Brown,,"6' 0""",235,,,3,2,0,False
-c6aee362c7a7d482,Randy,Brown,Randy Brown,Rudeboy,"6' 3""",170,78.0,Orthodox,19,5,0,False
+c6aee362c7a7d482,Randy,Brown,Randy Brown,Rudeboy,"6' 3""",170,78.0,Orthodox,19,6,0,False
 d024ed963e8bf7ea,Damien,Brown,Damien Brown,Beatdown,"5' 10""",155,68.0,Orthodox,17,12,0,False
 d31cbcdd7d69536d,TJ,Brown,TJ Brown,Downtown,"5' 9""",145,72.0,Switch,17,11,0,False
 e9e7e1c8ff289e1b,Humberto,Brown Morrison,Humberto Brown Morrison,,"5' 10""",145,,,4,6,0,False
@@ -484,23 +485,23 @@ b1a3e0aca758b322,Derek,Brunson,Derek Brunson,The One,"6' 1""",185,77.0,Southpaw,
 01f022fa494188e2,Josh,Bryant,Josh Bryant,The Beast,"5' 10""",185,,Orthodox,15,4,0,False
 3b17353b8002c7d0,Dennis,Bryant,Dennis Bryant,The Beard,"6' 0""",205,,Orthodox,5,2,0,False
 f96856f9d69fd7e4,Robert,Bryczek,Robert Bryczek,,"6' 0""",185,75.0,Orthodox,17,6,0,False
-0c25d0a5e8cdbf19,Lukasz,Brzeski,Lukasz Brzeski,The Bull,"6' 4""",236,78.0,Orthodox,9,5,1,False
+0c25d0a5e8cdbf19,Lukasz,Brzeski,Lukasz Brzeski,The Bull,"6' 4""",236,78.0,Orthodox,9,6,1,False
 231926533134ec1f,Justin,Buchholz,Justin Buchholz,,"6' 0""",155,73.0,Orthodox,15,10,0,False
 6bbb8dc6e128779e,Zak,Bucia,Zak Bucia,,"5' 10""",170,,,17,8,0,False
 3feed7d02711d8b7,Courtney,Buck,Courtney Buck,,"5' 10""",135,,Orthodox,12,11,0,False
-b9437600497350f3,Joaquin,Buckley,Joaquin Buckley,New Mansa,"5' 10""",170,76.0,Southpaw,20,6,0,False
+b9437600497350f3,Joaquin,Buckley,Joaquin Buckley,New Mansa,"5' 10""",170,76.0,Southpaw,21,6,0,False
 8eb046f83e82bf26,Martin,Buday,Martin Buday,Badys,"6' 4""",265,77.0,Orthodox,14,2,0,False
 dcdc4503b9d49977,Julia,Budd,Julia Budd,,"5' 7""",145,67.0,,10,2,0,False
 a817e238b2747404,Dylan,Budka,Dylan Budka,The Mindless Hulk,"6' 0""",185,75.0,Switch,7,4,0,False
 b98209144b63ae26,Mike,Budnik,Mike Budnik,,"5' 9""",145,68.0,Orthodox,13,4,0,False
 a72d260b436924c4,Francisco,Bueno,Francisco Bueno,,"5' 9""",225,,Orthodox,5,2,0,False
-cc8c623cca88f54f,Mayra,Bueno Silva,Mayra Bueno Silva,Sheetara,"5' 6""",135,66.0,Orthodox,10,4,1,False
+cc8c623cca88f54f,Mayra,Bueno Silva,Mayra Bueno Silva,Sheetara,"5' 6""",125,66.0,Orthodox,10,4,1,False
 f0abbb6f3444dae7,Paul,Buentello,Paul Buentello,The Headhunter,"6' 2""",245,77.0,Orthodox,35,17,0,False
 476fe566d2df676e,Modestas,Bukauskas,Modestas Bukauskas,The Baltic Gladiator,"6' 3""",205,78.0,Switch,16,6,0,False
 c0342805a1948cbb,Lee Kwan,Bum,Lee Kwan Bum,,"6' 2""",286,,Orthodox,0,1,0,False
 9900ab86a4c458bd,Josh,Bumgarner,Josh Bumgarner,,"6' 1""",170,,,6,4,0,False
 6e9af164ab91a229,Shawn,Bunch,Shawn Bunch,Bunch the Great,"5' 5""",135,,,7,3,0,False
-53c10176e3bc7416,Felipe,Bunes,Felipe Bunes,Felipinho,"5' 7""",125,69.0,Orthodox,13,7,0,False
+53c10176e3bc7416,Felipe,Bunes,Felipe Bunes,Felipinho,"5' 7""",125,69.0,Orthodox,14,7,0,False
 98d961097baaf308,Shane,Burgos,Shane Burgos,Hurricane,"5' 11""",145,75.0,Orthodox,15,3,0,False
 6da99156486ed6c2,Joshua,Burkman,Joshua Burkman,The People's Warrior,"5' 10""",170,72.0,Orthodox,28,16,0,False
 dadd80ef954e54ed,Justin,Burlinson,Justin Burlinson,,"6' 1""",170,74.0,Switch,6,1,0,False
@@ -539,7 +540,7 @@ b1e5bcaad32a3cac,Priscila,Cachoeira,Priscila Cachoeira,Zombie Girl,"5' 7""",125,
 800feaa25700a85f,Ricky,Calatayud,Ricky Calatayud,,"5' 9""",125,,,16,2,0,False
 7d4d7583df7eebf9,Carlos,Calderon,Carlos Calderon,Chief,"5' 11""",145,71.0,Southpaw,6,3,0,False
 b7dc25ee40ee8334,Darrion,Caldwell,Darrion Caldwell,The Wolf,"5' 10""",135,,,10,1,0,False
-fc0a4053eb8a3a59,Nicolle,Caliari,Nicolle Caliari,,"5' 3""",125,62.0,Orthodox,8,2,0,False
+fc0a4053eb8a3a59,Nicolle,Caliari,Nicolle Caliari,,"5' 3""",125,62.0,Orthodox,8,3,0,False
 53d471e9bf5f2fc8,Taylor,Callens,Taylor Callens,,"5' 10""",155,,,6,0,0,False
 98215d037be5bcb7,Cynthia,Calvillo,Cynthia Calvillo,,"5' 4""",115,64.0,Orthodox,9,6,1,False
 dfb965c9824425db,Joe,Camacho,Joe Camacho,,"5' 9""",155,,Orthodox,13,19,3,False
@@ -629,14 +630,14 @@ e3964ece586e0635,Jacqueline,Cavalcanti,Jacqueline Cavalcanti,,"5' 8""",135,70.0,
 b27b8881d7444114,Adam,Cella,Adam Cella,El Naturel,"6' 2""",170,,,6,8,0,False
 f21a152aaa3e95c6,Vinicius,Cenci,Vinicius Cenci,Chambinho,"6' 1""",155,74.0,Orthodox,7,2,0,False
 e872e9a9a902c045,Katlyn,Cerminara,Katlyn Cerminara,Blonde Fighter,"5' 9""",125,68.0,Orthodox,18,6,0,False
-09a4447655fd4b7b,Rafael,Cerqueira,Rafael Cerqueira,BJJ,--,205,,,11,0,0,False
+09a4447655fd4b7b,Rafael,Cerqueira,Rafael Cerqueira,The Lion,"6' 3""",205,76.0,Southpaw,11,1,0,False
 1d00756835ca67c9,Donald,Cerrone,Donald Cerrone,Cowboy,"6' 1""",155,73.0,Orthodox,36,17,0,False
 fdf59144e535bc38,Jared,Chaffee,Jared Chaffee,,"5' 10""",155,,,5,2,0,False
 9ccf8371fd80d45d,Luan,Chagas,Luan Chagas,Tarzan,"6' 0""",170,75.0,Orthodox,15,3,1,False
 5ef94841c4bc3f86,Edgar,Chairez,Edgar Chairez,Puro Chicali,"5' 7""",125,71.0,Orthodox,11,6,0,False
 7342fcc41a4817fa,Ansar,Chalangov,Ansar Chalangov,,"5' 9""",170,,Orthodox,14,5,0,False
 26b63bc5c0c1f65d,Alex,Chambers,Alex Chambers,Astro Girl,"5' 3""",115,63.0,Southpaw,5,5,0,False
-4b93a88f3b1de35b,Michael,Chandler,Michael Chandler,Iron,"5' 8""",155,71.0,Orthodox,23,8,0,False
+4b93a88f3b1de35b,Michael,Chandler,Michael Chandler,Iron,"5' 8""",155,71.0,Orthodox,23,9,0,False
 af9efbfd63d39734,Chelsea,Chandler,Chelsea Chandler,,"5' 8""",135,68.0,Southpaw,6,3,0,False
 8788beb528894f33,Donnie,Chappell,Donnie Chappell,,"5' 11""",178,,Southpaw,0,1,0,False
 19ffeb5e3fffd6d5,Joe,Charles,Joe Charles,The Ghetto Man,"6' 1""",260,,Southpaw,6,13,0,False
@@ -651,16 +652,16 @@ d8d7b24d276c8cb0,Albert,Cheng,Albert Cheng,,"5' 11""",170,,Orthodox,7,4,0,False
 c713a845360d604b,Ion,Cherdivara,Ion Cherdivara,,--,205,,,1,1,0,False
 79a193111e3bc99b,Mark,Cherico,Mark Cherico,The Pride of Bloomfield,"5' 7""",145,69.0,Orthodox,11,1,0,False
 9cdd2da1a9104a0b,Macy,Chiasson,Macy Chiasson,,"5' 11""",135,72.0,Orthodox,11,3,0,False
-c58f51dedb310998,Michael,Chiesa,Michael Chiesa,Maverick,"6' 1""",170,75.0,Southpaw,19,7,0,False
+c58f51dedb310998,Michael,Chiesa,Michael Chiesa,Maverick,"6' 1""",170,75.0,Southpaw,20,7,0,False
 9560ff14eb3129f7,Giga,Chikadze,Giga Chikadze,Ninja,"6' 0""",145,74.0,Orthodox,15,4,0,False
-767755fd74662dbf,Khamzat,Chimaev,Khamzat Chimaev,Borz,"6' 2""",185,75.0,Orthodox,13,0,0,False
+767755fd74662dbf,Khamzat,Chimaev,Khamzat Chimaev,Borz,"6' 2""",185,75.0,Orthodox,14,0,0,False
 9f7787e56a6bc0f4,Sako,Chivitchian,Sako Chivitchian,,"5' 11""",155,,Orthodox,8,1,0,False
 371a1c91b24dec2b,Mu Bae,Choi,Mu Bae Choi,,"6' 2""",230,,Orthodox,12,6,0,False
 2c104b7e59a72629,Hong Man,Choi,Hong Man Choi,Techno Goliath,"7' 2""",330,,Orthodox,4,5,0,False
-e93b04e308913c2e,Dooho,Choi,Dooho Choi,The Korean Superboy,"5' 10""",145,70.0,Orthodox,15,4,1,False
+e93b04e308913c2e,Dooho,Choi,Dooho Choi,The Korean Superboy,"5' 10""",145,70.0,Orthodox,16,4,1,False
 a68575214ecad140,SeungWoo,Choi,SeungWoo Choi,Sting,"6' 0""",145,74.0,Orthodox,11,7,0,False
 adccbc19b22e19af,SeungGuk,Choi,SeungGuk Choi,,"5' 6""",125,64.0,Orthodox,7,3,0,False
-3be16d817b36098b,DongHun,Choi,DongHun Choi,,"5' 5""",125,66.0,Switch,8,0,0,False
+3be16d817b36098b,DongHun,Choi,DongHun Choi,,"5' 5""",125,66.0,Switch,9,0,0,False
 03c9994c5b8958ec,John,Cholish,John Cholish,,"5' 11""",155,74.0,Orthodox,8,3,0,False
 55a7b2d4e54ffac9,Ryo,Chonan,Ryo Chonan,Piranah,"5' 9""",170,70.0,Orthodox,22,13,0,False
 db5dc7cb80d7d418,Will,Chope,Will Chope,The Kill,"6' 4""",145,,Switch,34,13,0,False
@@ -765,12 +766,12 @@ d1528ac5675558b1,Rashad,Coulter,Rashad Coulter,Daywalker,"5' 11""",205,76.0,Orth
 84c43f0d25f15b0b,Kim,Couture,Kim Couture,Sugar Free,"5' 8""",135,,Orthodox,3,8,0,False
 46fd223e3ced39b3,Ryan,Couture,Ryan Couture,,"5' 10""",155,73.0,Orthodox,11,5,0,False
 400c7b43c86d27d3,Nikk,Covert,Nikk Covert,The Brick,"5' 8""",185,,,3,4,0,False
-dc9572dd6ec74859,Colby,Covington,Colby Covington,Chaos,"5' 11""",170,72.0,Orthodox,17,4,0,False
+dc9572dd6ec74859,Colby,Covington,Colby Covington,Chaos,"5' 11""",170,72.0,Orthodox,17,5,0,False
 3c26c420584d912d,Hailey,Cowan,Hailey Cowan,All Hail,"5' 8""",135,67.0,Southpaw,7,3,0,False
 c9bbf1a0285a8076,Jeff,Cox,Jeff Cox,The Grinder,"5' 10""",155,,Orthodox,10,7,0,False
 15ec018d144710db,Nathan,Coy,Nathan Coy,Soulforce,"5' 10""",170,69.0,Southpaw,15,7,0,False
 8a70ceb3edbe757b,Andrew,Craig,Andrew Craig,Highlight,"6' 1""",170,76.0,Orthodox,9,4,0,False
-eabf206b162b3b83,Paul,Craig,Paul Craig,Bearjew,"6' 3""",185,76.0,Orthodox,17,8,1,False
+eabf206b162b3b83,Paul,Craig,Paul Craig,Bearjew,"6' 3""",185,76.0,Orthodox,17,9,1,False
 480b702debcb5433,Dan,Cramer,Dan Cramer,,"6' 2""",170,,Orthodox,11,4,0,False
 25433871e4eee0f4,Alberto,Crane,Alberto Crane,,"5' 5""",155,,Orthodox,15,5,0,False
 89b8d1bf1ff09d1d,Tim,Credeur,Tim Credeur,,"6' 3""",185,75.0,Orthodox,12,4,0,False
@@ -808,13 +809,13 @@ a8ea84cbe1655f0a,Jeff,Curran,Jeff Curran,Big Frog,"5' 6""",135,69.0,Orthodox,36,
 05b43e0ead3df345,Kailin,Curran,Kailin Curran,,"5' 4""",115,65.0,Orthodox,4,5,0,False
 d8291d0dd63da29c,Pat,Curran,Pat Curran,Paddy Mike,"5' 9""",145,,,22,7,0,False
 b8ff02d5703eca3a,Will,Currie,Will Currie,Drago,"6' 3""",185,76.0,Switch,12,4,0,False
-5442f1bc4b47eaf3,Chris,Curtis,Chris Curtis,Action-Man,"5' 10""",185,75.0,Orthodox,31,11,0,False
+5442f1bc4b47eaf3,Chris,Curtis,Chris Curtis,Action-Man,"5' 10""",185,75.0,Orthodox,31,12,0,False
 cd13728ae1151f46,Ion,Cutelaba,Ion Cutelaba,The Hulk,"6' 1""",205,75.0,Southpaw,18,10,1,False
 44a94bbde42246e4,Gleidson,Cutis,Gleidson Cutis,Poney,"5' 9""",155,,Orthodox,7,4,0,False
 ac45450f75d14f16,Sarah,D'alelio,Sarah D'alelio,The Monster,"5' 7""",145,,,11,7,0,False
 3b6d84343579fd33,Marcos,da Matta,Marcos da Matta,Parrumpinha,"5' 4""",145,,,11,3,0,False
 b0bd0c5425668b8f,Henrique,da Silva,Henrique da Silva,Frankenstein,"6' 3""",205,76.0,Orthodox,14,5,0,False
-6551c64fbcd1a467,Ariane,da Silva,Ariane da Silva,Queen of Violence,"5' 6""",125,67.0,Orthodox,17,9,0,False
+6551c64fbcd1a467,Ariane,da Silva,Ariane da Silva,Queen of Violence,"5' 6""",125,67.0,Orthodox,17,10,0,False
 c3ded6f7155f9ea4,Alex,Da Silva,Alex Da Silva,Leko,"5' 8""",155,73.0,Orthodox,21,4,0,False
 1f8cd7634e8286ff,Henrique,Da Silva Lopes,Henrique Da Silva Lopes,Montanha,"6' 3""",240,,,5,2,0,False
 9d19d9e4aa2662e8,Nicolas,Dalby,Nicolas Dalby,Danish Dynamite,"5' 11""",170,74.0,Orthodox,23,5,1,False
@@ -872,7 +873,7 @@ ddf3e0ea10ea6d8c,Jorge,de Oliveira,Jorge de Oliveira,Blade,"5' 8""",155,,Orthodo
 e0f959f65d0406b4,Isabela,de Padua,Isabela de Padua,Belinha,"5' 3""",125,64.0,Orthodox,5,2,0,False
 5dd180c8b3196786,Gloria,de Paula,Gloria de Paula,Glorinha,"5' 5""",115,67.0,Orthodox,6,5,0,False
 1d239d571e342453,Germaine,de Randamie,Germaine de Randamie,The Iron Lady,"5' 9""",135,71.0,Orthodox,10,5,0,False
-d549cefc7c54ab78,Reinier,de Ridder,Reinier de Ridder,The Dutch Knight,--,185,,,17,2,0,False
+d549cefc7c54ab78,Reinier,de Ridder,Reinier de Ridder,RdR,"6' 4""",185,78.0,Southpaw,18,2,0,False
 3746e21bb508391a,Crezio,de Souza,Crezio de Souza,,--,170,,Orthodox,1,2,0,False
 914a897455693650,Carl,Deaton,Carl Deaton,The Anishinaabe Kid,"5' 7""",155,69.0,Orthodox,17,7,0,False
 0bcfe2513cb3bc39,Tom,DeBlass,Tom DeBlass,,"6' 0""",185,,Orthodox,9,2,0,False
@@ -889,7 +890,7 @@ bfaf4c87936b4fae,Humberto,DeLeon,Humberto DeLeon,,--,135,,,7,7,0,False
 173acb3f920082b8,Roland,Delorme,Roland Delorme,,"5' 9""",135,71.0,Orthodox,9,5,0,False
 0d0351c20169a499,Jon,Delos Reyes,Jon Delos Reyes,The Heat,"5' 6""",125,67.0,Orthodox,8,5,0,False
 6ceff86fae4f6b3b,Jason,DeLucia,Jason DeLucia,,"5' 11""",190,,Southpaw,33,21,1,False
-70380ccdc81915b8,Yadier,DelValle,Yadier DelValle,The Cuban Problem,--,145,,Southpaw,7,0,0,False
+70380ccdc81915b8,Yadier,DelValle,Yadier DelValle,The Cuban Problem,"5' 9""",145,69.0,Southpaw,8,0,0,False
 985bca5a097fb3f4,Justin,DeMoney,Justin DeMoney,,--,170,,,15,7,1,False
 2c483cf443f38ece,Vanessa,Demopoulos,Vanessa Demopoulos,Lil Monster,"5' 2""",115,59.0,Orthodox,11,6,0,False
 dfae5da5676e4194,Chris,Dempsey,Chris Dempsey,,"5' 10""",185,72.0,Orthodox,11,5,0,False
@@ -897,10 +898,10 @@ e4aaaa34535e32b6,Nick,Denis,Nick Denis,The Ninja of Love,"5' 7""",135,,Orthodox,
 a11a6ee8eeb03c18,Thomas,Denny,Thomas Denny,The Wildman,"5' 10""",170,,Orthodox,27,21,1,False
 b72f3cafa6376e35,Robert,Densley,Robert Densley,The Wrecker,"5' 9""",155,,,9,10,0,False
 fa8b9e6b0c2269f8,Jason,Dent,Jason Dent,Dynamite,"5' 10""",155,71.0,Orthodox,22,13,0,False
-7447e9f28508106a,Mackenzie,Dern,Mackenzie Dern,,"5' 4""",115,63.0,Orthodox,14,5,0,False
+7447e9f28508106a,Mackenzie,Dern,Mackenzie Dern,,"5' 4""",115,63.0,Orthodox,15,5,0,False
 f2c91b67f71bbeab,Booker,DeRousse,Booker DeRousse,,"6' 2""",205,,,6,5,0,False
 6ad9058b7c7898b0,Tony,DeSouza,Tony DeSouza,,"6' 0""",170,70.0,Southpaw,11,4,0,False
-140567899d98978a,Robelis,Despaigne,Robelis Despaigne,The Big Boy,"6' 7""",265,84.0,Orthodox,5,1,0,False
+140567899d98978a,Robelis,Despaigne,Robelis Despaigne,The Big Boy,"6' 7""",265,84.0,Orthodox,5,2,0,False
 48544433372ecfa6,Cory,Devela,Cory Devela,The One,"5' 0""",185,,Orthodox,16,7,0,False
 2bcc39af95d6f2e8,John,Devine,John Devine,,--,,,,6,4,0,False
 75bbd2206a15319f,Edwin,DeWees,Edwin DeWees,Babyface,"6' 1""",185,,Orthodox,38,17,0,False
@@ -920,7 +921,7 @@ f57a8a52ca401ed9,Nick,Diaz,Nick Diaz,,"6' 1""",170,76.0,Southpaw,26,10,0,False
 5e7a48e469770615,Michael,Diaz,Michael Diaz,,--,260,,,1,2,0,False
 ceee5dd37253199a,Ryan,Diaz,Ryan Diaz,,--,145,,,13,14,0,False
 bfa8f263815cfa2e,Adrian,Diaz,Adrian Diaz,,"5' 10""",145,,Southpaw,11,4,1,False
-6967153c7edb4d87,Ozzy,Diaz,Ozzy Diaz,,"6' 4""",205,79.0,Orthodox,7,2,0,False
+6967153c7edb4d87,Ozzy,Diaz,Ozzy Diaz,,"6' 4""",205,79.0,Orthodox,9,3,0,False
 2482ef3331a82e75,Mark,Dickman,Mark Dickman,Tricky,"5' 9""",145,,,11,3,0,False
 414bddf0c80c41e1,Josh,Diekmann,Josh Diekmann,The Freight Train,"5' 4""",246,,,15,8,0,False
 31da66df48c0c1a0,Kyle,Dietz,Kyle Dietz,,"5' 8""",135,,Orthodox,5,2,0,False
@@ -930,7 +931,7 @@ b4f7a2d8ecc5e0c3,Ralph,Dillon,Ralph Dillon,Rage,"6' 2""",205,,Orthodox,0,2,1,Fal
 cc2ad11b1f9d818b,Drew,Dimanlig,Drew Dimanlig,,--,185,,,3,4,0,False
 e0664abaa023fd6f,Ding,Meng,Ding Meng,The Assassin,"6' 2""",170,73.0,Orthodox,34,9,0,False
 2d2239d0f6fa83dd,Rodolfo Marques,Diniz,Rodolfo Marques Diniz,,"5' 6""",135,,,23,9,1,False
-25f9a5f3e8a52618,Jhonata,Diniz,Jhonata Diniz,,"6' 4""",254,79.0,Orthodox,8,0,0,False
+25f9a5f3e8a52618,Jhonata,Diniz,Jhonata Diniz,,"6' 4""",254,79.0,Orthodox,8,1,0,False
 73eb2a552c92a821,Helio,Dipp,Helio Dipp,,"6' 5""",185,,Orthodox,6,3,0,False
 ec7f7263bf36579b,Rico,DiSciullo,Rico DiSciullo,,"5' 8""",135,,Orthodox,9,2,0,False
 1db445a4468447d0,Matt,Dixon,Matt Dixon,Magic,"5' 10""",170,75.0,Switch,9,1,0,False
@@ -953,7 +954,7 @@ dbaaf42313af90fa,Joe,Doerksen,Joe Doerksen,El Dirte,"6' 0""",185,75.0,Orthodox,5
 bad82b681819b272,Dong,Huaxiang,Dong Huaxiang,,"5' 3""",115,61.0,Switch,12,3,0,False
 7bc96507e4b38d3b,Cody,Donovan,Cody Donovan,Donnybrook,"6' 3""",205,74.0,Orthodox,8,5,0,False
 312f47c3d2f83ffa,Houston,Dorr,Houston Dorr,,"6' 1""",210,,Orthodox,1,2,0,False
-6a2f7c151031653d,Rafael,Dos Anjos,Rafael Dos Anjos,,"5' 8""",170,70.0,Southpaw,32,16,0,False
+6a2f7c151031653d,Rafael,Dos Anjos,Rafael Dos Anjos,,"5' 8""",170,70.0,Southpaw,32,17,0,False
 63def5a5662a6917,Junior,Dos Santos,Junior Dos Santos,Cigano,"6' 4""",238,77.0,Orthodox,21,9,0,False
 b51f6791c794e289,Geronimo,dos Santos,Geronimo dos Santos,Mondragon,"6' 3""",264,,Orthodox,39,19,0,False
 81b8b3fb019dc69d,Antonio,Dos Santos,Antonio Dos Santos,Junior Alpha,"5' 10""",185,,Orthodox,6,4,0,False
@@ -984,7 +985,7 @@ d2a9be6bf2de624c,Robert,Drysdale,Robert Drysdale,,"6' 3""",205,,Orthodox,7,0,0,F
 c3d2b9bcb4cead6b,Yuneisy,Duben,Yuneisy Duben,,"5' 4""",125,65.0,Orthodox,6,0,0,False
 ec322adbabbfa6e7,Matthieu,Duclos,Matthieu Duclos,,"6' 3""",185,77.0,Orthodox,6,3,0,False
 02f8fedc18cbd26c,Emily,Ducote,Emily Ducote,Gordinha,"5' 2""",115,63.0,Orthodox,13,9,0,False
-6c9b66b43663f2f7,Viktoriia,Dudakova,Viktoriia Dudakova,,"5' 5""",115,67.0,Orthodox,8,1,0,False
+6c9b66b43663f2f7,Viktoriia,Dudakova,Viktoriia Dudakova,,"5' 5""",115,67.0,Orthodox,8,2,0,False
 072a10e85f7d4bff,Milana,Dudieva,Milana Dudieva,,"5' 3""",135,,Orthodox,11,6,0,False
 cb6c45b26b0a877a,Adin,Duenas,Adin Duenas,,"5' 6""",145,,,6,1,0,False
 bda04c573563cc2e,Todd,Duffee,Todd Duffee,,"6' 3""",260,78.0,Orthodox,9,3,0,False
@@ -1004,7 +1005,7 @@ e5c9de15bb58b1c6,Evan,Dunham,Evan Dunham,,"5' 10""",155,70.0,Southpaw,18,9,1,Fal
 e979c76341f19b22,Tom,Duquesnoy,Tom Duquesnoy,Fire Kid,"5' 7""",135,68.0,Orthodox,16,2,0,False
 6b7c7460855dbbb9,Albert,Duraev,Albert Duraev,,"5' 11""",185,75.0,Orthodox,16,5,0,False
 4417980b3e798abf,Reuben,Duran,Reuben Duran,,"5' 7""",135,71.0,Orthodox,11,7,1,False
-7f6ed67d3ed3c036,Cody,Durden,Cody Durden,Custom Made,"5' 7""",125,67.0,Southpaw,17,6,1,False
+7f6ed67d3ed3c036,Cody,Durden,Cody Durden,Custom Made,"5' 7""",125,67.0,Southpaw,17,7,1,False
 2153a7f8396a46cc,Luiz,Dutra,Luiz Dutra,Besouro,"5' 11""",170,,Orthodox,13,6,1,False
 43db649da89fac4b,Rilley,Dutro,Rilley Dutro,,"5' 8""",125,,Orthodox,11,4,0,False
 7df4d3c38792b083,Bill,Duvall,Bill Duvall,,"6' 2""",185,,Southpaw,1,2,0,False
@@ -1030,7 +1031,7 @@ e56daf7725a0b5ab,Justin,Edwards,Justin Edwards,Fast Eddy,"5' 10""",155,70.0,Orth
 f1fac969a1d70b08,Leon,Edwards,Leon Edwards,Rocky,"6' 2""",170,74.0,Southpaw,22,4,0,False
 ef44e4ea9050f2ea,Te,Edwards,Te Edwards,,"5' 8""",155,72.0,Orthodox,6,3,0,False
 e6904a03a66e711d,Adli,Edwards,Adli Edwards,,--,145,,,4,1,0,False
-f9ab66e67240db7b,Joselyne,Edwards,Joselyne Edwards,La Pantera,"5' 8""",135,70.0,Orthodox,13,6,0,False
+f9ab66e67240db7b,Joselyne,Edwards,Joselyne Edwards,La Pantera,"5' 8""",135,70.0,Orthodox,14,6,0,False
 eae4aec1a5a8ff01,Tom,Egan,Tom Egan,,"5' 11""",170,,Orthodox,7,5,0,False
 5e6294b37bbef029,Stephanie,Egger,Stephanie Egger,,"5' 6""",135,68.0,Orthodox,8,5,0,False
 27fc9218a3653e3c,Justin,Eilers,Justin Eilers,The Hammer,"6' 1""",235,,Orthodox,19,7,1,False
@@ -1038,14 +1039,15 @@ eae4aec1a5a8ff01,Tom,Egan,Tom Egan,,"5' 11""",170,,Orthodox,7,5,0,False
 58bc81376286b3d3,Per,Eklund,Per Eklund,,"5' 10""",155,72.0,Orthodox,14,5,1,False
 22d80fb67e50ab0b,John,Elam,John Elam,,--,,,,2,0,0,False
 d9a56ecb6e94f02e,Evan,Elder,Evan Elder,The Phenom,"5' 10""",155,72.0,Switch,9,2,0,False
+07a74004d964c7f4,Billy,Elekana,Billy Elekana,,--,205,,Southpaw,7,1,1,False
 e873203fd50542f6,John Paul,Elias,John Paul Elias,,"6' 4""",205,,,3,1,0,False
 1a064688481f66e1,Joao,Elias,Joao Elias,Alicate,"5' 3""",125,64.0,Southpaw,17,4,1,False
 e295b96f135d758a,Saul,Elizondo,Saul Elizondo,,"5' 7""",135,,,6,8,0,False
-92a9aa9c93192871,Darren,Elkins,Darren Elkins,The Damage,"5' 10""",145,71.0,Orthodox,28,11,0,False
+92a9aa9c93192871,Darren,Elkins,Darren Elkins,The Damage,"5' 10""",145,71.0,Orthodox,29,11,0,False
 d81ac739417d7f53,Jake,Ellenberger,Jake Ellenberger,The Juggernaut,"5' 9""",170,71.0,Orthodox,31,15,0,False
 8e8e4487c621aa1c,Joe,Ellenberger,Joe Ellenberger,Excalibur,"5' 9""",155,72.0,Orthodox,15,2,0,False
 c96d9178c9ed9e62,Tim,Elliott,Tim Elliott,,"5' 7""",125,66.0,Southpaw,21,13,1,False
-6b56e94a59b7b134,Oban,Elliott,Oban Elliott,The Welsh Gangster,"6' 0""",170,72.0,Orthodox,11,2,0,False
+6b56e94a59b7b134,Oban,Elliott,Oban Elliott,The Welsh Gangster,"6' 0""",170,72.0,Orthodox,12,2,0,False
 e60d773a0a42048a,Eddy,Ellis,Eddy Ellis,Fast,"5' 9""",170,,Orthodox,21,16,1,False
 77350fd0e6d1dba8,Lisa,Ellis,Lisa Ellis,,"5' 4""",115,,,15,11,0,False
 1536a25e16fc299b,Anna,Elmose,Anna Elmose,Panda,"5' 3""",115,,Orthodox,3,2,0,False
@@ -1100,7 +1102,7 @@ d3de4a24f7eefac8,Doug,Evans,Doug Evans,,"5' 9""",155,,Orthodox,13,10,0,False
 fc6e681bf6658faf,Ashlee,Evans-Smith,Ashlee Evans-Smith,Rebel Girl,"5' 8""",135,67.0,Orthodox,6,6,0,False
 dd8aec6de7035943,Dan,Evensen,Dan Evensen,The Viking,"6' 3""",250,,Orthodox,11,4,0,False
 b12a1d19ee383b7c,Tonya,Evinger,Tonya Evinger,Triple Threat,"5' 7""",135,70.0,Orthodox,19,8,0,False
-76e2870ffafbe38f,Movsar,Evloev,Movsar Evloev,,"5' 7""",145,72.0,Orthodox,18,0,0,False
+76e2870ffafbe38f,Movsar,Evloev,Movsar Evloev,,"5' 7""",145,72.0,Orthodox,19,0,0,False
 5f6f049d54728e88,Andre,Ewell,Andre Ewell,Mr. Highlight,"5' 8""",145,75.0,Southpaw,17,9,0,False
 0798f558681d0eb5,Neal,Ewing,Neal Ewing,,--,185,,,6,0,0,False
 f72465a784c1b084,Jessica,Eye,Jessica Eye,Evil,"5' 6""",125,66.0,Orthodox,15,11,0,False
@@ -1112,7 +1114,7 @@ e17ac6410c8377f4,Bartosz,Fabinski,Bartosz Fabinski,The Butcher,"6' 0""",170,75.0
 453ee00c3e1ae9dd,Ron,Faircloth,Ron Faircloth,,"5' 9""",205,,Orthodox,33,20,0,False
 adea9f0090aa8e14,Jason,Fairn,Jason Fairn,,"6' 1""",230,,,4,5,0,False
 862b0b3375aa4b6e,Zarah,Fairn,Zarah Fairn,Infinite,"5' 8""",135,72.0,Orthodox,6,6,0,False
-8f765fd5775a8873,Rinat,Fakhretdinov,Rinat Fakhretdinov,Gladiator,"6' 0""",170,74.0,Orthodox,22,1,1,False
+8f765fd5775a8873,Rinat,Fakhretdinov,Rinat Fakhretdinov,Gladiator,"6' 0""",170,74.0,Orthodox,23,1,1,False
 d58478ded5534695,Maiquel,Falcao,Maiquel Falcao,Big Rig,"5' 11""",185,,Orthodox,37,10,0,False
 f7be1db194e03d7e,Pedro,Falcao,Pedro Falcao,Pedrinho,"5' 6""",135,66.0,Orthodox,16,4,0,False
 91d73ee59347ac16,Brodie,Farber,Brodie Farber,,"6' 1""",170,,Orthodox,16,7,0,False
@@ -1127,14 +1129,14 @@ e5010b1b94ca5755,Paul,Felder,Paul Felder,The Irish Dragon,"5' 11""",155,70.0,Ort
 a2ea77e974c5889f,Carlos,Felipe,Carlos Felipe,Boi,"6' 0""",245,75.0,Orthodox,11,2,0,False
 954e3f4e2b0e6510,JP,Felty,JP Felty,,--,170,,,4,5,0,False
 86597694317e5e1b,Feng,Pengchao,Feng Pengchao,,--,135,,,15,9,1,False
-c940b42df95bbd28,Feng,Xiaocan,Feng Xiaocan,,"5' 7""",115,66.0,Southpaw,10,2,0,False
+c940b42df95bbd28,Feng,Xiaocan,Feng Xiaocan,,"5' 7""",115,66.0,Southpaw,10,3,0,False
 27541033b97c076d,Kevin,Ferguson,Kevin Ferguson,Kimbo Slice,"6' 2""",235,77.0,Orthodox,5,2,0,False
 15f4550e017f6c7d,Rhadi,Ferguson,Rhadi Ferguson,,"5' 7""",205,,,3,0,0,False
 22a92d7f62195791,Tony,Ferguson,Tony Ferguson,El Cucuy,"5' 11""",170,76.0,Orthodox,26,11,0,False
 b0f316c60f8d3b47,Josh,Ferguson,Josh Ferguson,Taz,"5' 5""",125,,Orthodox,10,5,0,False
 979f7edbb6980b0d,CJ,Fernandes,CJ Fernandes,,"6' 2""",170,,,14,8,3,False
 cbc071cb20ea59c7,Bibiano,Fernandes,Bibiano Fernandes,,"5' 7""",139,,Orthodox,20,3,0,False
-a6eb54ae17a551be,Gabriella,Fernandes,Gabriella Fernandes,Gabi,"5' 6""",125,66.0,Southpaw,9,3,0,False
+a6eb54ae17a551be,Gabriella,Fernandes,Gabriella Fernandes,Gabi,"5' 6""",125,66.0,Southpaw,10,3,0,False
 ec13c393d029297d,Kaue,Fernandes,Kaue Fernandes,,"5' 9""",155,73.0,Orthodox,9,2,0,False
 7ee1babb99f30115,Emily,Fernandez,Emily Fernandez,,--,,,,0,0,0,False
 3df223aeaacecf3f,Lucas,Fernando,Lucas Fernando,,"6' 3""",185,80.0,,9,2,0,False
@@ -1142,7 +1144,7 @@ ec13c393d029297d,Kaue,Fernandes,Kaue Fernandes,,"5' 9""",155,73.0,Orthodox,9,2,0
 dbc17725b887860a,Cezar,Ferreira,Cezar Ferreira,Mutante,"6' 1""",185,78.0,Southpaw,13,8,0,False
 f53d4f21d1b5f2dc,Diego,Ferreira,Diego Ferreira,,"5' 9""",155,74.0,Orthodox,19,5,0,False
 1c2a8915f8431507,Erisson,Ferreira,Erisson Ferreira,Gato,"5' 6""",125,70.0,Orthodox,12,2,0,False
-1e719d4b676dc19a,Brunno,Ferreira,Brunno Ferreira,The Hulk,"5' 10""",185,72.0,Orthodox,12,1,0,False
+1e719d4b676dc19a,Brunno,Ferreira,Brunno Ferreira,The Hulk,"5' 10""",185,72.0,Orthodox,12,2,0,False
 977081bc01197656,Scott,Ferrozzo,Scott Ferrozzo,The Pitbull,"5' 11""",323,,Orthodox,4,2,0,False
 8c21eb9fd7c4c203,Timo,Feucht,Timo Feucht,,"6' 3""",205,79.0,Orthodox,8,1,0,False
 33efaf2d0941cfcf,Andre,Fialho,Andre Fialho,,"6' 0""",170,74.0,Orthodox,16,8,0,False
@@ -1150,7 +1152,7 @@ d814f5192e58fb2f,Drew,Fickett,Drew Fickett,The Master,"5' 10""",155,70.0,Orthodo
 0ec821423baa26bd,Scott,Fiedler,Scott Fiedler,,"6' 4""",235,,Orthodox,0,1,0,False
 6e380a4d73ab4f0e,Ron,Fields,Ron Fields,Killing,"6' 2""",200,,Orthodox,28,32,1,False
 b4c57a8c2b773e82,Michal,Figlak,Michal Figlak,Mad Dog,"5' 10""",155,70.0,Orthodox,8,2,0,False
-aa72b0f831d0bfe5,Deiveson,Figueiredo,Deiveson Figueiredo,Deus da Guerra,"5' 5""",135,68.0,Orthodox,24,3,1,False
+aa72b0f831d0bfe5,Deiveson,Figueiredo,Deiveson Figueiredo,Deus da Guerra,"5' 5""",135,68.0,Orthodox,24,4,1,False
 cdadae5363b66eef,Francisco,Figueiredo,Francisco Figueiredo,Sniper,"5' 6""",125,68.0,Southpaw,13,5,1,False
 daff32bc96d1eabf,Anthony,Figueroa,Anthony Figueroa,,"5' 4""",135,,Orthodox,11,8,1,False
 bbfca6d5c27d9cd8,Edwin,Figueroa,Edwin Figueroa,El Feroz,"5' 7""",135,69.0,Orthodox,9,5,0,False
@@ -1174,7 +1176,7 @@ b8dc5fbf8338adc5,Isi,Fitikefu,Isi Fitikefu,Doxz,"5' 10""",205,,,6,0,0,False
 c814b4c899793af6,Rafael,Fiziev,Rafael Fiziev,Ataman,"5' 8""",155,71.0,Switch,12,3,0,False
 7d09200f6a77b20e,Colin,Fletcher,Colin Fletcher,The Freakshow,"6' 2""",155,,Orthodox,14,8,0,False
 725b1abc9a39d873,AJ,Fletcher,AJ Fletcher,The Ghost,"5' 10""",170,67.0,Switch,10,3,0,False
-a2d342ffc83913ed,Nathan,Fletcher,Nathan Fletcher,,"5' 7""",145,70.0,Orthodox,9,1,0,False
+a2d342ffc83913ed,Nathan,Fletcher,Nathan Fletcher,,"5' 7""",135,70.0,Orthodox,9,1,0,False
 09e62c450e754913,Jimmy,Flick,Jimmy Flick,The Brick,"5' 7""",125,68.0,Orthodox,17,8,0,False
 b5f44dcb863f595b,Luke,Flores,Luke Flores,,"6' 0""",155,73.0,Southpaw,9,2,0,False
 4bb0f74d5e26f89a,Ty,Flores,Ty Flores,Big Medicine,"6' 3""",205,73.0,Switch,7,3,0,False
@@ -1187,7 +1189,7 @@ c97fc5fbf7d32b8a,Bobby,Flynn,Bobby Flynn,,--,170,,,6,4,0,False
 fa534853eb195270,Mal,Foki,Mal Foki,Twin Tiger,"5' 7""",220,,Orthodox,5,5,0,False
 5de61b03868035ff,Matt,Foki,Matt Foki,Twin Tiger,"5' 7""",220,,Orthodox,5,4,0,False
 0adf1aacda5e26ac,AJ,Fonseca,AJ Fonseca,,"5' 4""",145,,,5,4,0,False
-05339613bf8e9808,Rob,Font,Rob Font,,"5' 8""",135,71.0,Orthodox,20,8,0,False
+05339613bf8e9808,Rob,Font,Rob Font,,"5' 8""",135,71.0,Orthodox,21,8,0,False
 7a82635ffa9b59fe,Claudionor,Fontinelle,Claudionor Fontinelle,,"5' 5""",185,,Orthodox,10,15,1,False
 947eccadb72f4f6f,Jesse,Forbes,Jesse Forbes,Kid Hercules,"6' 2""",185,75.0,Southpaw,15,5,0,False
 a71ce6ff0b4a9dbb,Sterling,Ford,Sterling Ford,,"5' 10""",155,,,15,7,0,False
@@ -1214,6 +1216,7 @@ d3711d3784b76255,Zane,Frazier,Zane Frazier,Nasty,"6' 5""",250,,Orthodox,4,11,0,F
 78863e4a28204a6b,Justin,Frazier,Justin Frazier,The Grizzly Bear,"6' 0""",265,75.0,Southpaw,10,3,0,False
 b4bc2e3353a770b5,Ian,Freeman,Ian Freeman,The Machine,"5' 11""",225,,Orthodox,20,7,1,False
 5870bd1eadf4f322,Jason,Freeman,Jason Freeman,,"6' 2""",225,,,6,4,0,False
+63d071997c75e3fd,Kennedy,Freeman,Kennedy Freeman,The Machine 2.0,--,135,,,6,0,0,False
 f1f37d667bcd0d27,Willamy,Freire,Willamy Freire,Chiquerim,"5' 8""",155,,Orthodox,26,6,0,False
 98a58c26c5b1ed17,Patricio,Freire,Patricio Freire,Pitbull,"5' 5""",145,65.0,,26,4,0,False
 90e6dde9113830bd,Patricky,Freire,Patricky Freire,Pitbull,"5' 7""",155,71.0,,17,8,0,False
@@ -1247,16 +1250,16 @@ fcd8b623892b9a10,James,Gabert,James Gabert,,--,178,,,6,4,0,False
 fe98f86284a6eeb3,Gustavo,Gabriel,Gustavo Gabriel,,"5' 6""",125,,Orthodox,13,1,0,False
 ec34349e7dffcde7,Claudia,Gadelha,Claudia Gadelha,Claudinha,"5' 4""",115,63.0,Orthodox,18,5,0,False
 a7a79b8efbceaaac,Alavutdin,Gadjiev,Alavutdin Gadjiev,,"6' 2""",185,,Orthodox,18,13,1,False
-6e344b71421103da,Magomed,Gadzhiyasulov,Magomed Gadzhiyasulov,,"6' 2""",205,75.0,Orthodox,9,0,0,False
+6e344b71421103da,Magomed,Gadzhiyasulov,Magomed Gadzhiyasulov,,"6' 2""",205,75.0,Orthodox,9,1,0,False
 9e8f6c728eb01124,Justin,Gaethje,Justin Gaethje,The Highlight,"5' 11""",155,70.0,Orthodox,25,5,0,False
 837d30395faca41e,Sheila,Gaff,Sheila Gaff,The German Tank,"5' 5""",135,,Orthodox,9,7,0,False
-a54660deb6a8489c,Muin,Gafurov,Muin Gafurov,Tajik,"5' 7""",135,68.0,Southpaw,19,6,0,False
+a54660deb6a8489c,Muin,Gafurov,Muin Gafurov,Tajik,"5' 7""",135,68.0,Orthodox,19,6,0,False
 b8592b4a383696cd,Mitch,Gagnon,Mitch Gagnon,,"5' 5""",135,65.0,Southpaw,12,5,0,False
 8e6cfbd455f0f9c2,Brandon,Gaines,Brandon Gaines,,"6' 3""",185,,,5,21,0,False
 06dc1a58663579d2,Travis,Galbraith,Travis Galbraith,The Gladiator,"6' 0""",170,,Orthodox,18,7,0,False
 0876d21328cf4a45,Dave,Galera,Dave Galera,Scarecrow,"5' 11""",135,,Orthodox,5,1,0,False
 8a1b4330c7957961,Zelg,Galesic,Zelg Galesic,Benkei,"6' 2""",185,,Orthodox,11,9,0,False
-9e50097a89442158,Mickey,Gall,Mickey Gall,,"6' 2""",170,74.0,Switch,7,6,0,False
+9e50097a89442158,Mickey,Gall,Mickey Gall,,"6' 2""",170,74.0,Switch,7,7,0,False
 96706c75a2b14164,Daniel,Gallemore,Daniel Gallemore,Big Kansas,"6' 5""",265,,,7,3,0,False
 cc81c92fe2254935,Tom,Gallicchio,Tom Gallicchio,Da Tank,"5' 10""",170,,Southpaw,19,10,0,False
 7e654edcddd71550,Turrell,Galloway,Turrell Galloway,,"5' 3""",145,,,8,6,0,False
@@ -1269,7 +1272,7 @@ cc6f9d1e89f3449a,Manvel,Gamburyan,Manvel Gamburyan,The Anvil,"5' 5""",135,67.0,O
 72db2a14ffa73ece,Mateusz,Gamrot,Mateusz Gamrot,Gamer,"5' 10""",155,70.0,Southpaw,24,3,0,False
 0d980975001ae3d8,Shamil,Gamzatov,Shamil Gamzatov,,"6' 2""",205,76.0,Orthodox,14,1,0,False
 41904fc4d3f5bffc,Ariel,Gandulla,Ariel Gandulla,,"5' 11""",205,,Orthodox,7,9,0,False
-787bb1f087ccff8a,Ciryl,Gane,Ciryl Gane,Bon Gamin,"6' 4""",245,81.0,Orthodox,12,2,0,False
+787bb1f087ccff8a,Ciryl,Gane,Ciryl Gane,Bon Gamin,"6' 4""",245,81.0,Orthodox,13,2,0,False
 6d7886b094b471ac,Sean,Gannon,Sean Gannon,The Cannon,"6' 3""",265,,Southpaw,2,1,0,False
 8b27d25ce0221d60,Junye,Gao,Junye Gao,,--,125,,,19,12,0,False
 7bde387d50829adf,Eduardo,Garagorri,Eduardo Garagorri,,"5' 9""",145,70.0,Orthodox,13,2,0,False
@@ -1311,13 +1314,13 @@ de45aaae23dfa392,Christos,Giagos,Christos Giagos,The Spartan,"5' 10""",155,71.0,
 f74e037b97917027,James,Giboo,James Giboo,,"5' 11""",170,,Orthodox,13,5,0,False
 63eedfcc73071d41,Lance,Gibson,Lance Gibson,Fearless,"5' 9""",185,,Orthodox,4,5,0,False
 69db199087a1a792,Lee,Gibson,Lee Gibson,Lethal,"5' 7""",155,,,12,4,0,False
-700a674c042b7a96,Cody,Gibson,Cody Gibson,The Renegade,"5' 10""",135,71.0,Orthodox,21,10,0,False
+700a674c042b7a96,Cody,Gibson,Cody Gibson,The Renegade,"5' 10""",135,71.0,Orthodox,22,10,0,False
 09439946214993bc,Chase,Gibson,Chase Gibson,El Guero,"5' 10""",155,72.0,Orthodox,9,5,0,False
 db8b800176d26f6e,Kenny,Giddens,Kenny Giddens,,"5' 11""",155,,,12,7,0,False
 e7f51d9f9e9259e7,Thomas,Gifford,Thomas Gifford,The Young Lion,"6' 1""",155,75.0,Orthodox,14,9,0,False
 83825fad27ab3581,Joseph,Gigliotti,Joseph Gigliotti,Capo,"5' 11""",185,,Orthodox,7,2,0,False
 6bb1d2b714d4b3bc,Joey,Gilbert,Joey Gilbert,,"5' 11""",155,,Orthodox,2,3,0,False
-b27a1fcb56a3035a,Trevin,Giles,Trevin Giles,,"6' 0""",170,74.0,Orthodox,16,6,0,False
+b27a1fcb56a3035a,Trevin,Giles,Trevin Giles,,"6' 0""",170,74.0,Orthodox,16,7,0,False
 42c96a9c4802e2e1,Kultar,Gill,Kultar Gill,Black Mamba,"6' 0""",154,,Orthodox,12,8,0,False
 160b931119c1bf91,Jesse,Gillespie,Jesse Gillespie,,--,185,,,3,2,0,False
 84ff027394f7e470,Gregor,Gillespie,Gregor Gillespie,The Gift,"5' 7""",155,71.0,Orthodox,14,1,0,False
@@ -1345,7 +1348,7 @@ fa07345cc9db5cc9,Billy Ray,Goff,Billy Ray Goff,,"5' 10""",170,72.0,Switch,9,3,0,
 e86af30738a5452a,Jonny,Goh,Jonny Goh,,"5' 11""",155,,,3,4,0,False
 26e3f3928b1891d9,Hannah,Goldy,Hannah Goldy,24K,"5' 4""",115,61.0,Orthodox,6,4,0,False
 ac29d508d78384c9,Marcelo,Golm,Marcelo Golm,,"6' 3""",249,75.0,Orthodox,6,3,0,False
-cffb87059e645bd1,Denise,Gomes,Denise Gomes,Dee,"5' 2""",115,63.0,Orthodox,9,3,0,False
+cffb87059e645bd1,Denise,Gomes,Denise Gomes,Dee,"5' 2""",115,63.0,Orthodox,10,3,0,False
 af1e5c64b8663aa0,Sergio,Gomez,Sergio Gomez,,"5' 6""",155,,Orthodox,10,3,0,False
 a0a680fe2f6cc8e6,Frank,Gomez,Frank Gomez,,"5' 10""",135,67.0,Orthodox,10,6,0,False
 0a66de3a797cf73a,Alan,Gomez,Alan Gomez,,--,155,,,2,0,0,False
@@ -1381,9 +1384,9 @@ fbbde91f7bc2d3c5,Gary,Goodridge,Gary Goodridge,Big Daddy,"6' 3""",249,,Orthodox,
 7026eca45f65377b,Jared,Gordon,Jared Gordon,Flash,"5' 9""",155,68.0,Orthodox,20,7,0,False
 68c4ca70067bf282,Tebaris,Gordon,Tebaris Gordon,Boom,"6' 1""",265,,Orthodox,3,1,0,False
 dee294e9717012c2,Malcolm,Gordon,Malcolm Gordon,X,"5' 7""",125,71.0,Switch,14,8,0,False
-147e70aa6cc48cfc,Tresean,Gore,Tresean Gore,Mr. Vicious,"6' 0""",185,75.0,Switch,5,2,0,False
+147e70aa6cc48cfc,Tresean,Gore,Tresean Gore,Mr. Vicious,"6' 0""",185,75.0,Switch,6,2,0,False
 803bebcfb6d6f506,Alex,Gorgees,Alex Gorgees,Hitman,"6' 2""",155,74.0,Switch,6,1,0,False
-40f3cb27fc7305a1,Themba,Gorimbo,Themba Gorimbo,The Answer,"6' 1""",170,77.0,Orthodox,14,4,0,False
+40f3cb27fc7305a1,Themba,Gorimbo,Themba Gorimbo,The Answer,"6' 1""",170,77.0,Orthodox,14,5,0,False
 c10eb2f12c489f6d,Tim,Gorman,Tim Gorman,The Psycho,"5' 5""",135,,Southpaw,9,4,0,False
 052ceb8976695342,Chase,Gormley,Chase Gormley,,"6' 3""",265,,Orthodox,14,6,0,False
 fb1538b46877a695,Jonathan,Goulet,Jonathan Goulet,The Road Warrior,"6' 0""",170,73.0,Orthodox,23,12,0,False
@@ -1409,13 +1412,13 @@ e4a9dbade7c7e1a7,Rolles,Gracie,Rolles Gracie,,"6' 4""",242,,Orthodox,8,4,0,False
 a6bbd3df469c6bea,Roger,Gracie,Roger Gracie,,"6' 4""",185,79.0,Orthodox,8,2,0,False
 722b870449243083,Igor,Gracie,Igor Gracie,,"5' 11""",170,,,5,4,0,False
 12d855d12a624da2,Neiman,Gracie,Neiman Gracie,,"6' 0""",170,,,6,0,0,False
-242d36d241b43c12,Kron,Gracie,Kron Gracie,,"5' 9""",145,70.0,Southpaw,5,2,0,False
+242d36d241b43c12,Kron,Gracie,Kron Gracie,,"5' 9""",145,70.0,Southpaw,5,3,0,False
 fb37795db81f93f3,Bogdan,Grad,Bogdan Grad,The Unleashed,"5' 8""",145,70.0,Orthodox,14,2,0,False
 3e514f437c51ce0a,Steven,Graham,Steven Graham,,"6' 1""",290,,Orthodox,2,1,0,False
 6e4acc2c115215b5,Scott,Graham,Scott Graham,,"6' 4""",185,,Orthodox,3,1,0,False
 7559395ad833c074,Miranda,Granger,Miranda Granger,Danger,"5' 7""",115,68.0,Orthodox,7,3,0,False
 a26198ba5093147e,TJ,Grant,TJ Grant,,"5' 10""",155,72.0,Orthodox,21,5,0,False
-113df4fde64735c6,Davey,Grant,Davey Grant,Dangerous,"5' 8""",135,69.0,Orthodox,15,7,0,False
+113df4fde64735c6,Davey,Grant,Davey Grant,Dangerous,"5' 8""",135,69.0,Orthodox,16,7,0,False
 8be158ca1e5ea6a0,Dwight,Grant,Dwight Grant,The Body Snatcher,"6' 1""",185,76.0,Switch,11,6,0,False
 e8b731feff72294b,Alexa,Grasso,Alexa Grasso,,"5' 5""",125,66.0,Orthodox,16,4,1,False
 601964f9654f911a,Tony,Gravely,Tony Gravely,,"5' 5""",135,69.0,Orthodox,23,9,0,False
@@ -1431,7 +1434,7 @@ f046d724d2a84ac5,Desmond,Green,Desmond Green,The Predator,"5' 10""",155,73.0,Sou
 bfc2fc38a0e20211,Matt,Grice,Matt Grice,The Real One,"5' 8""",145,70.0,Orthodox,15,5,0,False
 fcffee71cff5530e,Forrest,Griffin,Forrest Griffin,,"6' 3""",205,77.0,Orthodox,19,7,0,False
 20205040232ed0f3,Tyson,Griffin,Tyson Griffin,,"5' 6""",145,68.0,Orthodox,16,8,0,False
-b0d6a1d8ac3d563d,Max,Griffin,Max Griffin,Pain,"5' 11""",170,76.0,Orthodox,20,10,0,False
+b0d6a1d8ac3d563d,Max,Griffin,Max Griffin,Pain,"5' 11""",170,76.0,Orthodox,20,11,0,False
 ebef46976554f975,Jordan,Griffin,Jordan Griffin,Native Psycho,"5' 10""",145,73.0,Southpaw,18,9,0,False
 fdf18227faa596dd,Chad,Griggs,Chad Griggs,The Grave Digger,"6' 1""",205,73.0,Orthodox,11,3,0,False
 68b8ebdfce9dbb61,Charalampos,Grigoriou,Charalampos Grigoriou,Ferocious,"5' 7""",135,67.0,Orthodox,8,5,0,False
@@ -1450,7 +1453,7 @@ dd12382f28296f7b,Wang,Guan,Wang Guan,The Dongbei Tiger,"5' 9""",145,71.0,Orthodo
 2963369e327e1979,Fabricio,Guerreiro,Fabricio Guerreiro,,"5' 10""",145,,,21,5,0,False
 8300a47f6fd6fe4f,Rainn,Guerrero,Rainn Guerrero,Purple Rainn,"5' 6""",125,65.0,Orthodox,5,2,0,False
 9f1641c08cf8fbe2,Shannon,Gugerty,Shannon Gugerty,,"5' 10""",155,71.0,Orthodox,15,7,0,False
-c47df9303d318c67,Clay,Guida,Clay Guida,The Carpenter,"5' 7""",155,70.0,Orthodox,38,21,0,False
+c47df9303d318c67,Clay,Guida,Clay Guida,The Carpenter,"5' 7""",155,70.0,Orthodox,38,22,0,False
 ce25b4ed82b1811b,Jason,Guida,Jason Guida,,"5' 10""",214,,,19,28,0,False
 ccd1299e0345e0ce,Melvin,Guillard,Melvin Guillard,The Young Assassin,"5' 9""",155,71.0,Orthodox,32,18,2,False
 da0f33e4255f99eb,Chris,Guillen,Chris Guillen,,"6' 0""",240,,Orthodox,13,16,0,False
@@ -1461,7 +1464,7 @@ a0c139b34f11421a,John,Gunderson,John Gunderson,Quick Guns,"5' 9""",155,69.0,Orth
 3956bdc8ab2e54b3,John,Gunther,John Gunther,The Machine,"5' 9""",155,72.0,Orthodox,5,1,0,False
 04d5718ed2661e8c,Jorge,Gurgel,Jorge Gurgel,,"5' 7""",155,69.0,Orthodox,14,10,0,False
 8377c5572cb356f3,Fabio,Gurgel,Fabio Gurgel,,"6' 0""",205,,Orthodox,3,2,0,False
-29162be25ebef5f0,Luis,Gurule,Luis Gurule,Grim,--,125,,Orthodox,9,0,0,False
+29162be25ebef5f0,Luis,Gurule,Luis Gurule,Grim,"5' 5""",125,64.0,Orthodox,10,0,0,False
 ef5dcb10d2bd4b0f,Bogdan,Guskov,Bogdan Guskov,Czarevitch,"6' 3""",205,76.0,Orthodox,16,3,0,False
 e34e3b1fffa13a6a,Gugun,Gusman,Gugun Gusman,The Tiger,"5' 7""",135,68.0,Orthodox,8,4,0,False
 cc300e9aa3063431,Andre,Gusmao,Andre Gusmao,,"6' 0""",205,,Orthodox,6,3,0,False
@@ -1475,10 +1478,10 @@ eaea0fc7b76525a8,Mike,Guymon,Mike Guymon,The Joker,"6' 0""",170,74.0,Orthodox,15
 184b7a36d50dcc5e,Chelsea,Hackett,Chelsea Hackett,Hammer,"5' 4""",125,66.0,Switch,3,1,1,False
 bf12aca029bfcc47,Keith,Hackney,Keith Hackney,The Giant Killer,"5' 11""",200,,Sideways,2,2,0,False
 8e6654e9f0461b8f,Cody,Haddon,Cody Haddon,,"5' 7""",135,69.0,Orthodox,8,1,0,False
-60a42bf82447c919,Jake,Hadley,Jake Hadley,White Kong,"5' 7""",135,70.0,Southpaw,11,3,0,False
+60a42bf82447c919,Jake,Hadley,Jake Hadley,White Kong,"5' 7""",135,70.0,Southpaw,11,4,0,False
 99793cf88c5adeee,Steve,Hadsel,Steve Hadsel,,"5' 8""",170,,,3,0,0,False
 38c626ca912c7bac,Damir,Hadzovic,Damir Hadzovic,The Bosnian Bomber,"5' 9""",155,70.0,Orthodox,14,7,0,False
-f4d92416da98804b,Bassil,Hafez,Bassil Hafez,The Habibi,"5' 11""",170,72.0,Orthodox,9,3,1,False
+f4d92416da98804b,Bassil,Hafez,Bassil Hafez,The Habibi,"5' 11""",170,72.0,Orthodox,9,4,1,False
 219a254e15d60135,Tim,Hague,Tim Hague,The Trashing Machine,"6' 4""",260,76.0,Orthodox,21,13,0,False
 4955c524c2a71469,Yazan,Hajeh,Yazan Hajeh,Yazzle Dazzle,"5' 9""",145,,Orthodox,6,1,0,False
 206a7d47eb62170e,Stoney,Hale,Stoney Hale,The Skuller,"6' 0""",,,,5,3,0,False
@@ -1511,7 +1514,7 @@ b9c3ee342eb72100,Janay,Harding,Janay Harding,Hollowpoint,--,135,,,2,3,0,False
 69b69c0178c4004d,Antoni,Hardonk,Antoni Hardonk,,"6' 4""",245,78.0,Orthodox,8,6,0,False
 f55a6807b6bb853d,George,Hardwick,George Hardwick,King,"5' 10""",155,72.0,Orthodox,12,2,0,False
 473ce3aa581251a2,Dan,Hardy,Dan Hardy,The Outlaw,"6' 0""",170,74.0,Orthodox,25,10,0,False
-4798e823ada58fe9,Veronica,Hardy,Veronica Hardy,,"5' 4""",125,64.0,Southpaw,9,4,1,False
+4798e823ada58fe9,Veronica,Hardy,Veronica Hardy,,"5' 4""",125,64.0,Southpaw,9,5,1,False
 85073dbd1be65ed9,Greg,Hardy,Greg Hardy,Prince of War,"6' 5""",265,80.0,Orthodox,7,5,0,False
 4d1e92b61bcef308,Tobias,Harila,Tobias Harila,Bad Intention,--,,,,12,3,0,False
 848809f3986b4977,Baru,Harn,Baru Harn,Seiryu,--,265,,,1,2,0,False
@@ -1523,7 +1526,7 @@ ba043b03eb799063,Phil,Harris,Phil Harris,Billy,"5' 4""",125,65.0,Orthodox,22,12,
 03f982ca3735070c,Walt,Harris,Walt Harris,The Big Ticket,"6' 5""",250,77.0,Southpaw,13,10,0,False
 0e96af5220d27ed4,Dhafir,Harris,Dhafir Harris,Dada 5000,--,257,,,2,0,0,False
 0e98b05d3cf6d271,Trevor,Harris,Trevor Harris,,"5' 6""",145,,,2,2,0,False
-a53d30163304aa6e,Carlston,Harris,Carlston Harris,Mocambique,"6' 0""",170,76.0,Orthodox,19,6,0,False
+a53d30163304aa6e,Carlston,Harris,Carlston Harris,Mocambique,"6' 0""",170,76.0,Orthodox,19,7,0,False
 1af1170ed937cba7,Kayla,Harrison,Kayla Harrison,,"5' 8""",135,66.0,Southpaw,18,1,0,False
 16bf6a73bdd302cd,Collin,Hart,Collin Hart,,"6' 1""",185,,Orthodox,6,3,1,False
 6412da484125716b,Joey,Hart,Joey Hart,The Hitman,"6' 3""",170,79.0,Orthodox,6,2,0,False
@@ -1572,7 +1575,7 @@ e5bda12faabfc850,Luis,Henrique,Luis Henrique,KLB,"6' 2""",243,74.0,Orthodox,10,5
 20a0e4cc5227c117,Jose,Henrique,Jose Henrique,Canela,"6' 3""",170,79.0,Orthodox,5,1,0,False
 1649770c649db6a5,Diego,Henrique da Silva,Diego Henrique da Silva,Gaucho,"6' 2""",185,,Orthodox,8,4,0,False
 f7d73e452b064bf2,Danny,Henry,Danny Henry,The Hatchet,"6' 0""",145,73.0,Orthodox,12,4,0,False
-eb8d8c2a95cfccb8,Victor,Henry,Victor Henry,La Mangosta,"5' 7""",135,68.0,Switch,24,6,0,False
+eb8d8c2a95cfccb8,Victor,Henry,Victor Henry,La Mangosta,"5' 7""",135,68.0,Switch,24,7,0,False
 e1acbb6352ca3551,TJ,Hepburn,TJ Hepburn,The Carnivore,"5' 7""",155,,,4,2,0,False
 4c88a1db5a46c6a4,Jai,Herbert,Jai Herbert,Black Country Banger,"6' 1""",155,77.0,Orthodox,13,5,1,False
 06f36cf4bd97ec77,Ed,Herman,Ed Herman,Short Fuse,"6' 1""",205,77.0,Orthodox,27,16,0,False
@@ -1582,10 +1585,10 @@ df2cf66d8c0123db,Noe,Hernandez,Noe Hernandez,,--,,,Orthodox,5,5,0,False
 4a76daef28549957,Joe,Hernandez,Joe Hernandez,,--,,,,0,1,0,False
 915c8d39d4a0e7d1,Ramiro,Hernandez,Ramiro Hernandez,Junior,"5' 9""",135,,Orthodox,19,9,0,False
 262a7d06203657e6,Alexander,Hernandez,Alexander Hernandez,The Great Ape,"5' 9""",155,72.0,Orthodox,15,8,0,False
-093e1f5bb73850be,Anthony,Hernandez,Anthony Hernandez,Fluffy,"6' 0""",185,75.0,Orthodox,12,2,0,False
+093e1f5bb73850be,Anthony,Hernandez,Anthony Hernandez,Fluffy,"6' 0""",185,75.0,Orthodox,13,2,0,False
 f97c5433c77522d3,Nohelin,Hernandez,Nohelin Hernandez,Suave,"5' 10""",135,71.0,Orthodox,9,4,0,False
-798e48f9e7f6ba22,Carlos,Hernandez,Carlos Hernandez,,"5' 8""",125,67.0,Orthodox,9,4,0,False
-fc8610cc15674ae2,Leslie,Hernandez,Leslie Hernandez,Dora The Destroyer,--,115,,Orthodox,4,1,0,False
+798e48f9e7f6ba22,Carlos,Hernandez,Carlos Hernandez,,"5' 8""",125,67.0,Orthodox,10,4,0,False
+fc8610cc15674ae2,Leslie,Hernandez,Leslie Hernandez,Dora The Destroyer,"5' 3""",115,64.0,Orthodox,4,2,0,False
 440c9dbab63528fb,Paul,Herrera,Paul Herrera,The Bone Crusher,"5' 10""",185,,Orthodox,1,1,0,False
 f71028a6e5128856,Chris,Herrera,Chris Herrera,The Crusher,"5' 10""",185,,,3,2,1,False
 c169545ab0825f44,Geane,Herrera,Geane Herrera,La Pulga,"5' 5""",125,66.0,Orthodox,9,3,0,False
@@ -1627,7 +1630,7 @@ acbb9c76f5894e36,Sean,Holden,Sean Holden,,"5' 10""",170,,,5,2,0,False
 fc60ecf0671b9489,Chris,Holdsworth,Chris Holdsworth,,"5' 11""",135,,,6,0,0,False
 3a46b268013afede,Kevin,Holland,Kevin Holland,Trailblazer,"6' 3""",185,81.0,Orthodox,26,12,0,False
 27d65e9d0fba61ea,Roger,Hollett,Roger Hollett,The Hulk,"5' 11""",205,,Orthodox,13,5,0,False
-150ff4cc642270b9,Max,Holloway,Max Holloway,Blessed,"5' 11""",145,69.0,Orthodox,26,7,0,False
+150ff4cc642270b9,Max,Holloway,Max Holloway,Blessed,"5' 11""",145,69.0,Orthodox,26,8,0,False
 e30715382f42b772,Gabrielle,Holloway,Gabrielle Holloway,Gabanator,"5' 3""",145,,,6,5,0,False
 ee28aa7f1043756c,Jeremie,Holloway,Jeremie Holloway,Hit Em,"6' 0""",170,,,8,3,0,False
 634e2fb70bde3fd5,Holly,Holm,Holly Holm,The Preacher's Daughter,"5' 8""",135,69.0,Southpaw,15,7,0,False
@@ -1648,7 +1651,7 @@ d2b1c1317a39f6c6,Satoshi,Honma,Satoshi Honma,,"6' 1""",205,,Orthodox,4,6,3,False
 5af480a3b2e1726b,David,Hood,David Hood,,"6' 0""",200,,,1,3,0,False
 7f9abc4db2d05764,Lorenzo,Hood,Lorenzo Hood,Dream Killer,"6' 3""",265,80.0,Southpaw,14,5,0,False
 193b9d1858bc4df3,Dan,Hooker,Dan Hooker,The Hangman,"6' 0""",155,75.0,Switch,24,12,0,False
-971246648e162f0d,Chase,Hooper,Chase Hooper,The Dream,"6' 1""",155,74.0,Southpaw,14,3,1,False
+971246648e162f0d,Chase,Hooper,Chase Hooper,The Dream,"6' 1""",155,74.0,Southpaw,15,3,1,False
 18e8b7070228e728,Darrell,Horcher,Darrell Horcher,The Saint,"5' 10""",155,70.0,Southpaw,13,4,0,False
 baf942f4bcb09894,Moti,Horenstein,Moti Horenstein,,"6' 4""",230,,Orthodox,1,6,0,False
 3fa7688bfe48a493,Yoshinori,Horie,Yoshinori Horie,,"5' 8""",145,70.0,Orthodox,8,2,0,False
@@ -1657,7 +1660,7 @@ f6c1ce7cfd600662,Yuma,Horiuchi,Yuma Horiuchi,Ichiban,"5' 6""",125,67.0,Switch,9,
 8d26912cd2aeb366,Jeremy,Horn,Jeremy Horn,Gumby,"6' 1""",185,74.0,Orthodox,91,22,5,False
 21632ba272c0785a,Matt,Horning,Matt Horning,Horndog,"5' 4""",125,,,20,25,0,False
 e29cf523ebd155c5,Chris,Horodecki,Chris Horodecki,The Polish Hammer,"5' 9""",155,69.0,Orthodox,21,7,1,False
-5c637af9472ae7cc,Jamey-Lyn,Horth,Jamey-Lyn Horth,,"5' 7""",125,66.0,Orthodox,6,1,0,False
+5c637af9472ae7cc,Jamey-Lyn,Horth,Jamey-Lyn Horth,,"5' 7""",125,66.0,Orthodox,7,2,0,False
 049d698d773eb3e1,Matt,Horwich,Matt Horwich,Suave,"6' 1""",185,,Orthodox,30,25,1,False
 57591bbf1623574e,John,Hosman,John Hosman,,"5' 10""",135,,Southpaw,18,8,1,False
 21f2974fd08085e3,Saeed,Hosseini,Saeed Hosseini,,--,,,,0,1,0,False
@@ -1682,7 +1685,7 @@ daf1b84aebd6602b,Roger,Huerta,Roger Huerta,El Matador,"5' 9""",155,70.0,Orthodox
 d62bb4d84a7267ba,Mark,Hughes,Mark Hughes,,"5' 9""",205,,Southpaw,6,2,0,False
 6a11e325aa60ad02,Jeff,Hughes,Jeff Hughes,Lights Out,"6' 2""",250,77.0,Orthodox,10,4,0,False
 e94085e821bd81de,Sam,Hughes,Sam Hughes,Sampage,"5' 5""",115,64.0,Orthodox,9,6,0,False
-f264ba50b007f39e,Victor,Hugo,Victor Hugo,Striker,"5' 7""",135,71.0,Orthodox,25,4,0,False
+f264ba50b007f39e,Victor,Hugo,Victor Hugo,Striker,"5' 7""",135,71.0,Orthodox,25,5,0,False
 b0718335e9868cfd,David,Hulett,David Hulett,Hollywood,"5' 10""",170,,,22,10,0,False
 e4cbc82c36e47299,Dominik,Humburger,Dominik Humburger,,--,185,,,8,1,0,False
 b9c75e7fc910f587,Bryan,Humes,Bryan Humes,,--,265,,,6,2,0,False
@@ -1697,7 +1700,7 @@ edc9eb3051f444fa,Adam,Hunter,Adam Hunter,Warhammer,"6' 1""",185,,Orthodox,7,1,0,
 59279a7c978f7da0,Al,Iaquinta,Al Iaquinta,Raging,"5' 10""",155,70.0,Orthodox,14,7,1,False
 c3218c810959d279,Khadis,Ibragimov,Khadis Ibragimov,,"6' 3""",205,78.0,Orthodox,8,4,0,False
 4565d435005319c0,Minoki,Ichihara,Minoki Ichihara,,"5' 7""",178,,Orthodox,0,1,0,False
-82a5152216251682,Dan,Ige,Dan Ige,50K,"5' 7""",145,71.0,Orthodox,18,8,0,False
+82a5152216251682,Dan,Ige,Dan Ige,50K,"5' 7""",145,71.0,Orthodox,18,9,0,False
 7b6ce3a9460565b5,Valeri,Ignatov,Valeri Ignatov,,"5' 9""",170,,Orthodox,1,2,0,False
 df9e9c1f65805d29,Sergey,Ignatov,Sergey Ignatov,,"5' 9""",210,,Orthodox,0,1,0,False
 263ebd4a669e1e98,Fabiano,Iha,Fabiano Iha,,"5' 8""",155,,Orthodox,9,5,0,False
@@ -1744,14 +1747,14 @@ b4eeac608fc82f88,Yves,Jabouin,Yves Jabouin,Tiger,"5' 7""",135,68.0,Orthodox,20,1
 ce783bf73b5131f9,Eugene,Jackson,Eugene Jackson,The Wolf,"5' 8""",185,,Orthodox,15,9,1,False
 ffc088e64fab57e9,Quinton,Jackson,Quinton Jackson,Rampage,"6' 1""",205,73.0,Orthodox,37,12,0,False
 ad32471f01e7b1a5,Jeremy,Jackson,Jeremy Jackson,Scorpion,"5' 10""",170,,Orthodox,9,5,0,False
-29af297d9f1de0f8,Damon,Jackson,Damon Jackson,The Leech,"5' 11""",145,71.0,Switch,23,7,1,False
+29af297d9f1de0f8,Damon,Jackson,Damon Jackson,The Leech,"5' 11""",155,71.0,Switch,23,8,1,False
 56c5132870a526d5,Kenyon,Jackson,Kenyon Jackson,,"6' 0""",185,,,4,3,0,False
 0641c21bec209472,Mike,Jackson,Mike Jackson,The Truth,"6' 2""",170,74.0,Orthodox,1,2,0,False
 ca8da445dfa82d56,Jason,Jackson,Jason Jackson,Jah-Son,"6' 1""",170,78.0,Orthodox,7,2,0,False
 cc1a8b4b38b92c6d,Montel,Jackson,Montel Jackson,Quik,"5' 10""",135,75.0,Southpaw,14,2,0,False
 ba17afef01ed78b6,Eric,Jacob,Eric Jacob,,--,155,,,1,9,0,False
 46f557bd44da630e,Richard,Jacobi,Richard Jacobi,,"6' 4""",260,75.0,Orthodox,6,1,1,False
-e4277e87a789d687,Dustin,Jacoby,Dustin Jacoby,The Hanyak,"6' 3""",205,76.0,Orthodox,19,9,1,False
+e4277e87a789d687,Dustin,Jacoby,Dustin Jacoby,The Hanyak,"6' 3""",205,76.0,Orthodox,20,9,1,False
 1ea8df62b3f8fea6,Justin,James,Justin James,,"5' 10""",155,,Orthodox,13,7,0,False
 a34fecf2f4e5a317,Nate,James,Nate James,,"6' 0""",185,,,14,8,1,False
 7dda2cf308f24a02,Virna,Jandiroba,Virna Jandiroba,Carcara,"5' 3""",115,64.0,Orthodox,21,3,0,False
@@ -1764,7 +1767,7 @@ b9d0fd83bb8a147a,Keith,Jardine,Keith Jardine,The Dean of Mean,"6' 2""",185,76.0,
 64959f90b6dd9759,Brock,Jardine,Brock Jardine,The Machine,"5' 11""",170,,Orthodox,12,6,0,False
 32e8e0e8498f03c2,Josh,Jarvis,Josh Jarvis,,--,,,,1,4,0,False
 b71ce838b01f2cad,Rony,Jason,Rony Jason,,"5' 7""",145,73.0,Orthodox,14,7,0,False
-a9e260472d321361,Jasmine,Jasudavicius,Jasmine Jasudavicius,,"5' 7""",125,68.0,Orthodox,11,3,0,False
+a9e260472d321361,Jasmine,Jasudavicius,Jasmine Jasudavicius,,"5' 7""",125,68.0,Orthodox,12,3,0,False
 0e8744ded08ee5fb,Louis,Jauregui,Louis Jauregui,,"5' 7""",170,,,4,2,0,False
 40cb680ae1cd331f,Yazmin,Jauregui,Yazmin Jauregui,,"5' 3""",115,64.0,Orthodox,11,2,0,False
 304a21d0595e1a08,Justin,Jaynes,Justin Jaynes,The Guitar Hero,"5' 7""",145,68.0,Orthodox,16,8,0,False
@@ -1781,7 +1784,7 @@ aec273fcb765330d,Kyle,Jensen,Kyle Jensen,,"5' 9""",170,,Orthodox,4,11,2,False
 24174a3f44ce8e03,Chan-Mi,Jeon,Chan-Mi Jeon,,"5' 5""",115,,Orthodox,5,2,0,False
 6b5b9be990774f0e,Maciej,Jewtuszko,Maciej Jewtuszko,Irokez,"6' 0""",155,,Southpaw,12,3,0,False
 b9e871af730f826c,Ronald,Jhun,Ronald Jhun,The Machine Gun,"5' 11""",170,,Orthodox,24,26,2,False
-8677e67a75d65b8e,Baergeng,Jieleyisi,Baergeng Jieleyisi,,"5' 9""",135,70.0,Orthodox,18,5,0,False
+8677e67a75d65b8e,Baergeng,Jieleyisi,Baergeng Jieleyisi,,"5' 9""",135,70.0,Orthodox,18,6,0,False
 59d36ddfcb27b7dc,Gilbert,Jimenez,Gilbert Jimenez,,--,155,,,8,12,1,False
 a5c53b3ddb31cc7d,Art,Jimmerson,Art Jimmerson,,"6' 1""",196,,Orthodox,0,1,0,False
 bc3ec52ef70fc155,Ryan,Jimmo,Ryan Jimmo,The Big Deal,"6' 1""",205,73.0,Orthodox,19,5,0,False
@@ -1791,7 +1794,7 @@ c14a683dac2ebc4c,,Jiniushiyue, Jiniushiyue,Little King Kong,"5' 6""",125,68.0,So
 2a4200ead401a9ce,Carls,John De Tomas,Carls John De Tomas,,"5' 5""",125,71.0,Southpaw,6,2,0,False
 a8fa0c4e95512806,Phil,Johns,Phil Johns,,"5' 2""",170,,Southpaw,30,14,1,False
 ec52462a1b41f714,Brett,Johns,Brett Johns,The Pikey,"5' 7""",135,71.0,Orthodox,17,2,0,False
-46e0d677f91bacc0,Miles,Johns,Miles Johns,Chapo,"5' 7""",135,66.0,Orthodox,15,2,0,False
+46e0d677f91bacc0,Miles,Johns,Miles Johns,Chapo,"5' 7""",145,66.0,Orthodox,15,3,0,False
 365fee2da473b177,Anthony,Johnson,Anthony Johnson,Rumble,"6' 2""",205,78.0,Orthodox,22,6,0,False
 322a56923b396b4d,DaMarques,Johnson,DaMarques Johnson,Darkness,"6' 1""",170,75.0,Orthodox,15,15,0,False
 22f4b6cb6b1bd7fd,Devin,Johnson,Devin Johnson,,--,,,,1,1,1,False
@@ -1800,7 +1803,7 @@ fa2fca260beeb9c0,Ricky,Johnson,Ricky Johnson,,"5' 8""",145,,Orthodox,10,6,0,Fals
 3641a0d117e9bc6c,Tony,Johnson,Tony Johnson,,"6' 2""",205,76.0,Orthodox,7,2,0,False
 e6c5908910cc26e4,Lavar,Johnson,Lavar Johnson,Big,"6' 4""",240,82.0,Orthodox,18,10,0,False
 8a304bfd6bf04a57,Demetrious,Johnson,Demetrious Johnson,Mighty Mouse,"5' 3""",125,66.0,Orthodox,27,3,1,False
-511e82663651438d,Michael,Johnson,Michael Johnson,The Menace,"5' 10""",155,73.0,Southpaw,23,19,0,False
+511e82663651438d,Michael,Johnson,Michael Johnson,The Menace,"5' 10""",155,73.0,Southpaw,24,19,0,False
 bf97ad31eae89429,Deshaun,Johnson,Deshaun Johnson,,--,167,,,6,9,0,False
 633a45d131192ffe,Kajan,Johnson,Kajan Johnson,Ragin',"5' 11""",155,75.0,Orthodox,23,13,1,False
 36207c58e854cae5,Dashon,Johnson,Dashon Johnson,Flyboy,"5' 7""",145,,Orthodox,9,2,0,False
@@ -1809,13 +1812,13 @@ a45bab49951a45cd,Tony,Johnson,Tony Johnson,,"6' 1""",265,,,11,3,0,False
 99bcdf5eac39898f,Jordan,Johnson,Jordan Johnson,,"6' 2""",205,79.0,Orthodox,10,0,0,False
 552b09cbf13b6328,Taylor,Johnson,Taylor Johnson,Tombstone,"6' 0""",185,74.0,Switch,5,1,0,False
 6ce9a012e4c6020c,Chad,Johnson,Chad Johnson,Big Rigg,"6' 2""",230,80.0,Orthodox,6,2,0,False
-84f727cf0166d6f2,Jose,Johnson,Jose Johnson,Zhakwarius,"6' 0""",125,71.0,Orthodox,16,9,0,False
-814e5233e2acf2ee,Charles,Johnson,Charles Johnson,InnerG,"5' 9""",125,70.0,Switch,16,6,0,False
+84f727cf0166d6f2,Jose,Johnson,Jose Johnson,Zhakwarius,"6' 0""",125,71.0,Orthodox,16,10,0,False
+814e5233e2acf2ee,Charles,Johnson,Charles Johnson,InnerG,"5' 9""",125,70.0,Switch,17,6,0,False
 1c3f5e85b59ec710,Brian,Johnston,Brian Johnston,,"6' 3""",230,,Orthodox,5,5,0,False
 eebc23626e38f5dc,Liana,Jojua,Liana Jojua,She Wolf,"5' 4""",125,62.0,Orthodox,8,5,0,False
 eeabcd4dc6619129,Daniel,Jolly,Daniel Jolly,The Werewolf of Texas,"6' 1""",205,75.0,Orthodox,5,3,0,False
 f341f9551ba744e2,Paul,Jones,Paul Jones,,"5' 9""",199,,Orthodox,11,1,1,False
-07f72a2a7591b409,Jon,Jones,Jon Jones,Bones,"6' 4""",248,84.0,Orthodox,27,1,0,True
+07f72a2a7591b409,Jon,Jones,Jon Jones,Bones,"6' 4""",248,84.0,Orthodox,28,1,0,True
 f54fb3b9c4228142,Nathan,Jones,Nathan Jones,,"6' 11""",345,,Orthodox,0,1,0,False
 8fa2b06572365321,Marcus,Jones,Marcus Jones,The Darkness,"6' 6""",265,,Orthodox,4,2,0,False
 f117c3e8c1aa7b9e,Carlton,Jones,Carlton Jones,,"6' 1""",225,,Orthodox,1,4,0,False
@@ -1844,7 +1847,7 @@ ca2efc9d7d523c43,Shawn,Jordan,Shawn Jordan,The Savage,"6' 0""",260,75.0,Southpaw
 388abbf8832b5adf,Jeff,Joslin,Jeff Joslin,The Inferno,"6' 0""",170,,Orthodox,5,3,0,False
 4e06913c91da5200,Krzysztof,Jotko,Krzysztof Jotko,,"6' 1""",185,77.0,Southpaw,24,6,0,False
 cf65d56b0755ed3b,Alan,Jouban,Alan Jouban,Brahma,"6' 0""",170,73.0,Southpaw,17,7,0,False
-f1d64ae34e088832,Charles,Jourdain,Charles Jourdain,Air,"5' 9""",135,69.0,Switch,15,8,1,False
+f1d64ae34e088832,Charles,Jourdain,Charles Jourdain,Air,"5' 9""",135,69.0,Switch,16,8,1,False
 dda15dbfafb792df,Kevin,Jousset,Kevin Jousset,Air,"6' 2""",170,75.0,Orthodox,10,3,0,False
 35080a7f406f9ab3,Mike,Joy,Mike Joy,,"5' 6""",155,,Southpaw,11,8,0,False
 791367e8c35cfb6a,Dustin,Joynson,Dustin Joynson,,"6' 6""",244,78.0,Orthodox,5,0,0,False
@@ -1880,22 +1883,22 @@ f3a078277b3b8ff4,Masanori,Kanehara,Masanori Kanehara,,"5' 7""",135,67.0,Orthodox
 5345f86680378fc1,Ken,Kaneko,Ken Kaneko,,"6' 0""",161,,Orthodox,0,3,0,False
 3c241737a6069b9f,Denis,Kang,Denis Kang,,"5' 11""",185,77.0,Orthodox,35,16,2,False
 a7897d200692ab64,Kyung Ho,Kang,Kyung Ho Kang,Mr. Perfect,"5' 9""",135,73.0,Orthodox,19,11,0,False
-5d1b7e3dd9e11074,Manel,Kape,Manel Kape,StarBoy,"5' 5""",125,68.0,Southpaw,19,7,0,False
+5d1b7e3dd9e11074,Manel,Kape,Manel Kape,StarBoy,"5' 5""",125,68.0,Southpaw,20,7,0,False
 5669b828e7e11329,David,Kaplan,David Kaplan,Diamond,"5' 7""",155,,Orthodox,3,4,0,False
 853eb0dd5c0e2149,Kai,Kara-France,Kai Kara-France,Don't Blink,"5' 4""",125,69.0,Orthodox,25,11,0,False
 43292ecf0e72c143,Georgi,Karakhanyan,Georgi Karakhanyan,Insane,"5' 8""",145,,,26,7,1,False
 e361e5c858af6ff1,Alex,Karalexis,Alex Karalexis,The Assassin,"5' 8""",155,66.0,Orthodox,10,6,0,False
-e4faa79383c9f214,Ernesta,Kareckaite,Ernesta Kareckaite,Heavy-Handed,"5' 9""",125,71.0,Orthodox,5,1,1,False
+e4faa79383c9f214,Ernesta,Kareckaite,Ernesta Kareckaite,Heavy-Handed,"5' 9""",125,71.0,Orthodox,6,1,1,False
 257b0c8d6f199895,Impa,Kasanganay,Impa Kasanganay,Tshilobo,"5' 11""",170,75.0,Orthodox,9,2,0,False
 4a9120fa47bafef0,Jinnosuke,Kashimura,Jinnosuke Kashimura,,"5' 7""",155,71.0,Southpaw,4,2,0,False
 6e7506127408aa9e,Nadia,Kassem,Nadia Kassem,,"5' 5""",125,66.0,Southpaw,5,2,0,False
 3058888c33149a53,Yusuke,Kasuya,Yusuke Kasuya,,"5' 7""",155,,Southpaw,9,3,0,False
 542db012217ecb83,Tetsuji,Kato,Tetsuji Kato,,--,155,,Orthodox,20,10,0,False
 ebf1c247b2cba375,Hisaki,Kato,Hisaki Kato,,"6' 0""",185,,,8,2,0,False
-7b433309b0fd12aa,Brad,Katona,Brad Katona,Superman,"5' 6""",135,64.0,Orthodox,16,3,0,False
+7b433309b0fd12aa,Brad,Katona,Brad Katona,Superman,"5' 6""",135,64.0,Orthodox,16,4,0,False
 751de04455cfaac0,Calvin,Kattar,Calvin Kattar,,"5' 11""",145,72.0,Orthodox,23,8,0,False
 36df8e119aec6175,Sarah,Kaufman,Sarah Kaufman,,"5' 5""",135,66.0,Orthodox,18,4,0,False
-bb2c3c3a466224af,Lone'er,Kavanagh,Lone'er Kavanagh,,"5' 4""",125,67.0,Orthodox,7,0,0,False
+bb2c3c3a466224af,Lone'er,Kavanagh,Lone'er Kavanagh,,"5' 4""",125,67.0,Orthodox,8,0,0,False
 fa2320781bfe4f49,Yusuke,Kawaguchi,Yusuke Kawaguchi,,"6' 0""",255,,,18,12,0,False
 58d42b9e920b25fc,Canaan,Kawaihae,Canaan Kawaihae,,"6' 0""",145,71.0,Southpaw,6,2,0,False
 80d918336163b80c,Tatsuya,Kawajiri,Tatsuya Kawajiri,Crusher,"5' 7""",145,69.0,Orthodox,36,11,2,False
@@ -1964,17 +1967,17 @@ c7d7fda69ec410d3,Kamuela,Kirk,Kamuela Kirk,The Jawaiian,"5' 10""",155,75.0,Switc
 e2ac5bb645f33088,Satoru,Kitaoka,Satoru Kitaoka,,"5' 6""",154,,,40,14,9,False
 e065b4a42a6c2c79,Top Noi,Kiwram,Top Noi Kiwram,,"5' 5""",125,67.0,Southpaw,9,5,0,False
 5b86d491d63890c5,Ludovit,Klein,Ludovit Klein,Mr. Highlight,"5' 7""",155,72.0,Southpaw,23,4,1,False
-7eaa5e31c2dd86aa,Nick,Klein,Nick Klein,Blue Collar,--,185,,Orthodox,5,1,0,False
+7eaa5e31c2dd86aa,Nick,Klein,Nick Klein,Blue Collar,"6' 1""",185,77.0,Orthodox,6,1,0,False
 8ad022dd81224f61,Seth,Kleinbeck,Seth Kleinbeck,Mass Destruction,"6' 2""",185,,,8,4,0,False
 bc3876891e155bb5,Stefan,Klever,Stefan Klever,,--,185,,Orthodox,6,1,0,False
-745fa7b605f8e2da,Fatima,Kline,Fatima Kline,The Archangel,"5' 6""",115,67.0,Orthodox,6,1,0,False
+745fa7b605f8e2da,Fatima,Kline,Fatima Kline,The Archangel,"5' 6""",115,67.0,Orthodox,7,1,0,False
 8276f28f1ad087de,Felix,Klinkhammer,Felix Klinkhammer,,"6' 0""",170,,,7,0,0,False
-7cbf7c78d3b34218,Drakkar,Klose,Drakkar Klose,,"5' 9""",155,70.0,Orthodox,15,2,1,False
+7cbf7c78d3b34218,Drakkar,Klose,Drakkar Klose,,"5' 9""",155,70.0,Orthodox,15,3,1,False
 02f0e04acf102ea9,Michael,Knaap,Michael Knaap,Hammer,"6' 2""",220,,Orthodox,18,22,3,False
 1fac46d466abd5b8,Kevin,Knabjian,Kevin Knabjian,,"5' 10""",170,,Orthodox,12,7,1,False
 bb1a2cdad6ff34db,Jason,Knight,Jason Knight,The Kid,"5' 10""",145,71.0,Orthodox,20,5,0,False
 5da33b8fbfa5ee95,William,Knight,William Knight,Knightmare,"5' 10""",205,73.0,Orthodox,11,5,0,False
-971dba22c622af12,Josefine,Knutsson,Josefine Knutsson,Thunder,"5' 3""",115,60.0,Orthodox,8,0,0,False
+971dba22c622af12,Josefine,Knutsson,Josefine Knutsson,Thunder,"5' 3""",115,60.0,Orthodox,8,1,0,False
 4a07b1988477502c,Seokhyeon,Ko,Seokhyeon Ko,The Korean Tyson,"5' 10""",170,71.0,Southpaw,11,2,0,False
 a02652d063ef5baa,Isao,Kobayashi,Isao Kobayashi,,"5' 8""",145,,,21,4,4,False
 c398235fcaf8d71d,Kelly,Kobold,Kelly Kobold,Blood Red,"5' 6""",135,,Orthodox,19,3,1,False
@@ -1990,7 +1993,7 @@ b76ed59283d3559c,Tsuyoshi,Kohsaka,Tsuyoshi Kohsaka,TK,"5' 11""",225,,Orthodox,27
 a851c35f58199231,Syuri,Kondo,Syuri Kondo,,"5' 4""",115,66.0,Orthodox,6,3,0,False
 1eacf73d6a0055dc,Cheick,Kongo,Cheick Kongo,,"6' 4""",240,82.0,Orthodox,27,10,2,False
 dd39f1ca787a3d9d,Andrei,Kopylov,Andrei Kopylov,,"6' 2""",265,,Orthodox,6,11,0,False
-9d83f6da776ff7d6,Roman,Kopylov,Roman Kopylov,,"6' 0""",185,75.0,Southpaw,13,3,0,False
+9d83f6da776ff7d6,Roman,Kopylov,Roman Kopylov,,"6' 0""",185,75.0,Southpaw,14,3,0,False
 6c011be66326ad97,Bruno,Korea,Bruno Korea,,"5' 6""",135,65.0,,7,3,0,False
 aee885b8ca29ab4f,Andrey,Koreshkov,Andrey Koreshkov,Spartan,"6' 0""",170,,,19,2,0,False
 dd37fd509af89f15,Josh,Koscheck,Josh Koscheck,,"5' 10""",170,73.0,Orthodox,17,11,0,False
@@ -2000,7 +2003,7 @@ a68d57ae177a5815,Ilya,Kotau,Ilya Kotau,,--,170,,,1,2,0,False
 c6becb722706c7d8,Iouri,Kotchkine,Iouri Kotchkine,,"6' 2""",235,,Orthodox,7,4,1,False
 8fbcd82bf7f352bf,Matt,Kovacs,Matt Kovacs,300,"6' 0""",244,,Orthodox,12,16,0,False
 ad0e42800a0d8977,Marcus,Kowal,Marcus Kowal,,--,135,,,3,1,1,False
-d7c3816669784109,Karolina,Kowalkiewicz,Karolina Kowalkiewicz,,"5' 3""",115,64.0,Orthodox,16,8,0,False
+d7c3816669784109,Karolina,Kowalkiewicz,Karolina Kowalkiewicz,,"5' 3""",115,64.0,Orthodox,16,9,0,False
 fc36e2352dccf2a4,Steve,Kozola,Steve Kozola,,--,155,,,8,0,0,False
 714e1e0681ddb703,Derrick,Krantz,Derrick Krantz,D-Rock,"5' 10""",170,72.0,Orthodox,22,12,0,False
 8f6a18831a120817,James,Krause,James Krause,The,"6' 2""",170,73.0,Orthodox,28,9,0,False
@@ -2052,8 +2055,8 @@ e62ce041bb7aeb1f,Sean,Lally,Sean Lally,The Unpredictable One,"6' 0""",170,,Ortho
 3974fa35c917af1d,Ricardo,Lamas,Ricardo Lamas,The Bully,"5' 8""",145,71.0,Orthodox,20,8,0,False
 5be86bb2f78fef2f,Jason,Lambert,Jason Lambert,The Punisher,"6' 3""",185,75.0,Orthodox,26,13,0,False
 7e062824c175f975,Jose,Landi-Jons,Jose Landi-Jons,Pele,"5' 11""",170,,Orthodox,29,16,0,False
-583ee11abddfc581,Nate,Landwehr,Nate Landwehr,The Train,"5' 9""",145,72.0,Orthodox,18,5,0,False
-be9bdec19b7e9ffe,Austen,Lane,Austen Lane,,"6' 6""",245,80.0,Orthodox,12,5,0,False
+583ee11abddfc581,Nate,Landwehr,Nate Landwehr,The Train,"5' 9""",145,72.0,Orthodox,18,6,0,False
+be9bdec19b7e9ffe,Austen,Lane,Austen Lane,,"6' 6""",245,80.0,Orthodox,13,5,0,False
 d73e856f150744b2,Aaron,Lanfranco,Aaron Lanfranco,,--,155,,,5,1,0,False
 09422812370fbdfe,Jeremy,Lang,Jeremy Lang,,"5' 11""",205,,Southpaw,21,2,0,False
 b8980dd7e8fc5976,Lionel,Lanham,Lionel Lanham,,--,205,,,5,1,0,False
@@ -2089,7 +2092,8 @@ e43eefb10d440cb0,Jimmy,Lawson,Jimmy Lawson,Greedy,"6' 0""",265,77.0,Orthodox,4,2
 49ee5024966efc0d,Mounir,Lazzez,Mounir Lazzez,The Sniper,"6' 1""",170,76.0,Orthodox,11,3,0,False
 d4f364dd076bb0e2,Cung,Le,Cung Le,,"5' 9""",185,70.0,Southpaw,9,3,0,False
 882b3f5a0774d575,Thanh,Le,Thanh Le,,"5' 9""",145,74.0,Orthodox,6,1,0,False
-32feae6d9a1e5047,Quang,Le,Quang Le,Bang,"5' 6""",135,70.0,Orthodox,8,1,0,False
+32feae6d9a1e5047,Quang,Le,Quang Le,Bang,"5' 6""",135,70.0,Orthodox,8,2,0,False
+28d421729451c8ca,Carlos,Leal,Carlos Leal,The Lion,"5' 11""",170,74.0,Orthodox,21,6,0,False
 ac026518a9b4dc0f,Jordan,Leavitt,Jordan Leavitt,The Monkey King,"5' 9""",155,71.0,Southpaw,11,3,0,False
 2d0b10789feafddb,Jerome,LeBanner,Jerome LeBanner,,"6' 3""",265,,Southpaw,3,2,0,False
 d43a048a880efdff,Chris,Leben,Chris Leben,The Crippler,"5' 11""",185,73.0,Southpaw,22,11,0,False
@@ -2164,7 +2168,7 @@ e9213f53ddeca978,Dhiego,Lima,Dhiego Lima,,"6' 2""",170,75.0,Orthodox,17,9,0,Fals
 264111bf62662fbf,Douglas,Lima,Douglas Lima,The Phenom,"6' 1""",170,,,29,6,0,False
 6135fd9665fbb74e,Mabelly,Lima,Mabelly Lima,,"5' 2""",135,,Orthodox,7,1,0,False
 b1f21ce050035d58,Andre,Lima,Andre Lima,Mascote,"5' 7""",125,67.0,Orthodox,10,0,0,False
-9256f591b30c073e,Felipe,Lima,Felipe Lima,Jungle Boy,"5' 6""",145,68.0,Orthodox,13,1,0,False
+9256f591b30c073e,Felipe,Lima,Felipe Lima,Jungle Boy,"5' 6""",145,68.0,Orthodox,14,1,0,False
 18c49685296c60e6,Miguel,Linares,Miguel Linares,,--,,,,2,4,0,False
 a4ef92274a45143d,Emiliano,Linares,Emiliano Linares,Golden Bull,"5' 8""",145,72.0,Orthodox,8,2,0,False
 0e041d43a47d2e4b,Matt,Lindland,Matt Lindland,The Law,"6' 0""",185,74.0,Southpaw,22,9,0,False
@@ -2176,7 +2180,7 @@ a780d16cf7eed44d,Lucio,Linhares,Lucio Linhares,,"6' 2""",185,,Orthodox,19,8,0,Fa
 2c5f5749569eef66,Tainara,Lisboa,Tainara Lisboa,Thai Panther,"5' 7""",135,67.0,Orthodox,7,2,0,False
 68c6cd5287b473a7,Dean,Lister,Dean Lister,The Boogeyman,"6' 1""",185,75.0,Orthodox,13,7,0,False
 008c6e1a25751575,Wesley,Little,Wesley Little,,"6' 4""",205,,,4,8,0,False
-93b2b7caa457cbea,James,Llontop,James Llontop,Goku,"6' 0""",155,73.0,Orthodox,14,4,0,False
+93b2b7caa457cbea,James,Llontop,James Llontop,Goku,"6' 0""",155,73.0,Orthodox,14,5,0,False
 6448e57a9533b7e4,Abner,Lloveras,Abner Lloveras,Skullman,"5' 11""",155,,,20,9,1,False
 7abce81b72fbbd9b,Brian,Lo-A-Njoe,Brian Lo-A-Njoe,,"5' 7""",155,,Orthodox,6,10,3,False
 31652c9267606d54,John,Lober,John Lober,The Machine,"5' 11""",199,,Orthodox,5,9,4,False
@@ -2195,7 +2199,7 @@ db1f2ed63b54b9a7,Hector,Lombard,Hector Lombard,,"5' 9""",185,71.0,Southpaw,34,10
 1f70dd67ad507990,Lucas,Lopes,Lucas Lopes,,"6' 2""",185,,,29,19,0,False
 8270c00fae24c922,Dileno,Lopes,Dileno Lopes,,"5' 5""",135,,,19,3,0,False
 f166e93d04a8c274,Diego,Lopes,Diego Lopes,,"5' 11""",145,72.0,Orthodox,26,6,0,False
-0abcf6bc47191219,Bruno,Lopes,Bruno Lopes,Brunao,"6' 2""",205,74.0,Orthodox,13,1,0,False
+0abcf6bc47191219,Bruno,Lopes,Bruno Lopes,Brunao,"6' 2""",205,74.0,Orthodox,14,1,0,False
 2aa481e98185e261,Arthur,Lopes,Arthur Lopes,Demolidor,"6' 2""",234,77.0,Southpaw,6,2,0,False
 0db9d2486d564a3c,Ivan,Lopez,Ivan Lopez,,"5' 6""",135,,Southpaw,14,3,1,False
 6085ceb59087514b,Steve,Lopez,Steve Lopez,,"5' 11""",155,,Orthodox,13,6,1,False
@@ -2226,7 +2230,7 @@ e26882820f9e8df5,Mike,Lullo,Mike Lullo,,"5' 8""",145,,Orthodox,8,3,0,False
 5b1effb0db45273a,Paula,Luna,Paula Luna,La Prodigia,"5' 2""",125,62.0,Orthodox,5,3,0,False
 ce632027bf2a871b,Dalcha,Lungiambula,Dalcha Lungiambula,Champion,"5' 8""",185,76.0,Orthodox,11,6,0,False
 4887e5bc4dbb73ff,Alexandru,Lungu,Alexandru Lungu,,"6' 0""",385,,Orthodox,14,4,0,False
-6d4b63c767106d3a,Vicente,Luque,Vicente Luque,The Silent Assassin,"5' 11""",170,75.0,Orthodox,22,10,1,False
+6d4b63c767106d3a,Vicente,Luque,Vicente Luque,The Silent Assassin,"5' 11""",170,75.0,Orthodox,23,10,1,False
 505934897b8b4824,Thaddeus,Luster,Thaddeus Luster,,"6' 3""",210,,,0,1,0,False
 622f015c81a9b13a,Travis,Lutter,Travis Lutter,The Serial Killer,"5' 11""",185,75.0,Orthodox,10,6,0,False
 12630a4aa0894da8,Joilton,Lutterbach,Joilton Lutterbach,Peregrino,"6' 1""",185,75.0,Orthodox,38,9,0,False
@@ -2245,8 +2249,8 @@ cbd5d3cdd862e90e,Rory,MacDonald,Rory MacDonald,Red King,"6' 0""",170,76.0,Orthod
 39831e62d12e7ad1,Clayton,MacFarlane,Clayton MacFarlane,,--,170,,,4,1,0,False
 8cf90e41646491fd,Ilima,Macfarlane,Ilima Macfarlane,,"5' 4""",125,,,6,0,0,False
 a1a91dbf41a029c4,Valesca,Machado,Valesca Machado,Tina Black,"5' 4""",115,63.0,Orthodox,8,3,0,False
-89839250eb25c9c1,Caio,Machado,Caio Machado,Bigfoot,"6' 4""",250,78.0,Southpaw,8,3,1,False
-442c9011034ae1fd,Ian,Machado Garry,Ian Machado Garry,The Future,"6' 3""",170,74.0,Orthodox,15,0,0,False
+89839250eb25c9c1,Caio,Machado,Caio Machado,Bigfoot,"6' 4""",250,78.0,Southpaw,8,4,1,False
+442c9011034ae1fd,Ian,Machado Garry,Ian Machado Garry,The Future,"6' 3""",170,74.0,Orthodox,15,1,0,False
 f7a7f7118d4b01b6,Lyoto,Machida,Lyoto Machida,The Dragon,"6' 1""",185,74.0,Southpaw,24,8,0,False
 cd7bafbeee1f29a0,War,Machine,War Machine,,"5' 11""",170,,Orthodox,14,5,0,False
 dedc3bb440d09554,Anthony,Macias,Anthony Macias,Mad Dog,"5' 9""",185,,Switch,26,18,0,False
@@ -2266,18 +2270,18 @@ a4bf17bd3ba3423b,Yoshiro,Maeda,Yoshiro Maeda,,"5' 7""",139,68.0,Southpaw,35,16,5
 8db1b36dde268ef6,Eric,Magana,Eric Magana,,--,,,,1,1,0,False
 2015c944226ad2df,Brandon,Magana,Brandon Magana,,--,170,,Orthodox,6,2,0,False
 bd878a638e0e3be3,Angela,Magana,Angela Magana,Your Majesty,"5' 1""",115,65.0,Orthodox,11,9,0,False
-84b3e7d38f2d2ec5,Neil,Magny,Neil Magny,The Haitian Sensation,"6' 3""",170,80.0,Orthodox,29,13,0,False
+84b3e7d38f2d2ec5,Neil,Magny,Neil Magny,The Haitian Sensation,"6' 3""",170,80.0,Orthodox,29,14,0,False
 d16373b3568678d4,Raimond,Magomedaliev,Raimond Magomedaliev,,"6' 1""",170,75.0,Orthodox,10,2,0,False
 e7e970d508529bf3,Ibragim,Magomedov,Ibragim Magomedov,,"6' 0""",250,,Orthodox,22,8,1,False
 7ea1f74cef32f906,Rashid,Magomedov,Rashid Magomedov,Highlander,"5' 9""",155,70.0,Orthodox,20,2,0,False
 369e1ce458ef50a6,Ruslan,Magomedov,Ruslan Magomedov,Leopard,"6' 3""",242,78.0,Orthodox,14,1,0,False
-36b8f265bcd1b7a4,Abus,Magomedov,Abus Magomedov,,"6' 2""",185,78.0,Orthodox,26,6,1,False
-06734ca9d88dec3a,Shara,Magomedov,Shara Magomedov,Bullet,"6' 2""",185,73.0,Orthodox,14,0,0,False
+36b8f265bcd1b7a4,Abus,Magomedov,Abus Magomedov,,"6' 2""",185,78.0,Orthodox,27,6,1,False
+06734ca9d88dec3a,Shara,Magomedov,Shara Magomedov,Bullet,"6' 2""",185,73.0,Orthodox,15,0,0,False
 87aa9fb63d6b51a1,Zabit,Magomedsharipov,Zabit Magomedsharipov,,"6' 1""",145,73.0,Orthodox,18,1,0,False
 1a7745388839e52b,John,Maguire,John Maguire,The One,"5' 9""",155,69.0,Southpaw,24,9,0,False
 fb0b6593cec84356,Lolohea,Mahe,Lolohea Mahe,,--,,,,10,4,1,False
 118463dd8db16e7f,Michelle,Maher,Michelle Maher,,--,145,,,1,2,0,False
-8c1ca54b5089d199,,Maheshate, Maheshate,,"6' 0""",155,71.0,Orthodox,10,3,0,False
+8c1ca54b5089d199,,Maheshate, Maheshate,,"6' 0""",155,71.0,Orthodox,10,4,0,False
 ae58685caf8e4a0d,Bill,Mahood,Bill Mahood,The Butcher,"6' 3""",200,,Orthodox,20,7,1,False
 7a9c1bb08a743d7f,Klayton,Mai,Klayton Mai,,"5' 9""",125,,,8,3,0,False
 427b5953ac8e3a27,Demian,Maia,Demian Maia,,"6' 1""",170,72.0,Southpaw,28,11,0,False
@@ -2297,7 +2301,7 @@ b60c980f79b87ce8,Bea,Malecki,Bea Malecki,,"5' 9""",135,74.0,Orthodox,4,1,0,False
 d38e8c6ae2dfc051,Nazareno,Malegarie,Nazareno Malegarie,El Tigre,"5' 8""",155,,,28,4,0,False
 a314687f372b2cec,Carl,Malenko,Carl Malenko,,"5' 11""",200,,Orthodox,6,4,0,False
 d4270315cbcf2569,Jacob,Malkoun,Jacob Malkoun,Mamba,"5' 9""",185,73.0,Orthodox,8,3,0,False
-dd6103dd7127db1d,Mike,Malott,Mike Malott,Proper,"6' 1""",170,73.0,Orthodox,10,2,1,False
+dd6103dd7127db1d,Mike,Malott,Mike Malott,Proper,"6' 1""",170,73.0,Orthodox,11,2,1,False
 eefc73b53d4a05d7,Dan,Manasoiu,Dan Manasoiu,,--,,,,0,0,0,False
 725a834930c2b5bf,Troy,Mandaloniz,Troy Mandaloniz,Rude Boy,"5' 9""",170,,Orthodox,3,2,0,False
 6e9f40c706f91f32,Nate,Maness,Nate Maness,Mayhem,"5' 10""",125,72.0,Orthodox,16,3,0,False
@@ -2312,7 +2316,7 @@ e192ebb85b68fa9e,Dylan,Mantello,Dylan Mantello,The Quiet Man,"6' 1""",155,73.0,O
 a23e63184c65f5b8,Chris,Manuel,Chris Manuel,,"5' 9""",135,,Orthodox,9,7,2,False
 1e1dbd1cc5a7469e,Jimi,Manuwa,Jimi Manuwa,Poster Boy,"6' 1""",205,79.0,Orthodox,17,6,0,False
 ff4c3ab594c7fac3,Cristiano,Marcello,Cristiano Marcello,,"5' 9""",155,72.0,Orthodox,13,6,0,False
-850266b3dc4e506e,Daniel,Marcos,Daniel Marcos,Soncora,"5' 7""",135,69.0,Orthodox,16,0,0,False
+850266b3dc4e506e,Daniel,Marcos,Daniel Marcos,Soncora,"5' 7""",135,69.0,Orthodox,17,0,0,False
 b35ba64b6a2bbcb3,Jose,Maria,Jose Maria,No Chance,"5' 5""",125,,Orthodox,37,7,0,False
 72e5e5a6edfa8223,Marcos,Mariano,Marcos Mariano,Dhalsim,"6' 1""",155,76.0,Switch,6,6,0,False
 23a6e307077c6ccc,Enrique,Marin,Enrique Marin,Wasabi,"5' 10""",170,,,10,4,0,False
@@ -2346,14 +2350,14 @@ abbc4fc02e0d84b3,Eric,Martin,Eric Martin,,--,,,,0,1,0,False
 8a9c6c4301f6d088,Danny,Martinez,Danny Martinez,The Gremlin,"5' 6""",125,67.0,Orthodox,21,8,0,False
 feffee4fc6da3aa3,Alonzo,Martinez,Alonzo Martinez,Zo Diddy,"5' 10""",155,,,42,20,1,False
 76729a829623e266,Henry,Martinez,Henry Martinez,Sicario,"5' 7""",155,69.0,Southpaw,9,4,0,False
-f2477cf43c4975cc,Jonathan,Martinez,Jonathan Martinez,Dragon,"5' 8""",135,70.0,Southpaw,19,5,0,False
+f2477cf43c4975cc,Jonathan,Martinez,Jonathan Martinez,Dragon,"5' 8""",135,70.0,Southpaw,19,6,0,False
 8851bb0418d27d28,Poppies,Martinez,Poppies Martinez,The Tachi Kid,"5' 9""",145,,,29,11,0,False
 f8c2aba4815876b5,Andrew,Martinez,Andrew Martinez,Mickey D,"5' 9""",215,,,9,6,0,False
 c0386644627a7ee5,Mana,Martinez,Mana Martinez,ManaBoi,"5' 10""",135,70.0,Orthodox,10,4,0,False
 3e708ce33b6b18e6,Victor,Martinez,Victor Martinez,The Brick,"5' 8""",155,70.0,Orthodox,13,6,0,False
 2c5a0b8317f8f27a,Roque,Martinez,Roque Martinez,,"5' 10""",250,72.0,Orthodox,15,8,2,False
-3f4c3bc822bea45d,Melissa,Martinez,Melissa Martinez,Super Mely,"5' 2""",115,66.0,Southpaw,7,1,0,False
-f77afa72da84c9a8,Julieta,Martinez,Julieta Martinez,The Ninja Ferret,--,115,,Orthodox,7,0,0,False
+3f4c3bc822bea45d,Melissa,Martinez,Melissa Martinez,Super Mely,"5' 2""",115,66.0,Southpaw,8,1,0,False
+f77afa72da84c9a8,Julieta,Martinez,Julieta Martinez,The Ninja Ferret,"5' 1""",115,62.0,Orthodox,8,0,0,False
 9a97acbfd5a08bfa,David,Martinez,David Martinez,Black Spartan,"5' 6""",135,66.0,Orthodox,11,1,0,False
 563d051c9e769b24,Wagner da Conceicao,Martins,Wagner da Conceicao Martins,Zuluzinho,"6' 7""",390,,Orthodox,9,8,0,False
 7dcf06c1967801c1,Adriano,Martins,Adriano Martins,,"5' 10""",155,72.0,Southpaw,28,9,0,False
@@ -2372,7 +2376,7 @@ eec3fe66a8b11a26,Al,Matavao,Al Matavao,Sweetness,"5' 8""",205,67.0,Orthodox,8,3,
 cd42bbe8887bba90,Daijiro,Matsui,Daijiro Matsui,,"5' 9""",200,,Orthodox,13,29,7,False
 56cc76c55cee8410,Toki,Matsui,Toki Matsui,,"5' 6""",125,65.0,Orthodox,6,1,0,False
 2fb6f197d1fbc779,Koichiro,Matsumoto,Koichiro Matsumoto,,"5' 7""",145,,,15,3,1,False
-ffd3224638c01b57,Jean,Matsumoto,Jean Matsumoto,,"5' 6""",135,68.0,Orthodox,15,0,0,False
+ffd3224638c01b57,Jean,Matsumoto,Jean Matsumoto,,"5' 6""",135,68.0,Orthodox,16,0,0,False
 5ad226da6c74a48e,Koyomi,Matsushima,Koyomi Matsushima,,"5' 7""",145,66.0,Orthodox,13,6,0,False
 990060b2a68a7b82,Naoki,Matsushita,Naoki Matsushita,,"5' 6""",155,,Orthodox,12,16,11,False
 18e4f61f16f458c6,AJ,Matthews,AJ Matthews,,"5' 11""",185,,,8,7,0,False
@@ -2382,7 +2386,7 @@ a845f0735bc67405,Jake,Matthews,Jake Matthews,The Celtic Kid,"5' 11""",170,73.0,O
 c933d423ebdbbbdb,John,Matua,John Matua,,"6' 2""",400,,Orthodox,1,4,0,False
 d3b5ad3b15a64a18,Francesco,Maturi,Francesco Maturi,,--,,,,0,1,0,False
 ccdd90bd1fc7dab6,Vladimir,Matyushenko,Vladimir Matyushenko,The Janitor,"6' 0""",205,74.0,Orthodox,27,8,0,False
-f29a6350c69f4a33,Miranda,Maverick,Miranda Maverick,Fear The,"5' 3""",125,65.0,Southpaw,16,5,0,False
+f29a6350c69f4a33,Miranda,Maverick,Miranda Maverick,Fear The,"5' 3""",125,65.0,Southpaw,17,5,0,False
 12585614e0ed2626,Nick,Maximov,Nick Maximov,,"6' 0""",185,76.0,Southpaw,8,2,0,False
 a16ce18149021139,Elaina,Maxwell,Elaina Maxwell,Beef,"5' 8""",145,,Orthodox,7,4,0,False
 c32fdfe75cda5b22,Jeremy,May,Jeremy May,,"6' 1""",185,,,13,10,0,False
@@ -2416,7 +2420,7 @@ a3f8356ace5e3eb5,Miles,McDonald,Miles McDonald,,"5' 7""",115,,,2,1,0,False
 e4e0993befecdaf8,Liam,McGeary,Liam McGeary,,"6' 6""",205,,,12,2,0,False
 d90b630e0561818b,Gan,McGee,Gan McGee,The Giant,"6' 10""",265,,Orthodox,13,5,0,False
 523fa774700d7d3f,Court,McGee,Court McGee,The Crusher,"5' 11""",170,75.0,Orthodox,23,13,0,False
-c0ac37a4a1133da9,Marcus,McGhee,Marcus McGhee,The Maniac,"5' 8""",135,69.0,Orthodox,9,1,0,False
+c0ac37a4a1133da9,Marcus,McGhee,Marcus McGhee,The Maniac,"5' 8""",135,69.0,Orthodox,10,1,0,False
 1f9c371c93dfd3a9,Ryan,McGillivray,Ryan McGillivray,The Kid,"5' 11""",170,,,12,0,1,False
 856ec65948b7d234,Ryan,McGivern,Ryan McGivern,,"6' 0""",185,,Orthodox,13,7,0,False
 237187ed9f419285,Jack,McGlaughlin,Jack McGlaughlin,,--,,,Orthodox,1,4,0,False
@@ -2442,13 +2446,13 @@ acd8a53f7c0ce85e,Charles,McTorry,Charles McTorry,,--,,,,3,0,0,False
 2937cb502dda0808,Anistavio,Medeiros,Anistavio Medeiros,Gasparzinho,"5' 6""",145,,Orthodox,19,10,0,False
 263af068bd986548,Kaline,Medeiros,Kaline Medeiros,The Dark Angel,"5' 3""",115,,,8,5,0,False
 e2be0c1a9b886d92,MarQuel,Mederos,MarQuel Mederos,,"5' 10""",155,69.0,Orthodox,9,1,0,False
-681399317dbf4701,Uros,Medic,Uros Medic,The Doctor,"6' 1""",170,71.0,Southpaw,10,2,0,False
+681399317dbf4701,Uros,Medic,Uros Medic,The Doctor,"6' 1""",170,71.0,Southpaw,10,3,0,False
 b60391da771deefe,Todd,Medina,Todd Medina,El Tiburon,"5' 10""",193,,Southpaw,11,9,0,False
 f53fb9d9e57cc38e,Jason,Medina,Jason Medina,,"5' 9""",180,,,21,15,1,False
 baa9be02c3e3e038,Jose Daniel,Medina,Jose Daniel Medina,Chicho,"6' 0""",185,74.0,Orthodox,11,4,0,False
 103b06d8707895a9,Emil,Meek,Emil Meek,Valhalla,"5' 11""",170,74.0,Switch,9,5,1,False
 27c59ac201539d10,Sanford Alton,Meeks,Sanford Alton Meeks,,"6' 5""",265,75.0,Orthodox,1,1,0,False
-6ac9bc2953c47345,Gerald,Meerschaert,Gerald Meerschaert,GM3,"6' 1""",185,77.0,Southpaw,37,17,0,False
+6ac9bc2953c47345,Gerald,Meerschaert,Gerald Meerschaert,GM3,"6' 1""",185,77.0,Southpaw,37,18,0,False
 c0a93b52096b7682,Frank,Megallon,Frank Megallon,,"5' 10""",185,,Southpaw,2,3,0,False
 6c7dafd03b6cc3f8,Derrick,Mehmen,Derrick Mehmen,Caveman,"6' 4""",205,,,19,9,0,False
 41dca66f9dadfc86,Miika,Mehmet,Miika Mehmet,,--,205,,Orthodox,3,5,0,False
@@ -2480,7 +2484,7 @@ e82d5f54daa85a7e,Joe,Merritt,Joe Merritt,,"6' 0""",170,,Orthodox,7,2,0,False
 5823ceab56741617,Jonathan,Meunier,Jonathan Meunier,District,"6' 3""",170,,Switch,8,1,0,False
 3623bd267a2eef2e,Yaotzin,Meza,Yaotzin Meza,,"5' 9""",145,71.0,Orthodox,21,11,0,False
 946f341df6472ee0,Guy,Mezger,Guy Mezger,,"6' 1""",200,,Orthodox,30,14,2,False
-f782f953bfe7b5f2,Jonathan,Micallef,Jonathan Micallef,The Captain,--,170,,Southpaw,6,1,0,False
+f782f953bfe7b5f2,Jonathan,Micallef,Jonathan Micallef,The Captain,"6' 0""",170,77.0,Southpaw,7,1,0,False
 f5e4ce11afbdfb61,Brandon,Michaels,Brandon Michaels,,"5' 9""",185,,,4,14,0,False
 79325a3c1a5c3bf4,Andreas,Michailidis,Andreas Michailidis,The Spartan,"6' 0""",170,76.0,Orthodox,13,6,0,False
 49f4b511932f71e9,David,Michaud,David Michaud,BullDawg,"5' 9""",155,,Orthodox,11,3,0,False
@@ -2497,7 +2501,7 @@ f1928a52590c5532,Curtis,Millender,Curtis Millender,Curtious,"6' 2""",170,76.0,Or
 18aecaf50f52e4c3,Phillip,Miller,Phillip Miller,,"5' 11""",185,,Orthodox,16,0,0,False
 b2f88c04c4dd43ce,Jason,Miller,Jason Miller,Mayhem,"6' 1""",185,,Orthodox,23,10,0,False
 d0c29452d3272603,Dan,Miller,Dan Miller,,"6' 1""",185,74.0,Orthodox,14,8,0,False
-d1941565abf50b16,Jim,Miller,Jim Miller,A-10,"5' 8""",155,71.0,Southpaw,37,18,0,False
+d1941565abf50b16,Jim,Miller,Jim Miller,A-10,"5' 8""",155,71.0,Southpaw,38,18,0,False
 282fa667ff9c51ed,Cole,Miller,Cole Miller,Magrinho,"6' 1""",145,73.0,Orthodox,21,11,0,False
 45a2ba3ef82b9700,Henry,Miller,Henry Miller,Sentoryu,"5' 7""",270,,Southpaw,6,16,0,False
 3ff0d0dc7a14bb50,Micah,Miller,Micah Miller,Maverick,"6' 0""",145,,Orthodox,20,8,0,False
@@ -2513,7 +2517,7 @@ f2c934689243fe4e,Eddy,Millis,Eddy Millis,,"6' 1""",185,,,0,2,0,False
 c8aa3541bec4042e,Mike,Minniger,Mike Minniger,,--,,,,0,0,0,False
 ce6065baef021cf3,Ikuhisa,Minowa,Ikuhisa Minowa,Minowaman,"5' 9""",181,,Orthodox,60,42,8,False
 40d8b74488743800,Carlton,Minus,Carlton Minus,Clutch,"5' 10""",170,75.0,Orthodox,10,3,0,False
-d28dee5c705991df,Stipe,Miocic,Stipe Miocic,,"6' 4""",240,80.0,Orthodox,20,4,0,False
+d28dee5c705991df,Stipe,Miocic,Stipe Miocic,,"6' 4""",240,80.0,Orthodox,20,5,0,False
 1ff9589f9065a9ed,Frank,Mir,Frank Mir,,"6' 3""",264,79.0,Southpaw,18,11,0,False
 be8ad887e4d674b0,Juan,Miranda,Juan Miranda,,--,155,,,7,5,0,False
 df2bf09c99594848,Mario,Miranda,Mario Miranda,,"6' 3""",185,74.0,Orthodox,14,7,0,False
@@ -2528,7 +2532,7 @@ b14a68c533f4a4aa,Dokonjonosuke,Mishima,Dokonjonosuke Mishima,,"5' 7""",155,,Sout
 c06d554ce1713fd3,Danny,Mitchell,Danny Mitchell,The Cheesecake Assassin,"6' 2""",170,,Orthodox,19,9,1,False
 7263e0dc082adc87,Brad,Mitchell,Brad Mitchell,,"5' 11""",145,,,4,2,0,False
 3d960455f880bb25,Clay,Mitchell,Clay Mitchell,,"6' 2""",185,,,1,2,0,False
-d9c6f19f958643e9,Bryce,Mitchell,Bryce Mitchell,Thug Nasty,"5' 10""",145,70.0,Southpaw,16,3,0,False
+d9c6f19f958643e9,Bryce,Mitchell,Bryce Mitchell,Thug Nasty,"5' 10""",145,70.0,Southpaw,17,3,0,False
 568bebed6366b667,Maurice,Mitchell,Maurice Mitchell,The AK Kid,"5' 9""",145,,Orthodox,11,2,0,False
 f3ca6908f78efebe,Terrence,Mitchell,Terrence Mitchell,,"5' 10""",135,74.0,Orthodox,14,4,0,False
 2961be02cfb0d2c1,Roman,Mitichyan,Roman Mitichyan,,"5' 10""",170,,Orthodox,8,3,0,False
@@ -2547,7 +2551,7 @@ d76ad9a08c4408ff,Bobby,Moffett,Bobby Moffett,The Wolfman,"5' 10""",145,73.0,Orth
 65239fccecd03404,Bronson,Mohika,Bronson Mohika,,--,135,,,1,1,0,False
 04c15b52c3cc1cab,Nate,Mohr,Nate Mohr,,"5' 9""",155,72.0,Orthodox,9,7,0,False
 b6452706b373eea1,Renato,Moicano,Renato Moicano,,"5' 11""",155,72.0,Orthodox,20,5,1,False
-d945aae53e3e54e6,Thiago,Moises,Thiago Moises,,"5' 9""",155,70.0,Orthodox,18,8,0,False
+d945aae53e3e54e6,Thiago,Moises,Thiago Moises,,"5' 9""",155,70.0,Orthodox,19,8,0,False
 75353550928a7921,Muhammad,Mokaev,Muhammad Mokaev,The Punisher,"5' 7""",125,70.0,Orthodox,13,0,0,False
 e9bc5748e6a76bb6,Ashkan,Mokhtarian,Ashkan Mokhtarian,The Assassin,"5' 6""",125,67.0,Southpaw,13,3,0,False
 192520689012c7e4,Suman,Mokhtarian,Suman Mokhtarian,,"5' 8""",145,72.0,Orthodox,8,5,0,False
@@ -2561,7 +2565,7 @@ bffeb123b21c9aad,Darrell,Montague,Darrell Montague,Mongoose,"5' 6""",125,67.0,So
 94508d80e1f885fc,Augusto,Montano,Augusto Montano,Dodger,"6' 1""",170,73.0,Orthodox,15,3,0,False
 8163cd7de0342652,Erick,Montano,Erick Montano,Perry,"6' 0""",170,73.0,Orthodox,7,5,0,False
 1de9ad94de18eeaf,Nicco,Montano,Nicco Montano,,"5' 5""",135,65.0,Southpaw,5,3,0,False
-3e38b1ea16bd4d86,Antonio,Monteiro,Antonio Monteiro,Junior Negao,--,145,,Orthodox,17,4,1,False
+3e38b1ea16bd4d86,Antonio,Monteiro,Antonio Monteiro,Junior Negao,"5' 7""",145,70.0,Orthodox,17,5,1,False
 a112097ad877a48f,Alberto,Montes,Alberto Montes,The Promise,"5' 7""",145,69.0,Orthodox,11,1,0,False
 6e92eb1242b46636,Steve,Montgomery,Steve Montgomery,The Creepy Weasel,"6' 4""",185,,Southpaw,9,5,0,False
 c06a9b48d4132c8e,James,Moontasri,James Moontasri,Moon Walker,"5' 10""",170,71.0,Switch,9,5,0,False
@@ -2588,7 +2592,7 @@ df85d6ec3493d120,Joe,Moreira,Joe Moreira,,"5' 11""",195,,Southpaw,2,2,0,False
 6a125ba3ec37e27e,Gisele,Moreira,Gisele Moreira,,"5' 6""",135,,Orthodox,8,3,0,False
 acb36c908d415c4a,Vinicius,Moreira,Vinicius Moreira,Mamute,"6' 4""",205,76.0,Orthodox,9,5,0,False
 2e2cdb6e9eb84bb9,Jesse,Moreng,Jesse Moreng,Arturo,"5' 7""",145,,Orthodox,9,1,0,False
-792be9a24df82ed6,Brandon,Moreno,Brandon Moreno,The Assassin Baby,"5' 7""",125,70.0,Orthodox,21,8,2,False
+792be9a24df82ed6,Brandon,Moreno,Brandon Moreno,The Assassin Baby,"5' 7""",125,70.0,Orthodox,22,8,2,False
 bb2eee4fb3259c01,Mike,Moreno,Mike Moreno,El Palo Duro,"6' 0""",185,,,6,5,0,False
 66e98b3bb5fc5250,Dan,Moret,Dan Moret,The Hitman,"6' 0""",155,73.0,Southpaw,13,6,0,False
 2067a177a2842fbf,Sammy,Morgan,Sammy Morgan,The Squeeze,"5' 10""",170,,Orthodox,18,12,0,False
@@ -2605,9 +2609,9 @@ dab0e6cb8c932162,Anthony,Morrison,Anthony Morrison,Cheesesteak,"5' 7""",145,,Ort
 b15862fcd6ded451,Carlos,Mota,Carlos Mota,Tizil,"5' 4""",125,69.0,Orthodox,8,2,0,False
 a5fa51a81d0c5ed9,Miki,Motono,Miki Motono,,"5' 2""",115,63.0,Southpaw,8,5,0,False
 5da4e8dc02e50ac0,Juan,Mott,Juan Mott,,"6' 0""",190,,Switch,3,4,0,False
-37f560436d745c18,Nikolas,Motta,Nikolas Motta,Iron,"5' 9""",155,70.0,Orthodox,14,5,0,False
+37f560436d745c18,Nikolas,Motta,Nikolas Motta,Iron,"5' 9""",155,70.0,Orthodox,15,5,0,False
 ab35634d1a8c7a11,Flavio Luiz,Moura,Flavio Luiz Moura,,"5' 11""",183,,Open Stance,19,7,0,False
-de594b35c45c2e9a,Eduarda,Moura,Eduarda Moura,Ronda,"5' 6""",125,66.0,Orthodox,10,1,0,False
+de594b35c45c2e9a,Eduarda,Moura,Eduarda Moura,Ronda,"5' 6""",125,66.0,Orthodox,11,1,0,False
 232c582f29f8f65e,Gegard,Mousasi,Gegard Mousasi,,"6' 2""",185,76.0,Orthodox,42,6,2,False
 9c27f3217891f3f0,Kris,Moutinho,Kris Moutinho,,"5' 7""",135,68.0,Southpaw,9,6,0,False
 ae922e7d9e852d7a,Kin,Moy,Kin Moy,Kong,"5' 5""",135,,,8,3,0,False
@@ -2621,8 +2625,8 @@ b1b0729d27936f2f,Belal,Muhammad,Belal Muhammad,Remember the Name,"5' 11""",170,7
 8d5350fa18b79e9a,James,Mulheron,James Mulheron,,"5' 10""",243,73.0,Orthodox,11,2,0,False
 af9f42e6894047fc,Jamie,Mullarkey,Jamie Mullarkey,,"6' 0""",155,74.0,Orthodox,17,8,0,False
 1a49e0670dfaca31,Jim,Mullen,Jim Mullen,,"6' 1""",215,,Southpaw,0,2,0,False
-bd532e9a2b93870c,Melissa,Mullins,Melissa Mullins,No Mess,"5' 7""",135,68.0,Orthodox,6,1,0,False
-6bd02119599741a4,Pedro,Munhoz,Pedro Munhoz,The Young Punisher,"5' 6""",135,65.0,Orthodox,20,9,0,False
+bd532e9a2b93870c,Melissa,Mullins,Melissa Mullins,No Mess,"5' 7""",135,68.0,Orthodox,7,1,0,False
+6bd02119599741a4,Pedro,Munhoz,Pedro Munhoz,The Young Punisher,"5' 6""",135,65.0,Orthodox,20,10,0,False
 886264a0c9f4ea5e,Andre,Muniz,Andre Muniz,Sergipano,"6' 1""",185,78.0,Southpaw,24,6,0,False
 179f1948dc234f1f,Mark,Munoz,Mark Munoz,The Filipino Wrecking Machine,"6' 0""",185,71.0,Orthodox,14,6,0,False
 f8f1ec513bcfef43,Alexander,Munoz,Alexander Munoz,,"5' 9""",155,72.0,Switch,7,2,0,False
@@ -2641,7 +2645,7 @@ de25520d54eab12d,Ian,Murphy,Ian Murphy,,"6' 1""",185,,Orthodox,1,1,0,False
 1b5c146ee7b86e34,Jon,Murphy,Jon Murphy,Man of Faith,"6' 3""",260,,Orthodox,6,4,0,False
 729d4bd5a6cd0a97,Lauren,Murphy,Lauren Murphy,Lucky,"5' 5""",125,67.0,Orthodox,16,6,0,False
 eca7e064746c161a,Patrick,Murphy,Patrick Murphy,,"6' 0""",170,,,5,3,0,False
-396fe87b84ac2e1c,Lerone,Murphy,Lerone Murphy,The Miracle,"5' 9""",145,73.0,Orthodox,14,0,1,False
+396fe87b84ac2e1c,Lerone,Murphy,Lerone Murphy,The Miracle,"5' 9""",145,73.0,Orthodox,15,0,1,False
 32016899d0a222a3,Lee,Murray,Lee Murray,Lightning,"6' 3""",185,,Orthodox,8,2,1,False
 d0147e906106cd2e,Jesse,Murray,Jesse Murray,Hollywood,"6' 3""",205,78.0,Orthodox,8,4,0,False
 231cae8b77fbbcc1,Khalid,Murtazaliev,Khalid Murtazaliev,,"6' 0""",185,76.0,Orthodox,14,2,0,False
@@ -2673,27 +2677,27 @@ eb9446a4f44e19cf,Tokitaka,Nakanishi,Tokitaka Nakanishi,Toky,"5' 6""",135,66.0,Or
 e18012194473e8b0,Yoshihiro,Nakao,Yoshihiro Nakao,Kiss,"6' 0""",220,,Southpaw,9,3,0,False
 a00ec21cfbba17b6,Yui Chul,Nam,Yui Chul Nam,The Korean Bulldozer,"5' 9""",145,,Orthodox,18,8,1,False
 6e00cfffd54653c4,Tyson,Nam,Tyson Nam,,"5' 7""",125,68.0,Orthodox,21,14,1,False
-47b63240018d5d86,Rose,Namajunas,Rose Namajunas,Thug,"5' 5""",125,65.0,Orthodox,14,6,0,False
+47b63240018d5d86,Rose,Namajunas,Rose Namajunas,Thug,"5' 5""",125,65.0,Orthodox,14,7,0,False
 6083f497c22cc075,Yasuhito,Namekawa,Yasuhito Namekawa,,"5' 9""",205,,Orthodox,25,16,4,False
 776a58a67665a171,Nad,Narimani,Nad Narimani,Smiler,"5' 8""",145,70.0,Orthodox,12,4,0,False
 3a12a2f096a6d975,Roger,Narvaez,Roger Narvaez,Silverback,"6' 3""",185,,Southpaw,8,3,0,False
 307064d3e0f036c2,Fabio,Nascimento,Fabio Nascimento,Negao,"5' 10""",185,,Orthodox,11,6,0,False
 253076a23d03dcd0,Allan,Nascimento,Allan Nascimento,Puro Osso,"5' 8""",125,69.0,Orthodox,20,6,0,False
-d31a5546c0e9b213,Rodrigo,Nascimento,Rodrigo Nascimento,Ze Colmeia,"6' 2""",246,80.0,Orthodox,11,2,0,False
+d31a5546c0e9b213,Rodrigo,Nascimento,Rodrigo Nascimento,Ze Colmeia,"6' 2""",246,80.0,Orthodox,11,3,0,False
 7dfb56f24fe5ddea,Bobby,Nash,Bobby Nash,,"6' 0""",170,74.0,Orthodox,8,4,0,False
 d41937647eae9a34,Reza,Nasri,Reza Nasri,,"5' 11""",205,,Orthodox,0,1,0,False
 769fa803bf9d2e3b,Nasrudin,Nasrudinov,Nasrudin Nasrudinov,,"6' 0""",205,71.0,Orthodox,9,1,0,False
 154a6b3ffae264cd,Pawel,Nastula,Pawel Nastula,,"6' 0""",230,,Southpaw,5,6,0,False
 0dba4df5f34d5ff0,Rafael,Natal,Rafael Natal,Sapo,"6' 0""",185,77.0,Orthodox,21,9,1,False
 0c258d1d8e16e5f1,Kevin,Natividad,Kevin Natividad,Quicksand,"5' 6""",135,70.0,Orthodox,9,4,0,False
-6a96ad1bc34fb113,Ismail,Naurdiev,Ismail Naurdiev,The Austrian Wonderboy,"5' 10""",185,74.0,Orthodox,19,4,0,False
+6a96ad1bc34fb113,Ismail,Naurdiev,Ismail Naurdiev,,"5' 10""",185,74.0,Orthodox,24,7,0,False
 618f72750ec50b05,Danny,Navarro,Danny Navarro,,"5' 10""",155,,,17,7,0,False
 52f7d300738961ac,Marcio,Navarro,Marcio Navarro,The Locomotive,"6' 0""",155,,,14,14,0,False
 6aae253467e8f9ce,Tafon,Nchukwi,Tafon Nchukwi,Da Don,"6' 0""",185,77.0,Orthodox,6,4,0,False
 e503aa5c252a1b4d,Dustin,Neace,Dustin Neace,The Beast,"5' 9""",145,69.0,,25,21,1,False
 0b534765dca35e71,Josh,Neal,Josh Neal,,"6' 0""",185,,,5,11,0,False
 5751267660c734cb,Joe,Neal,Joe Neal,Nine Lives,"5' 6""",135,,,6,2,0,False
-b997be68943010fc,Geoff,Neal,Geoff Neal,Handz of Steel,"5' 11""",170,75.0,Southpaw,15,6,0,False
+b997be68943010fc,Geoff,Neal,Geoff Neal,Handz of Steel,"5' 11""",170,75.0,Southpaw,16,6,0,False
 1d4bbaabd8b60173,Stanislav,Nedkov,Stanislav Nedkov,Stucky,"5' 11""",205,71.0,Orthodox,12,2,0,False
 d1a1314976c50bef,Josh,Neer,Josh Neer,The Dentist,"5' 11""",170,72.0,Orthodox,36,16,1,False
 8c57c7b8c3bab0eb,Nicolae,Negumereanu,Nicolae Negumereanu,,"6' 0""",205,78.0,Orthodox,13,2,0,False
@@ -2716,9 +2720,9 @@ fbbbc68d368832fa,Emanuel,Newton,Emanuel Newton,The Hardcore Kid,"6' 1""",205,,,2
 840d2c82ea68b9aa,Ben,Nguyen,Ben Nguyen,Ten,"5' 5""",125,65.0,Switch,16,8,0,False
 69037fc7730e4225,Steven,Nguyen,Steven Nguyen,The Ninja,"5' 11""",145,73.0,Switch,9,2,0,False
 2b6d855c6e280fb1,Alex,Nicholson,Alex Nicholson,The Spartan,"6' 4""",185,77.0,Orthodox,7,4,0,False
-35673bf5204524ee,Bo,Nickal,Bo Nickal,,"6' 1""",185,76.0,Southpaw,6,0,0,False
+35673bf5204524ee,Bo,Nickal,Bo Nickal,,"6' 1""",185,76.0,Southpaw,7,0,0,False
 330ec26453c44a59,Mike,Nickels,Mike Nickels,,"6' 4""",205,,Orthodox,9,5,0,False
-1a31ef98efce7a79,Matheus,Nicolau,Matheus Nicolau,,"5' 6""",125,66.0,Orthodox,19,5,1,False
+1a31ef98efce7a79,Matheus,Nicolau,Matheus Nicolau,,"5' 6""",125,66.0,Orthodox,19,6,1,False
 2bd98ab77a8daa75,Stewart,Nicoll,Stewart Nicoll,Kakamora,"5' 5""",125,65.0,Orthodox,8,1,0,False
 3edf45e1717fa764,Jaimelene,Nievera,Jaimelene Nievera,Queenie,"5' 5""",125,,Orthodox,7,4,0,False
 52a003d768f10d91,Khomkrit,Niimi,Khomkrit Niimi,The Bumblebee,"5' 2""",125,,,6,10,0,False
@@ -2766,7 +2770,7 @@ efc67b07eed39794,Istela,Nunes,Istela Nunes,,"5' 4""",115,66.0,Orthodox,6,5,0,Fal
 0fd5f4b838e890cc,Said,Nurmagomedov,Said Nurmagomedov,,"5' 8""",135,70.0,Orthodox,18,3,0,False
 029e1293e609fd74,Abubakar,Nurmagomedov,Abubakar Nurmagomedov,,"5' 11""",170,72.0,Orthodox,17,4,1,False
 2b6fc1c02736833d,Umar,Nurmagomedov,Umar Nurmagomedov,,"5' 8""",135,69.0,Orthodox,18,0,0,False
-8667caa0451d245b,Kennedy,Nzechukwu,Kennedy Nzechukwu,African Savage,"6' 5""",205,83.0,Southpaw,12,5,0,False
+8667caa0451d245b,Kennedy,Nzechukwu,Kennedy Nzechukwu,African Savage,"6' 5""",205,83.0,Southpaw,14,5,0,False
 20bcc9966affb19c,Jake,O'Brien,Jake O'Brien,Irish,"6' 3""",205,76.0,Orthodox,15,4,0,False
 d25b93992f285953,TJ,O'Brien,TJ O'Brien,The Spider,"6' 2""",155,,Orthodox,20,8,0,False
 cb52f9490c2dc069,Sean,O'Connell,Sean O'Connell,The Real OC,"6' 1""",205,74.0,Orthodox,17,9,0,False
@@ -2779,13 +2783,13 @@ b50a426a33da0012,Sean,O'Malley,Sean O'Malley,Suga,"5' 11""",135,72.0,Switch,18,2
 494b0bfdbac74502,Brendan,O'Reilly,Brendan O'Reilly,Badger,"5' 7""",170,69.0,Orthodox,6,3,0,False
 7139cd2ae4bf6a29,Takahiro,Oba,Takahiro Oba,,"5' 8""",200,,Southpaw,5,7,1,False
 6e3282d57d2467a0,Nobuhiro,Obiya,Nobuhiro Obiya,,"5' 8""",145,,Orthodox,12,5,1,False
-88be62d6c1e6dadb,Jose,Ochoa,Jose Ochoa,Kalzifer,--,125,,,7,0,0,False
+88be62d6c1e6dadb,Jose,Ochoa,Jose Ochoa,Kalzifer,"5' 7""",125,67.0,Southpaw,7,1,0,False
 2d6d6ffe5a446ea2,Christian,Ocon,Christian Ocon,,"5' 8""",135,69.0,Orthodox,2,1,0,False
 f43907e75f8d9baa,Richard,Odoms,Richard Odoms,The Black Eagle,"6' 5""",265,,Orthodox,13,3,0,False
-0845c81e37d3bcb3,Volkan,Oezdemir,Volkan Oezdemir,No Time,"6' 2""",205,75.0,Orthodox,20,7,0,False
+0845c81e37d3bcb3,Volkan,Oezdemir,Volkan Oezdemir,No Time,"6' 2""",205,75.0,Orthodox,20,8,0,False
 7facc9c45d792985,Kaan,Ofli,Kaan Ofli,Genghis,"5' 7""",145,66.0,Orthodox,12,3,1,False
 4b2390cfaceb91d8,Naoya,Ogawa,Naoya Ogawa,,"6' 4""",255,,Orthodox,7,2,0,False
-cfc3e7bb44685289,Trey,Ogden,Trey Ogden,Shamurai,"5' 11""",155,72.0,Orthodox,18,6,0,False
+cfc3e7bb44685289,Trey,Ogden,Trey Ogden,Shamurai,"5' 11""",155,72.0,Orthodox,18,7,0,False
 b6c4451cb13c9303,Andy,Ogle,Andy Ogle,The Little Axe,"5' 8""",145,69.0,Orthodox,9,6,0,False
 5c020ee6ab450870,Ho Taek,Oh,Ho Taek Oh,Spider,--,155,,,7,2,1,False
 6a8a06b542e1516d,Michiyoshi,Ohara,Michiyoshi Ohara,,"5' 10""",205,,Orthodox,0,2,0,False
@@ -2799,7 +2803,7 @@ aa40fe6038db56cb,JJ,Okanovich,JJ Okanovich,The Bosnian Bomber,"5' 11""",155,76.0
 98c23cb6da5b3352,Aleksei,Oleinik,Aleksei Oleinik,The Boa Constrictor,"6' 2""",240,80.0,Orthodox,60,17,1,False
 0d65c432720accb9,Michal,Oleksiejczuk,Michal Oleksiejczuk,Hussar,"6' 0""",185,74.0,Southpaw,19,9,0,False
 15b1b21cd743d652,Rafaello,Oliveira,Rafaello Oliveira,Tractor,"5' 8""",155,71.0,Orthodox,17,8,0,False
-07225ba28ae309b6,Charles,Oliveira,Charles Oliveira,Do Bronxs,"5' 10""",155,74.0,Orthodox,34,10,0,False
+07225ba28ae309b6,Charles,Oliveira,Charles Oliveira,Do Bronxs,"5' 10""",155,74.0,Orthodox,35,10,0,False
 bec2746f033802c3,Jorge,Oliveira,Jorge Oliveira,,"6' 1""",205,,,5,3,1,False
 acd9513399a8b09b,Ednaldo,Oliveira,Ednaldo Oliveira,Lula,"6' 5""",205,,Orthodox,17,3,1,False
 57b10fca4f9c9a7a,Alex,Oliveira,Alex Oliveira,Cowboy,"5' 11""",170,76.0,Orthodox,22,12,1,False
@@ -2819,10 +2823,10 @@ dfbb95ca0c143988,Shana,Olsen,Shana Olsen,Rock Solid,"5' 7""",145,,,5,2,0,False
 f2ad06f1007c481a,Alan,Omer,Alan Omer,,"5' 10""",145,,Orthodox,20,5,0,False
 470fedbc8563ac47,Daniel,Omielanczuk,Daniel Omielanczuk,,"6' 0""",247,74.0,Southpaw,19,8,1,False
 9f842be1a5337be6,Michihiro,Omigawa,Michihiro Omigawa,,"5' 6""",145,68.0,Orthodox,17,14,1,False
-ffe9703408fb5964,David,Onama,David Onama,,"5' 11""",145,74.0,Orthodox,12,2,0,False
+ffe9703408fb5964,David,Onama,David Onama,,"5' 11""",145,74.0,Orthodox,13,2,0,False
 318572f6f74b760d,Charlie,Ontiveros,Charlie Ontiveros,American Bad Boy,"6' 2""",155,74.0,Switch,11,9,0,False
 887e09328cd63df1,Chibwikem,Onyenegecha,Chibwikem Onyenegecha,,"6' 3""",185,,Orthodox,5,0,0,False
-bf2c8e01b07d3eb1,Myktybek,Orolbai,Myktybek Orolbai,,"5' 10""",155,74.0,Orthodox,13,1,1,False
+bf2c8e01b07d3eb1,Myktybek,Orolbai,Myktybek Orolbai,,"5' 10""",155,74.0,Orthodox,13,2,1,False
 6b8db407d49c6e4b,Sam,Oropeza,Sam Oropeza,,"6' 2""",170,,,13,3,0,False
 def8166ff24bd237,Brian,Ortega,Brian Ortega,T-City,"5' 8""",145,69.0,Switch,16,4,0,False
 2f732dd9210d301f,Tito,Ortiz,Tito Ortiz,The People's Champ,"6' 3""",205,74.0,Orthodox,19,12,1,False
@@ -2855,7 +2859,7 @@ e18a19001a3f7c7d,Alptekin,Ozkilic,Alptekin Ozkilic,The Turkish Delight,"5' 5""",
 c51da79b0346b5b7,George,Pacurariu,George Pacurariu,Constantine,"5' 7""",135,,,10,5,0,False
 856c4d2668a875f9,Cyrillo,Padilha,Cyrillo Padilha,,"5' 11""",155,,,3,3,0,False
 01dd4cdc2446f665,Gary,Padilla,Gary Padilla,,"5' 11""",205,,,12,6,0,False
-d2f43cfaf8ca3560,Fernando,Padilla,Fernando Padilla,El Valiente,"6' 1""",145,76.0,Orthodox,16,5,0,False
+d2f43cfaf8ca3560,Fernando,Padilla,Fernando Padilla,El Valiente,"6' 1""",145,76.0,Orthodox,16,6,0,False
 06626b6287e1ae1e,Chris,Padilla,Chris Padilla,Taco,"5' 9""",155,74.0,Orthodox,15,6,0,False
 c96e2ae6021144a1,Damacio,Page,Damacio Page,The Angel of Death,"5' 6""",135,66.0,Orthodox,19,10,0,False
 a67d071163962af8,Michael,Page,Michael Page,Venom,"6' 3""",170,79.0,Switch,22,3,0,False
@@ -2876,7 +2880,7 @@ ab7c212de9f66af0,Stephen,Palling,Stephen Palling,Bozo,"5' 4""",143,,,11,7,1,Fals
 f31c0905045fa100,Eduardo,Pamplona,Eduardo Pamplona,,"5' 11""",170,,,16,4,0,False
 2742f028399bf8c7,Ruel,Panales,Ruel Panales,,"5' 5""",125,67.0,Southpaw,6,2,0,False
 36d811b015635b67,Yuri,Panferov,Yuri Panferov,The Russian Polar Bear,"6' 1""",185,72.0,Orthodox,6,1,0,False
-a0f0004aadf10b71,Alexandre,Pantoja,Alexandre Pantoja,The Cannibal,"5' 5""",125,67.0,Orthodox,28,5,0,True
+a0f0004aadf10b71,Alexandre,Pantoja,Alexandre Pantoja,The Cannibal,"5' 5""",125,67.0,Orthodox,29,5,0,True
 edad57b3dddf2168,Jared,Papazian,Jared Papazian,The Jackhammer,"5' 8""",135,67.0,Southpaw,20,13,0,False
 bd381cde8426077a,Kathryn,Paprocki,Kathryn Paprocki,,"5' 3""",115,63.0,Orthodox,3,2,0,False
 74fefd43f073cd2f,Joe,Pardo,Joe Pardo,,"6' 1""",210,,Southpaw,4,6,0,False
@@ -2897,7 +2901,7 @@ c0231720fe516994,Larry,Parker,Larry Parker,,"5' 11""",205,,Orthodox,13,6,1,False
 0d5cc0170c1a7e71,Mick,Parkin,Mick Parkin,,"6' 4""",265,79.0,Orthodox,10,0,0,False
 86ad0ae839331bd7,Willie,Parks,Willie Parks,Slick,"5' 10""",185,,,5,2,0,False
 8b2a18d3c6735083,Jordan,Parsons,Jordan Parsons,Pretty Boy,"5' 9""",145,,,11,2,0,False
-9fe7af8b3fbe00a0,Preston,Parsons,Preston Parsons,Pressure,"5' 11""",170,71.0,Orthodox,11,5,0,False
+9fe7af8b3fbe00a0,Preston,Parsons,Preston Parsons,Pressure,"5' 11""",170,71.0,Orthodox,11,6,0,False
 2975297f505e9447,Jonny,Parsons,Jonny Parsons,The Sluggernaut,"5' 9""",170,69.0,Orthodox,9,3,0,False
 96d173b7f92aa520,Onassis,Parungao,Onassis Parungao,,"5' 11""",200,,,2,1,0,False
 3eb4dc9a7d4ac906,Ramona,Pascual,Ramona Pascual,,"5' 7""",135,66.0,Southpaw,6,5,0,False
@@ -2939,7 +2943,7 @@ e670f8cc2969a789,Sherman,Pendergarst,Sherman Pendergarst,The Tank,"6' 1""",235,,
 34b634cb2471bdde,Drew,Pendleton,Drew Pendleton,,--,145,,,5,0,0,False
 99c7610aa74995d3,Cathal,Pendred,Cathal Pendred,The Punisher,"6' 1""",170,75.0,Orthodox,17,4,1,False
 73c7cfa551289285,BJ,Penn,BJ Penn,The Prodigy,"5' 9""",155,70.0,Orthodox,16,14,2,False
-c742287ed86a09bc,Jessica,Penne,Jessica Penne,,"5' 5""",115,67.0,Orthodox,14,8,0,False
+c742287ed86a09bc,Jessica,Penne,Jessica Penne,,"5' 5""",115,67.0,Orthodox,14,9,0,False
 879b8df81523d91b,Nick,Penner,Nick Penner,The Quiet Assassin,"6' 4""",205,,Southpaw,11,3,0,False
 0699c4b2a7c3c76f,Justin,Pennington,Justin Pennington,,"5' 4""",,,,3,3,0,False
 fc169c387b4b465d,Raquel,Pennington,Raquel Pennington,Rocky,"5' 7""",135,67.0,Orthodox,16,10,0,False
@@ -2949,10 +2953,11 @@ fa37628269132d1a,Godofredo,Pepey,Godofredo Pepey,,"5' 7""",145,73.0,Orthodox,13,
 9a70f67ad2187fa3,Ray,Perales,Ray Perales,Relentless,"5' 10""",170,,Orthodox,13,22,0,False
 960d6cae8879ba2b,Robert,Peralta,Robert Peralta,Problems,"5' 8""",145,71.0,Orthodox,18,8,0,False
 d50382dc0565a9e1,Viviane,Pereira,Viviane Pereira,Sucuri,"5' 1""",115,63.0,Orthodox,13,2,0,False
-595db60957de51d3,Michel,Pereira,Michel Pereira,Demolidor,"6' 1""",185,73.0,Orthodox,31,11,0,False
+595db60957de51d3,Michel,Pereira,Michel Pereira,Demolidor,"6' 1""",185,73.0,Orthodox,31,12,0,False
 e5549c82bfb5582d,Alex,Pereira,Alex Pereira,Poatan,"6' 4""",205,79.0,Orthodox,12,2,0,True
 44f46b0592ca0814,Daniel,Pereira,Daniel Pereira,Gaucho,"5' 10""",185,,,9,2,0,False
 d7ee49bf3c779fa6,Luciano,Pereira,Luciano Pereira,El Torito,--,125,,Orthodox,13,1,0,False
+81d2c551886bd5a1,Alice,Pereira,Alice Pereira,Golden Girl,--,135,,,6,0,0,False
 4a9e305633f3ef47,Rolando,Perez,Rolando Perez,,"5' 8""",135,,Orthodox,7,5,2,False
 eee8efec7b951d84,Philip,Perez,Philip Perez,,"5' 5""",155,,Southpaw,7,5,1,False
 af62f99eb7606308,Erik,Perez,Erik Perez,Goyito,"5' 8""",135,68.0,Orthodox,17,6,0,False
@@ -2975,10 +2980,10 @@ c61f66d8c3fd5f07,Tony,Petarra,Tony Petarra,,"5' 11""",196,,Orthodox,2,3,1,False
 764d39074a352e33,Thomas,Petersen,Thomas Petersen,The Train,"6' 1""",264,74.0,Southpaw,9,2,0,False
 5df10509264586e5,Cory,Peterson,Cory Peterson,LA Giant,"6' 11""",400,,Orthodox,2,1,0,False
 b93c06d09d1c4ac0,Steven,Peterson,Steven Peterson,Ocho,"5' 10""",145,70.0,Orthodox,19,11,0,False
-71171fc96445bf65,Vitor,Petrino,Vitor Petrino,,"6' 2""",205,77.0,Orthodox,11,1,0,False
+71171fc96445bf65,Vitor,Petrino,Vitor Petrino,,"6' 2""",205,77.0,Orthodox,11,2,0,False
 5f61780fe5e9b6d0,Andre,Petroski,Andre Petroski,,"6' 0""",185,73.0,Switch,12,4,0,False
-369ea36e450ae62a,Armen,Petrosyan,Armen Petrosyan,Superman,"6' 3""",185,71.0,Orthodox,9,3,0,False
-38c5817ade8a8014,Ivana,Petrovic,Ivana Petrovic,,"5' 8""",125,70.0,Southpaw,7,1,0,False
+369ea36e450ae62a,Armen,Petrosyan,Armen Petrosyan,Superman,"6' 3""",185,71.0,Orthodox,9,4,0,False
+38c5817ade8a8014,Ivana,Petrovic,Ivana Petrovic,,"5' 8""",125,70.0,Southpaw,7,2,0,False
 93b9496275bbbf80,Seth,Petruzelli,Seth Petruzelli,The Silverback,"6' 0""",205,76.0,Orthodox,14,8,0,False
 7ea5d60d2e6a8ad0,Peter,Petties,Peter Petties,The Joker,"5' 11""",145,72.0,Southpaw,5,3,0,False
 cbb682f5fcc44bfc,Anthony,Pettis,Anthony Pettis,Showtime,"5' 10""",155,72.0,Orthodox,24,10,0,False
@@ -2993,10 +2998,10 @@ e86bc32f5997a8f7,Forrest,Petz,Forrest Petz,The Meat Cleaver,"5' 9""",170,71.0,Or
 34c2b3656f88f7ef,Aaron,Phillips,Aaron Phillips,The Dragon,"5' 9""",135,71.0,Southpaw,12,5,0,False
 dcbf01d605681ad1,Elizabeth,Phillips,Elizabeth Phillips,,"5' 6""",135,65.0,Orthodox,6,6,0,False
 e9ac7bfb65c25497,John,Phillips,John Phillips,The Welsh Wrecking Machine,"5' 11""",185,75.0,Southpaw,22,11,0,False
-60425d07ef4b91a7,Kyler,Phillips,Kyler Phillips,The Matrix,"5' 8""",135,72.0,Orthodox,12,2,0,False
+60425d07ef4b91a7,Kyler,Phillips,Kyler Phillips,The Matrix,"5' 8""",135,72.0,Orthodox,12,3,0,False
 44f234a36324e6c8,Mario,Piazzon,Mario Piazzon,,"5' 9""",265,73.0,Orthodox,8,0,0,False
 7922e8269adcc25a,Nick,Pica,Nick Pica,The Silverback,"5' 10""",185,,,5,1,0,False
-a5cb1c29461853ca,Nick,Piccininni,Nick Piccininni,,"5' 6""",125,66.0,Orthodox,7,0,0,False
+a5cb1c29461853ca,Nick,Piccininni,Nick Piccininni,,"5' 6""",125,66.0,Orthodox,7,1,0,False
 fa399f7f6e17f7f5,Adam,Piccolotti,Adam Piccolotti,,"5' 11""",155,,,9,0,0,False
 c77a953488e5607d,Vinc,Pichel,Vinc Pichel,From Hell,"5' 10""",155,72.0,Orthodox,14,4,0,False
 c945adc22c2bfe8f,Brad,Pickett,Brad Pickett,One Punch,"5' 6""",135,68.0,Orthodox,25,14,0,False
@@ -3010,10 +3015,10 @@ df7d386a54e07446,Nick,Piedmont,Nick Piedmont,No Limit,"5' 10""",145,,,12,7,1,Fal
 0d506315895efffc,Sean,Pierson,Sean Pierson,The Punisher,"6' 0""",170,76.0,Southpaw,14,6,0,False
 4bf6b225ff6099c4,Domingo,Pilarte,Domingo Pilarte,Son of Fire,"6' 0""",135,73.0,Southpaw,8,3,0,False
 7826923b47f8d72a,Paddy,Pimblett,Paddy Pimblett,The Baddy,"5' 10""",155,73.0,Orthodox,22,3,0,False
-361d49960a196976,Daniel,Pineda,Daniel Pineda,The Pit,"5' 7""",145,69.0,Orthodox,28,16,0,False
+361d49960a196976,Daniel,Pineda,Daniel Pineda,The Pit,"5' 7""",145,69.0,Orthodox,28,17,0,False
 25af5e832f17b474,Jesus,Pinedo,Jesus Pinedo,El Mudo,"5' 10""",155,,Southpaw,16,5,1,False
 31bbd39c0a075d4e,Pingyuan,Liu,Pingyuan Liu,,"5' 6""",135,72.0,Orthodox,13,7,0,False
-a3a542074109b347,Luana,Pinheiro,Luana Pinheiro,,"5' 2""",115,62.0,Orthodox,11,3,0,False
+a3a542074109b347,Luana,Pinheiro,Luana Pinheiro,,"5' 2""",115,62.0,Orthodox,11,4,0,False
 39d309957c5c210d,Mario,Pinto,Mario Pinto,,"6' 5""",265,79.0,Orthodox,9,0,0,False
 8765559b6a29a421,Gaetano,Pirrello,Gaetano Pirrello,El Tigre,"5' 7""",135,65.0,Orthodox,15,7,1,False
 c549573c0df4d676,Maki,Pitolo,Maki Pitolo,Coconut Bombz,"5' 10""",185,75.0,Orthodox,13,9,0,False
@@ -3026,12 +3031,12 @@ b18fb36a4aa00093,John,Polakowski,John Polakowski,Buckets of Blood,"5' 10""",155,
 abb68e3c7ca128f2,Julia,Polastri,Julia Polastri,Psycho,"5' 2""",115,63.0,Orthodox,13,4,0,False
 543cd2258f4fa339,Brandon,Polcare,Brandon Polcare,,--,125,,,1,1,0,False
 3bb030257966b022,Mike,Polchlopek,Mike Polchlopek,Mike Barton,"6' 4""",285,,Orthodox,1,1,0,False
-6d1bffff14897645,Santiago,Ponzinibbio,Santiago Ponzinibbio,Argentine Dagger,"6' 0""",170,73.0,Orthodox,30,8,0,False
+6d1bffff14897645,Santiago,Ponzinibbio,Santiago Ponzinibbio,Argentine Dagger,"6' 0""",170,73.0,Orthodox,31,8,0,False
 d3fa5c5955397532,Grigory,Popov,Grigory Popov,,"5' 7""",135,68.0,Switch,13,3,0,False
 56bf3ed155bd0fcd,Alexander,Poppeck,Alexander Poppeck,,"6' 2""",205,,Orthodox,9,3,0,False
 303e017a9074f3aa,Felipe,Portela,Felipe Portela,Balboa,--,170,,,9,2,0,False
 ac40f7e3cbecdda4,Parker,Porter,Parker Porter,,"6' 0""",265,75.0,Orthodox,14,9,0,False
-260bd4cef10b033f,Ihor,Potieria,Ihor Potieria,Duelist,"6' 3""",185,75.0,Southpaw,20,7,0,False
+260bd4cef10b033f,Ihor,Potieria,Ihor Potieria,Duelist,"6' 3""",185,75.0,Southpaw,20,8,0,False
 8fc9ae9c7527dfcb,Callan,Potter,Callan Potter,The Rockstar,"6' 0""",170,72.0,Orthodox,18,9,0,False
 61e47575b24a06bf,Dylan,Potter,Dylan Potter,Big Poppa,"6' 2""",225,77.0,Switch,10,6,0,False
 7e208569469c8bc8,Ruan,Potts,Ruan Potts,Fangzz,"6' 2""",247,75.0,Orthodox,11,6,0,False
@@ -3042,7 +3047,7 @@ ac40f7e3cbecdda4,Parker,Porter,Parker Porter,,"6' 0""",265,75.0,Orthodox,14,9,0,
 f5ff7bcdcfeba3ad,Trevor,Prangley,Trevor Prangley,,"6' 1""",185,75.0,Orthodox,34,11,2,False
 b51d0ed3782a1bf5,Ricardo,Prasel,Ricardo Prasel,Alemao,"6' 7""",238,78.0,Orthodox,10,2,0,False
 4f853e98886283cf,Carlo,Prater,Carlo Prater,Neo,"5' 11""",155,72.0,Switch,31,18,1,False
-7ee0fd831c0fe7c3,Carlos,Prates,Carlos Prates,The Nightmare,"6' 1""",170,78.0,Switch,20,6,0,False
+7ee0fd831c0fe7c3,Carlos,Prates,Carlos Prates,The Nightmare,"6' 1""",170,78.0,Switch,21,6,0,False
 e51fcd9cd84c0b93,Michel,Prazeres,Michel Prazeres,Tractor,"5' 6""",170,67.0,Orthodox,26,4,0,False
 6597b611f1c32555,Philip,Preece,Philip Preece,,"5' 8""",205,,Orthodox,10,14,0,False
 873626e5547b5235,Kyle,Prepolec,Kyle Prepolec,,"5' 10""",170,70.0,Southpaw,12,7,0,False
@@ -3072,7 +3077,7 @@ f5990c11974d8e9c,Mike,Pyle,Mike Pyle,Quicksand,"6' 0""",170,74.0,Orthodox,27,14,
 126bdc1710a8cbf4,Qiu,Lun,Qiu Lun,Tibetan Knight,"5' 8""",125,66.0,Southpaw,16,9,0,False
 d365ee924f5cc3fc,Bao,Quach,Bao Quach,,"5' 3""",145,,Orthodox,19,10,1,False
 f7b4cbe93f3bac06,Gary,Quan,Gary Quan,,"5' 8""",143,,,3,5,0,False
-aa171d55d4b5208f,Billy,Quarantillo,Billy Quarantillo,,"5' 10""",145,70.0,Orthodox,18,6,0,False
+aa171d55d4b5208f,Billy,Quarantillo,Billy Quarantillo,,"5' 10""",145,70.0,Orthodox,18,7,0,False
 52cae54377b433b7,Nate,Quarry,Nate Quarry,Rock,"6' 0""",185,72.0,Open Stance,12,4,0,False
 2a8502954f49e682,Vinicius,Queiroz,Vinicius Queiroz,Spartan,"6' 7""",220,,Orthodox,8,4,0,False
 ddbe4fa2ea573393,Jimmy,Quinlan,Jimmy Quinlan,Crash,"6' 0""",185,,Orthodox,3,1,1,False
@@ -3084,15 +3089,15 @@ cc23ed51619421a3,Ryan,Quinn,Ryan Quinn,,"5' 8""",145,,,13,7,1,False
 7debc13b36343605,Cristian,Quinonez,Cristian Quinonez,Problema,"5' 8""",135,70.0,Orthodox,18,5,0,False
 01b39decaf0abf6a,Benji,Radach,Benji Radach,Razor,"5' 10""",185,,Orthodox,21,7,0,False
 45bc8f98d62bd096,Jordan,Radev,Jordan Radev,,"5' 7""",185,,Southpaw,23,5,0,False
-feedf3053472fe56,Charles,Radtke,Charles Radtke,Chuck Buffalo,"5' 9""",170,72.0,Orthodox,9,4,0,False
+feedf3053472fe56,Charles,Radtke,Charles Radtke,Chuck Buffalo,"5' 9""",170,72.0,Orthodox,10,4,0,False
 8c169fbe1ac33637,Loik,Radzhabov,Loik Radzhabov,The Tajik Tank,"5' 11""",155,69.0,Orthodox,18,6,1,False
 6cc25d19a891f435,Gilbert,Rael,Gilbert Rael,,"5' 8""",155,,,1,3,0,False
 ff2c606c8bc365e3,Josh,Rafferty,Josh Rafferty,,"6' 0""",170,,Orthodox,9,8,0,False
 bc7f7f0ba3db74d2,Amir,Rahnavardi,Amir Rahnavardi,,"6' 0""",205,,Orthodox,11,10,0,False
 9b1e3fb4f8cbd5b7,Ricky,Rainey,Ricky Rainey,The Sniper,"6' 1""",170,77.0,Switch,12,6,0,False
-01afe0916a40c7c5,Shavkat,Rakhmonov,Shavkat Rakhmonov,Nomad,"6' 1""",170,77.0,Orthodox,18,0,0,False
+01afe0916a40c7c5,Shavkat,Rakhmonov,Shavkat Rakhmonov,Nomad,"6' 1""",170,77.0,Orthodox,19,0,0,False
 63ff619c52ff7976,Sora,Rakhmonova,Sora Rakhmonova,,--,125,,,4,1,0,False
-333b9e5c723ac873,Aleksandar,Rakic,Aleksandar Rakic,Rocket,"6' 4""",205,78.0,Orthodox,14,4,0,False
+333b9e5c723ac873,Aleksandar,Rakic,Aleksandar Rakic,Rocket,"6' 4""",205,78.0,Orthodox,14,5,0,False
 ffdeb4fbea09ce75,Jessica,Rakoczy,Jessica Rakoczy,The Ragin',"5' 7""",115,,Orthodox,1,5,0,False
 641ca2c2ed91b93c,Zygimantas,Ramaska,Zygimantas Ramaska,,"5' 11""",145,71.0,Orthodox,9,3,0,False
 ea398c802d9998ee,Thomas,Ramirez,Thomas Ramirez,,"6' 1""",410,,Sideways,0,1,0,False
@@ -3120,15 +3125,15 @@ d92e6e17f637fe4d,Joe,Ray,Joe Ray,,--,170,,,13,0,0,False
 31a13532e724ca2b,Stevie,Ray,Stevie Ray,Braveheart,"5' 10""",155,70.0,Southpaw,23,9,0,False
 bdd16cd6b29cb499,Keenan,Raymond,Keenan Raymond,,--,165,,,3,3,0,False
 a303588c33d8c5ae,Iony,Razafiarison,Iony Razafiarison,,"5' 3""",145,,,2,1,0,False
-eae431e70064e046,Abdul,Razak Alhassan,Abdul Razak Alhassan,,"5' 10""",185,73.0,Orthodox,12,6,0,False
+eae431e70064e046,Abdul,Razak Alhassan,Abdul Razak Alhassan,,"5' 10""",185,73.0,Orthodox,12,7,0,False
 c36e1f4fa755ffb4,Antony,Rea,Antony Rea,Wild Thing,"6' 0""",205,,Orthodox,33,15,0,False
-849c5d9979df5357,Mateusz,Rebecki,Mateusz Rebecki,,"5' 7""",155,66.0,Southpaw,19,2,0,False
+849c5d9979df5357,Mateusz,Rebecki,Mateusz Rebecki,,"5' 7""",155,66.0,Southpaw,20,2,0,False
 972197a8c61ac413,Rafael,Rebello,Rafael Rebello,Rafinha,"5' 5""",135,67.0,Orthodox,9,4,0,False
 49d78120e0a4f607,Greg,Rebello,Greg Rebello,Ribz,"6' 0""",240,73.0,Southpaw,24,8,0,False
 3f56b99447f00607,Paul,Redmond,Paul Redmond,Redser,"5' 10""",145,,Orthodox,12,7,0,False
 4a35913bd9aa4161,Dennis,Reed,Dennis Reed,,--,205,,Orthodox,45,62,1,False
 11337d069261bf3a,Karl,Reed,Karl Reed,No Worries,"6' 3""",205,78.0,Orthodox,6,1,0,False
-ac7c765882f2c68c,Elise,Reed,Elise Reed,,"5' 3""",115,63.0,Orthodox,7,4,0,False
+ac7c765882f2c68c,Elise,Reed,Elise Reed,,"5' 3""",115,63.0,Orthodox,8,4,0,False
 fb4ca5c7e4448645,John,Reedy,John Reedy,The Wild Child,"5' 8""",155,,,11,6,0,False
 3ba3b5cc94498437,Johnny,Rees,Johnny Rees,The Hater Hurter,"6' 0""",170,,Orthodox,13,5,0,False
 e9ec08ebb3f92aa3,James,Reese,James Reese,JP,"5' 9""",155,,,11,10,0,False
@@ -3148,7 +3153,7 @@ ce6b5b93a96dd15b,Solomon,Renfro,Solomon Renfro,The Black Dragon,"5' 9""",170,72.
 1507214bbc7a79e2,John,Renken,John Renken,The Saint,"6' 0""",190,,Orthodox,18,28,4,False
 f57cf3d54a641385,Herman,Renting,Herman Renting,,"6' 0""",215,,Switch,1,3,0,False
 edd02825c29028fe,Marco Polo,Reyes,Marco Polo Reyes,,"5' 11""",155,71.0,Orthodox,8,7,0,False
-2e19380f34871c6a,Dominick,Reyes,Dominick Reyes,The Devastator,"6' 4""",205,77.0,Southpaw,13,4,0,False
+2e19380f34871c6a,Dominick,Reyes,Dominick Reyes,The Devastator,"6' 4""",205,77.0,Southpaw,14,4,0,False
 dc07493a87dc0a6e,Alex,Reyes,Alex Reyes,The Executioner,"5' 11""",155,73.0,Orthodox,13,5,0,False
 7333d6e0f6428acb,Kyle,Reyes,Kyle Reyes,Boom,"5' 8""",145,,,15,7,0,False
 e9bbcc6530e4cbe6,Victor,Reyna,Victor Reyna,Kelevra,"5' 11""",170,74.0,Southpaw,11,5,0,False
@@ -3156,15 +3161,15 @@ e9bbcc6530e4cbe6,Victor,Reyna,Victor Reyna,Kelevra,"5' 11""",170,74.0,Southpaw,1
 319fa1bd3176bded,Johnny,Rhodes,Johnny Rhodes,,"6' 0""",210,,Orthodox,2,1,0,False
 b7ad576b8ae115e6,Mike,Rhodes,Mike Rhodes,Biggie,"6' 1""",170,74.0,Orthodox,10,5,0,False
 042cc07ad5a53a33,Lucrezia,Ria,Lucrezia Ria,,"5' 6""",125,,Orthodox,8,2,0,False
-beecb672a279223e,Amanda,Ribas,Amanda Ribas,,"5' 3""",125,66.0,Orthodox,12,5,0,False
+beecb672a279223e,Amanda,Ribas,Amanda Ribas,,"5' 3""",115,66.0,Orthodox,13,6,0,False
 a757c06bbdba61d2,Vitor,Ribeiro,Vitor Ribeiro,Shaolin,"5' 8""",154,,Orthodox,20,5,0,False
 8f4616698508f24d,Will,Ribeiro,Will Ribeiro,,"5' 8""",135,,Orthodox,10,2,0,False
 972c456ff38b2015,Claudio,Ribeiro,Claudio Ribeiro,,"6' 1""",185,77.0,Orthodox,11,5,0,False
-49edd0d90f60fb7d,Brendson,Ribeiro,Brendson Ribeiro,The Gorilla,"6' 3""",205,81.0,Orthodox,15,7,0,False
+49edd0d90f60fb7d,Brendson,Ribeiro,Brendson Ribeiro,The Gorilla,"6' 3""",205,81.0,Orthodox,16,7,0,False
 323d4ca260dfa0ba,Esteban,Ribovics,Esteban Ribovics,El Gringo,"5' 10""",155,69.0,Orthodox,14,1,0,False
 3c921b1a30fdcbdd,Mike,Ricci,Mike Ricci,The Martian,"6' 0""",155,76.0,Southpaw,11,5,0,False
 bf9bc96336922271,Alex,Ricci,Alex Ricci,,"5' 11""",155,,Orthodox,10,5,0,False
-d25240135aee03e5,Tabatha,Ricci,Tabatha Ricci,Baby Shark,"5' 1""",115,61.0,Orthodox,11,2,0,False
+d25240135aee03e5,Tabatha,Ricci,Tabatha Ricci,Baby Shark,"5' 1""",115,61.0,Orthodox,11,3,0,False
 343d57cde1a14338,Matt,Ricehouse,Matt Ricehouse,,--,155,,,6,1,0,False
 b3e5a460b6851080,John,Richard,John Richard,,--,205,,,3,5,1,False
 ad23903ef3af7406,Rex,Richards,Rex Richards,,"6' 5""",265,,,7,2,0,False
@@ -3213,7 +3218,7 @@ b2a2da86546ddb19,Buddy,Roberts,Buddy Roberts,,"6' 2""",185,,Orthodox,12,3,0,Fals
 a6cba6bb66c1a8c9,Danny,Roberts,Danny Roberts,Hot Chocolate,"6' 1""",170,74.0,Southpaw,18,8,0,False
 37c5366d18ed6c05,Roosevelt,Roberts,Roosevelt Roberts,The Predator,"6' 2""",155,73.0,Orthodox,12,6,0,False
 6e0273f9478be71e,Kenny,Robertson,Kenny Robertson,,"5' 10""",170,74.0,Orthodox,15,5,0,False
-38c7f72747f4f712,Gillian,Robertson,Gillian Robertson,The Savage,"5' 5""",115,63.0,Orthodox,14,8,0,False
+38c7f72747f4f712,Gillian,Robertson,Gillian Robertson,The Savage,"5' 5""",115,63.0,Orthodox,15,8,0,False
 b2aa1e07b5b3306e,Chad,Robichaux,Chad Robichaux,Robo,"5' 4""",135,,,13,2,0,False
 4604ab1de9058474,Mark,Robinson,Mark Robinson,White Rhino,"6' 0""",265,,Orthodox,1,0,0,False
 1a1a4d7a29041d77,Colin,Robinson,Colin Robinson,Big C,"6' 4""",243,,Orthodox,10,12,0,False
@@ -3239,8 +3244,8 @@ cd2c4d30c6e13b47,Marina,Rodriguez,Marina Rodriguez,,"5' 6""",115,65.0,Orthodox,1
 f2900678e98f6d6a,Ronaldo,Rodriguez,Ronaldo Rodriguez,Lazy Boy,"5' 6""",125,65.0,Orthodox,17,2,0,False
 dc3b9cf7641b7ab6,Drako,Rodriguez,Drako Rodriguez,,"5' 8""",135,69.0,Orthodox,7,3,0,False
 f6e5972c9d16c40e,Victor,Rodriguez,Victor Rodriguez,Vicious,"5' 5""",125,67.0,Switch,7,4,0,False
-e375cb5caf4717b6,Piera,Rodriguez,Piera Rodriguez,La Fiera,"5' 3""",115,63.0,Orthodox,9,2,0,False
-5ec591b78349ba7e,Christian,Rodriguez,Christian Rodriguez,,"5' 7""",145,71.0,Orthodox,11,2,0,False
+e375cb5caf4717b6,Piera,Rodriguez,Piera Rodriguez,La Fiera,"5' 3""",115,63.0,Orthodox,10,2,0,False
+5ec591b78349ba7e,Christian,Rodriguez,Christian Rodriguez,,"5' 7""",145,71.0,Orthodox,12,2,0,False
 776d4262c4da38bf,Pete,Rodriguez,Pete Rodriguez,Dead Game,"5' 9""",170,71.0,Switch,5,2,0,False
 7195e2a932686f82,Nick,Roehrick,Nick Roehrick,,"6' 2""",205,,Orthodox,7,1,0,False
 ab943cd2c3c17825,Marcos,Rogerio de Lima,Marcos Rogerio de Lima,Pezao,"6' 1""",253,75.0,Orthodox,22,10,1,False
@@ -3252,13 +3257,14 @@ f304aff405c4a8fa,Brian,Rogers,Brian Rogers,The Professional Predator,"5' 11""",1
 75e0d3cc2262b732,Shane,Roller,Shane Roller,,"5' 10""",155,72.0,Orthodox,11,7,0,False
 c4b6099f0d25f75e,Jared,Rollins,Jared Rollins,J-Roc,"5' 9""",170,,Orthodox,8,4,0,False
 3b83fec860a45ca1,Tim,Roman,Tim Roman,,"6' 1""",170,,,3,4,0,False
-c0badf3243907e59,Alexandr,Romanov,Alexandr Romanov,King Kong,"6' 2""",262,75.0,Southpaw,17,3,0,False
+c0badf3243907e59,Alexandr,Romanov,Alexandr Romanov,King Kong,"6' 2""",262,75.0,Southpaw,18,3,0,False
 744e098e065cfdbe,Ricardo,Romero,Ricardo Romero,,"6' 0""",205,76.0,Orthodox,11,3,0,False
 f77c68bb4be8516d,Yoel,Romero,Yoel Romero,Soldier of God,"6' 0""",185,73.0,Southpaw,13,5,0,False
 6f81399074fcdbba,Anthony,Romero,Anthony Romero,The Genius,"5' 11""",155,70.0,Orthodox,8,0,0,False
 33df417d0017eb0c,Kaleio,Romero,Kaleio Romero,KO,"5' 10""",145,69.0,Switch,6,2,0,False
+15ea371202eb25e1,Roberto,Romero,Roberto Romero,El Charro Negro,"5' 8""",155,70.0,Orthodox,8,4,1,False
 82cbb809d5ee565c,Mara,Romero Borella,Mara Romero Borella,,"5' 6""",125,69.0,Orthodox,12,9,0,False
-8173f134396cb971,Cortavious,Romious,Cortavious Romious,,"5' 4""",135,68.0,Southpaw,9,2,0,False
+8173f134396cb971,Cortavious,Romious,Cortavious Romious,,"5' 4""",135,68.0,Southpaw,9,3,0,False
 4a043165cf47cab2,Juancamilo,Ronderos,Juancamilo Ronderos,100,"5' 3""",125,64.0,Southpaw,4,2,0,False
 a13d755965a4ec9f,,Rongzhu, Rongzhu,,"5' 9""",155,72.0,Orthodox,25,6,0,False
 5580771f383e141f,Jesse,Ronson,Jesse Ronson,The Body Snatcher,"5' 10""",155,70.0,Southpaw,21,12,0,False
@@ -3295,7 +3301,7 @@ cba3a2dfbc06ce79,Ray,Routh,Ray Routh,,"5' 8""",185,,Orthodox,2,1,0,False
 94070f6544c4b2a5,Rodrigo,Ruas,Rodrigo Ruas,,"5' 10""",185,,Orthodox,4,5,1,False
 c4731f43693b96b8,Rodolfo,Rubio Perez,Rodolfo Rubio Perez,Fito,"5' 5""",145,,Orthodox,10,16,1,False
 ccba80d4820ef557,Gabe,Ruediger,Gabe Ruediger,Godzilla,"5' 10""",155,,Orthodox,18,8,0,False
-9c393e836a852f30,Mauricio,Ruffy,Mauricio Ruffy,,"5' 11""",155,75.0,Orthodox,10,1,0,False
+9c393e836a852f30,Mauricio,Ruffy,Mauricio Ruffy,,"5' 11""",155,75.0,Orthodox,11,1,0,False
 7b9aa973e5c04624,Eddie,Ruiz,Eddie Ruiz,,"5' 7""",155,,Orthodox,1,1,0,False
 657c21cb133f1445,Anthony,Ruiz,Anthony Ruiz,El Toro,"6' 2""",205,,Orthodox,33,22,0,False
 babc0b19e89cec6e,Paul,Ruiz,Paul Ruiz,,"5' 6""",135,,,7,4,0,False
@@ -3315,7 +3321,7 @@ ff62013d2fce6d13,Nazim,Sadykhov,Nazim Sadykhov,Black Wolf,"5' 10""",155,69.0,Sou
 88d7b6d8230e1f3f,Saparbeg,Safarov,Saparbeg Safarov,,"6' 1""",185,78.0,Orthodox,9,3,0,False
 0749d968e932df53,Tarec,Saffiedine,Tarec Saffiedine,Sponge,"5' 10""",170,70.0,Switch,16,7,0,False
 4ac1ecf8ce59ef23,Jason,Saggo,Jason Saggo,,"5' 11""",155,71.0,Orthodox,12,4,0,False
-296a120cb880477b,Kiru,Sahota,Kiru Sahota,,"5' 10""",125,73.0,Orthodox,12,2,0,False
+296a120cb880477b,Kiru,Sahota,Kiru Sahota,,"5' 10""",125,73.0,Orthodox,12,3,0,False
 cc4e571964b084d4,Tatsuya,Saika,Tatsuya Saika,Yanbo,"6' 0""",155,73.0,Orthodox,11,5,0,False
 c2299ec916bc7c56,Benoit,Saint Denis,Benoit Saint Denis,God of War,"5' 11""",155,73.0,Southpaw,13,3,0,False
 50db8711c70196cd,Ovince,Saint Preux,Ovince Saint Preux,,"6' 3""",205,80.0,Southpaw,27,18,0,False
@@ -3333,7 +3339,7 @@ ff9578cdbfabd323,Ryuta,Sakurai,Ryuta Sakurai,,"5' 7""",183,,Orthodox,24,24,6,Fal
 72c4b253d2f5ebf2,Roman,Salazar,Roman Salazar,El Gallito,"5' 7""",135,,Orthodox,10,6,0,False
 12e0fdc606f7e274,Luis,Saldana,Luis Saldana,,"5' 11""",145,73.0,Orthodox,16,7,1,False
 3e36811b7bc1f6ad,John,Salgado,John Salgado,Greco,"5' 10""",170,,,4,8,1,False
-447f9858ae78f921,Muslim,Salikhov,Muslim Salikhov,King of Kung Fu,"5' 11""",170,70.0,Orthodox,20,5,0,False
+447f9858ae78f921,Muslim,Salikhov,Muslim Salikhov,King of Kung Fu,"5' 11""",170,70.0,Orthodox,21,5,0,False
 74d5f71eeb0c66c7,Gabriel,Salinas-Jones,Gabriel Salinas-Jones,,"6' 1""",245,,,5,2,1,False
 a049aa06508b9c7b,Brandon,Saling,Brandon Saling,White Steel,"5' 10""",170,,,8,6,0,False
 17734443a833cdf7,Quillan,Salkilld,Quillan Salkilld,,"6' 0""",155,75.0,Orthodox,7,1,0,False
@@ -3454,6 +3460,7 @@ b4443fae47e7eb9d,Wes,Schultz,Wes Schultz,Party Time,"6' 2""",185,77.0,Orthodox,6
 34e552520a934063,Brad,Scott,Brad Scott,Bear,"6' 1""",170,76.0,Orthodox,11,6,0,False
 0b235384fe23fc9c,Greg,Scott,Greg Scott,,"5' 9""",145,,,3,4,0,False
 4327506eb9ee342f,Louis Lee,Scott,Louis Lee Scott,Lightning,--,135,,,8,0,0,False
+03dee485905dbc9f,Zachary,Scroggin,Zachary Scroggin,,"6' 3""",170,74.0,Orthodox,7,1,0,False
 0c01568b1ac77bff,Mike,Seal,Mike Seal,Crazy Boy,"6' 4""",185,,Orthodox,13,15,1,False
 d1ce40aca99a9b70,Matt,Secor,Matt Secor,,"6' 0""",170,,,8,4,0,False
 55e94a9b525dcf45,Kenneth,Seegrist,Kenneth Seegrist,,"6' 0""",185,,Orthodox,4,7,0,False
@@ -3464,7 +3471,7 @@ e4bb7e483c4ad318,Brendan,Seguin,Brendan Seguin,,"6' 0""",185,,,23,19,1,False
 5e1062e066c601e6,Tetsuya,Seki,Tetsuya Seki,,"5' 10""",155,,,14,8,1,False
 348dff4e03bd18c6,Stefan,Sekulic,Stefan Sekulic,,"6' 0""",170,75.0,Southpaw,12,4,0,False
 0359313549d230a1,Pete,Sell,Pete Sell,Drago,"5' 11""",170,75.0,Orthodox,10,7,0,False
-4aa58269d0664b5b,Matthew,Semelsberger,Matthew Semelsberger,Semi The Jedi,"6' 1""",170,75.0,Switch,11,7,0,False
+4aa58269d0664b5b,Matthew,Semelsberger,Matthew Semelsberger,Semi The Jedi,"6' 1""",170,75.0,Switch,11,8,0,False
 5f2f0da6fd6a84fd,Andrei,Semenov,Andrei Semenov,,"6' 0""",185,,Orthodox,34,9,2,False
 51b1e2fd9872005b,Mackens,Semerzier,Mackens Semerzier,Da Menace,"5' 9""",145,72.0,Orthodox,8,4,0,False
 3ed134d85dfbd7b4,Brandon,Sene,Brandon Sene,,"5' 11""",205,,,2,2,0,False
@@ -3499,7 +3506,7 @@ a0c64f272b65d441,Eric,Shelton,Eric Shelton,Showtime,"5' 6""",125,68.0,Orthodox,1
 01b352b6a9074d5c,Chase,Sherman,Chase Sherman,The Vanilla Gorilla,"6' 4""",250,78.0,Orthodox,16,12,0,False
 132deb59abae64b1,Valentina,Shevchenko,Valentina Shevchenko,Bullet,"5' 5""",125,66.0,Southpaw,24,4,1,True
 d7338bcb141abd2c,Antonina,Shevchenko,Antonina Shevchenko,La Pantera,"5' 8""",125,67.0,Southpaw,10,4,0,False
-d683f4870742b273,Shi,Ming,Shi Ming,,"5' 2""",115,60.0,Orthodox,16,5,0,False
+d683f4870742b273,Shi,Ming,Shi Ming,,"5' 2""",115,60.0,Orthodox,17,5,0,False
 d4da8995fc91e7ef,Katsuyori,Shibata,Katsuyori Shibata,,"6' 0""",168,,Orthodox,4,11,1,False
 fe435e440b5de0ff,Jake,Shields,Jake Shields,,"6' 0""",170,72.0,Orthodox,31,9,1,False
 5d1700cfbaafbe06,Henrique,Shiguemoto,Henrique Shiguemoto,,"5' 11""",185,72.0,Orthodox,13,4,1,False
@@ -3513,14 +3520,14 @@ ed3ea649b34ddb6c,Alexander,Shlemenko,Alexander Shlemenko,Storm,"5' 11""",185,,,5
 821cd80aab70d5f9,Josh,Shockman,Josh Shockman,The War Hammer,"6' 4""",235,,Southpaw,6,3,0,False
 b0c95dc8e858452c,Akira,Shoji,Akira Shoji,,"5' 8""",195,,Orthodox,14,17,5,False
 1a54231796e24a3f,Liudvik,Sholinian,Liudvik Sholinian,Palmeyros,"5' 10""",135,71.0,Orthodox,9,4,1,False
-b8a85389d115e35a,Jack,Shore,Jack Shore,Tank,"5' 8""",145,71.0,Orthodox,17,2,0,False
+b8a85389d115e35a,Jack,Shore,Jack Shore,Tank,"5' 8""",145,71.0,Orthodox,17,3,0,False
 35cc17760b06f36d,Landon,Showalter,Landon Showalter,The Show,"6' 0""",185,,,11,19,1,False
 1f4b1d7d12601c5f,Ivan,Shtyrkov,Ivan Shtyrkov,Ural Hulk,"6' 0""",205,74.0,Orthodox,15,0,1,False
 585f9ffdb0cd0466,Brandon,Shuey,Brandon Shuey,Big Dawg,"5' 7""",155,,Orthodox,7,6,0,False
 762226efa2b01654,Ronal,Siahaan,Ronal Siahaan,Naga Sakti,"5' 7""",125,71.0,Southpaw,7,1,0,False
 b8aef0faf4ce9b31,Sam,Sicilia,Sam Sicilia,,"5' 8""",145,67.0,Orthodox,15,8,0,False
 cf772fb504842dc3,Kiril,Sidelnikov,Kiril Sidelnikov,,"5' 11""",230,,,11,4,0,False
-1a2bf44edb8055b6,Serhiy,Sidey,Serhiy Sidey,,"5' 11""",135,72.0,Switch,10,2,0,False
+1a2bf44edb8055b6,Serhiy,Sidey,Serhiy Sidey,,"5' 11""",135,72.0,Switch,11,2,0,False
 d188a3b817860ec6,Steven,Siler,Steven Siler,Super,"5' 11""",145,70.0,Orthodox,29,16,0,False
 3cf68c1d17f66af7,Siala,Siliga,Siala Siliga,Mighty Mo,"6' 1""",290,,Orthodox,12,5,0,False
 9a08c2753184ac6d,Xavier,Siller,Xavier Siller,Young Guns,"5' 5""",125,,,5,5,0,False
@@ -3543,14 +3550,14 @@ a31358d90d4bb40a,Rafael,Silva,Rafael Silva,Morcego,"5' 7""",135,,,28,6,0,False
 ae7fe94f117f98cf,Joaquim,Silva,Joaquim Silva,Netto BJJ,"5' 8""",155,69.0,Southpaw,13,6,0,False
 1b38a2b897f6209c,Felipe,Silva,Felipe Silva,,"6' 0""",155,77.0,Orthodox,8,2,0,False
 b19aecbfbb5508cc,Dayana,Silva,Dayana Silva,,"5' 7""",135,,Orthodox,7,4,0,False
-294aa73dbf37d281,Bruno,Silva,Bruno Silva,Bulldog,"5' 4""",125,65.0,Orthodox,14,5,2,False
-12ebd7d157e91701,Bruno,Silva,Bruno Silva,Blindado,"6' 0""",185,74.0,Orthodox,23,11,0,False
+294aa73dbf37d281,Bruno,Silva,Bruno Silva,Bulldog,"5' 4""",125,65.0,Orthodox,14,6,2,False
+12ebd7d157e91701,Bruno,Silva,Bruno Silva,Blindado,"6' 0""",185,74.0,Orthodox,23,12,0,False
 002ca196477ce572,Gabriel,Silva,Gabriel Silva,,"5' 6""",135,71.0,Orthodox,8,2,0,False
 f6f2ea21a67be3a7,Jacob,Silva,Jacob Silva,Lil Animal,"5' 5""",125,67.0,Orthodox,6,4,0,False
 262d32ebda89efc4,Natalia,Silva,Natalia Silva,,"5' 4""",125,65.0,Southpaw,18,5,1,False
 0d09efd31eb9fadf,Jansey,Silva,Jansey Silva,Jones,"6' 2""",185,67.0,Orthodox,7,2,0,False
 4408865b4e65e374,Maria,Silva,Maria Silva,Viuva Negra,"5' 3""",115,64.0,Orthodox,8,1,0,False
-9d62c2d8ee151f08,Karine,Silva,Karine Silva,Killer,"5' 5""",125,67.0,Orthodox,18,4,0,False
+9d62c2d8ee151f08,Karine,Silva,Karine Silva,Killer,"5' 5""",125,67.0,Orthodox,18,5,0,False
 21b813b919776d90,Erik,Silva,Erik Silva,The King,"5' 9""",145,71.0,Orthodox,9,3,0,False
 4784a5b4a452464a,Janaina,Silva,Janaina Silva,Jana-Iron-Hand,"5' 1""",115,60.0,Orthodox,5,1,0,False
 4e33534d1e036444,Jhonata,Silva,Jhonata Silva,,"5' 5""",125,66.0,Orthodox,8,2,0,False
@@ -3597,7 +3604,7 @@ e955046551f8c7dd,David,Smith,David Smith,,--,155,,,5,1,0,False
 754968e325d6f60d,Adam,Smith,Adam Smith,,--,,,,0,3,0,False
 ffee353f55e3aa2c,Dillon,Smith,Dillon Smith,,"6' 0""",170,,,0,0,0,False
 f797f0c57a83353e,Trevor,Smith,Trevor Smith,Hot Sauce,"6' 3""",185,75.0,Orthodox,15,10,0,False
-d4c9dcd330403612,Anthony,Smith,Anthony Smith,Lionheart,"6' 4""",205,76.0,Orthodox,38,20,0,False
+d4c9dcd330403612,Anthony,Smith,Anthony Smith,Lionheart,"6' 4""",205,76.0,Orthodox,38,21,0,False
 2e25c1d983c26311,Colton,Smith,Colton Smith,,"6' 0""",155,71.0,Orthodox,7,4,0,False
 54ed8dc6f8c31207,Gilbert,Smith,Gilbert Smith,,"5' 9""",185,,Southpaw,12,6,0,False
 76984112f697631f,Leslie,Smith,Leslie Smith,The Peacemaker,"5' 9""",135,66.0,Orthodox,10,7,1,False
@@ -3606,12 +3613,12 @@ d4c9dcd330403612,Anthony,Smith,Anthony Smith,Lionheart,"6' 4""",205,76.0,Orthodo
 0bbb69f69c9a2eea,Nate,Smith,Nate Smith,The Savage,"5' 6""",125,69.0,Switch,6,1,0,False
 eaa9402e5a7990ad,Braxton,Smith,Braxton Smith,The Beautiful Monster,"5' 11""",257,72.0,Orthodox,5,2,0,False
 7478b7f959ba61f5,Elijah,Smith,Elijah Smith,Swift,"5' 9""",135,71.0,Orthodox,7,1,0,False
-85497ffd934ecf7e,Jacobe,Smith,Jacobe Smith,Cobe,"5' 10""",170,72.0,Southpaw,9,0,0,False
+85497ffd934ecf7e,Jacobe,Smith,Jacobe Smith,Cobe,"5' 10""",170,72.0,Southpaw,10,0,0,False
 625b65b45c1c6888,Walter,Smith-Cotito,Walter Smith-Cotito,,"5' 8""",135,,,4,5,0,False
 c5776fa8f4bf77aa,Justin,Smitley,Justin Smitley,,--,145,,,10,7,1,False
 75afb06215a07341,Dmitrii,Smoliakov,Dmitrii Smoliakov,The Lifeguard,"6' 2""",253,74.0,Switch,9,3,0,False
 d2bc285ead803db0,Louis,Smolka,Louis Smolka,Da Last Samurai,"5' 9""",135,68.0,Orthodox,17,9,0,False
-5c84f673b7bb7c15,Cameron,Smotherman,Cameron Smotherman,The Baby-Faced Killa,"5' 9""",135,69.0,Orthodox,8,4,0,False
+5c84f673b7bb7c15,Cameron,Smotherman,Cameron Smotherman,The Baby-Faced Killa,"5' 9""",135,69.0,Orthodox,12,4,0,False
 1b0491ef0f9c965e,Shimon,Smotritsky,Shimon Smotritsky,The Assassin,"6' 2""",170,74.0,Orthodox,8,2,0,False
 f75c5ca0d91b9115,Richie,Smullen,Richie Smullen,,"5' 9""",155,68.0,Orthodox,3,1,1,False
 7684c8137b4545ba,Devin,Smyth,Devin Smyth,,"5' 10""",170,72.0,Switch,4,2,0,False
@@ -3620,11 +3627,11 @@ f75c5ca0d91b9115,Richie,Smullen,Richie Smullen,,"5' 9""",155,68.0,Orthodox,3,1,1
 d468288756ae3982,Renato,Sobral,Renato Sobral,Babalu,"6' 1""",205,75.0,Orthodox,37,11,0,False
 d1152823307d7e7c,Rameau Thierry,Sokoudjou,Rameau Thierry Sokoudjou,The African Assassin,"5' 10""",205,78.0,Orthodox,18,18,0,False
 f1451d605bad178e,Alexander,Soldatkin,Alexander Soldatkin,,"6' 2""",250,75.0,Orthodox,14,4,0,False
-af65aa688d13eedf,Joe,Solecki,Joe Solecki,,"5' 9""",155,70.0,Orthodox,13,5,0,False
+af65aa688d13eedf,Joe,Solecki,Joe Solecki,,"5' 9""",155,70.0,Orthodox,13,6,0,False
 324c7a749128df8d,Chris,Solomon,Chris Solomon,,"5' 11""",155,,,0,0,0,False
 83b743fedde154fb,Joe,Son,Joe Son,,"5' 4""",236,,Orthodox,0,4,0,False
 9775eabcb1be1a00,Paul,Song,Paul Song,,--,185,,,2,2,0,False
-32490e80ddab1e5a,Song,Kenan,Song Kenan,The Assassin,"6' 0""",170,71.0,Orthodox,21,8,0,False
+32490e80ddab1e5a,Song,Kenan,Song Kenan,The Assassin,"6' 0""",170,71.0,Orthodox,22,9,0,False
 efb96bf3e9ada36f,Song,Yadong,Song Yadong,Kung Fu Kid,"5' 8""",135,67.0,Orthodox,21,8,1,False
 0efb0d4ebb950fcb,YoungJae,Song,YoungJae Song,Super Rookie,"5' 7""",145,70.0,Orthodox,6,1,1,False
 fe759b24e344d7eb,Emrah,Sonmez,Emrah Sonmez,Anatolian Wolf,"5' 10""",145,71.0,Orthodox,14,5,0,False
@@ -3634,7 +3641,7 @@ fe759b24e344d7eb,Emrah,Sonmez,Emrah Sonmez,Anatolian Wolf,"5' 10""",145,71.0,Ort
 b6c37948cb226e8c,Benardo,Sopaj,Benardo Sopaj,Lion King,"5' 6""",135,66.0,Orthodox,11,3,0,False
 4c9b84d559822830,Emiliano,Sordi,Emiliano Sordi,He-Man,"6' 2""",205,,Orthodox,16,7,0,False
 bd5403efbaa445c0,Sean,Soriano,Sean Soriano,,"5' 9""",145,70.0,Orthodox,14,8,0,False
-64facb6cc564262d,Punahele,Soriano,Punahele Soriano,Puna,"5' 11""",170,72.0,Southpaw,10,4,0,False
+64facb6cc564262d,Punahele,Soriano,Punahele Soriano,Puna,"5' 11""",170,72.0,Southpaw,11,4,0,False
 85ff1b9471d35238,Dmitry,Sosnovskiy,Dmitry Sosnovskiy,Wicked Machine,"6' 3""",240,77.0,Orthodox,11,0,0,False
 326f94d6cfb1bf25,Ben,Sosoli,Ben Sosoli,Combat Wombat,"6' 0""",265,72.0,Southpaw,7,3,0,False
 59583ff832fe9d68,Krzysztof,Soszynski,Krzysztof Soszynski,The Polish Experiment,"6' 1""",205,77.0,Open Stance,26,12,1,False
@@ -3651,7 +3658,7 @@ aee8eecfc4bfb1e7,Bobby,Southworth,Bobby Southworth,,"6' 2""",205,,Orthodox,10,6,
 dab8cfbb6b1db10a,Livinha,Souza,Livinha Souza,The Brazilian Gangsta,"5' 3""",115,63.0,Orthodox,14,4,0,False
 0e5c4e72237461bb,Bruno,Souza,Bruno Souza,The Tiger,"5' 10""",145,70.0,Orthodox,10,3,0,False
 8bd4200561c77a62,Ketlen,Souza,Ketlen Souza,Esquentadinha,"5' 3""",115,63.0,Orthodox,15,4,0,False
-22b43be04d7454d0,Heraldo,Souza,Heraldo Souza,Savage,--,185,,Orthodox,9,1,1,False
+22b43be04d7454d0,Heraldo,Souza,Heraldo Souza,Savage,"5' 11""",185,73.0,Orthodox,9,2,1,False
 c278e8843b8abfec,Charon,Spain,Charon Spain,,"5' 9""",155,,,14,26,0,False
 411d012af19ecb59,Chris,Spang,Chris Spang,The Kiss,"6' 2""",170,,Orthodox,6,3,0,False
 b9eb5b4ed07d1525,Andreas,Spang,Andreas Spang,Sweet Swede,"6' 1""",185,,,9,3,0,False
@@ -3675,7 +3682,7 @@ c3ea8deeba00462b,Pete,Spratt,Pete Spratt,The Secret Weapon,"5' 9""",170,,Orthodo
 6436029b50a9c255,Bobby,Stack,Bobby Stack,,"5' 9""",155,,Orthodox,8,3,0,False
 69a400af4420cd6a,Andreas,Stahl,Andreas Stahl,Real Steel,"5' 11""",170,,Orthodox,10,4,0,False
 6dd758d34da8d254,Ron,Stallings,Ron Stallings,The Choir Boy,"6' 2""",170,75.0,Southpaw,14,8,0,False
-bf7ad5628363eec9,Cody,Stamann,Cody Stamann,The Spartan,"5' 6""",135,64.0,Orthodox,21,7,1,False
+bf7ad5628363eec9,Cody,Stamann,Cody Stamann,The Spartan,"5' 6""",135,64.0,Orthodox,21,8,1,False
 175852708cb55776,Cristina,Stanciu,Cristina Stanciu,Barbie,"5' 3""",115,,Orthodox,5,2,0,False
 579fcdfcabd23a7b,Brian,Stann,Brian Stann,All American,"6' 1""",205,74.0,Orthodox,12,6,0,False
 30ea504870f8597b,Josh,Stansbury,Josh Stansbury,The Sandman,"6' 2""",205,74.0,Orthodox,4,8,0,False
@@ -3694,7 +3701,7 @@ aebaa8cec15b083d,Kody,Steele,Kody Steele,,"5' 9""",155,71.0,Orthodox,7,0,0,False
 6000b5ae6c462142,Ray,Steinbeiss,Ray Steinbeiss,Ipswitch Cobra,"5' 11""",170,,Orthodox,14,7,0,False
 738acab0c6934dd8,Dmitri,Stepanov,Dmitri Stepanov,,"6' 3""",217,,Orthodox,0,1,0,False
 18968f97ad34f15c,Jeremy,Stephens,Jeremy Stephens,Lil' Heathen,"5' 9""",145,71.0,Orthodox,28,19,0,False
-cb696ebfb6598724,Aljamain,Sterling,Aljamain Sterling,Funk Master,"5' 7""",145,71.0,Orthodox,24,4,0,False
+cb696ebfb6598724,Aljamain,Sterling,Aljamain Sterling,Funk Master,"5' 7""",145,71.0,Orthodox,24,5,0,False
 310c4d4b2b32796b,Marc,Stevens,Marc Stevens,,"5' 9""",155,,,21,10,0,False
 79899ecf62020f6d,Joe,Stevenson,Joe Stevenson,Daddy,"5' 7""",145,70.0,Orthodox,33,16,0,False
 2fee10d5cf86bfca,Maia,Stevenson,Maia Stevenson,,"5' 4""",115,62.0,Orthodox,6,5,0,False
@@ -3703,12 +3710,12 @@ a17ad5a5048e8c3f,Darren,Stewart,Darren Stewart,The Dentist,"6' 0""",205,74.0,Ort
 bb61823f76361297,Kyle,Stewart,Kyle Stewart,Gunz Up,"6' 0""",170,76.0,Orthodox,11,3,0,False
 df5a77121ba84a5d,Alex,Stiebling,Alex Stiebling,The Brazilian Killa,"6' 2""",205,,Southpaw,19,11,1,False
 2cf520143e76cd2e,Tyler,Stinson,Tyler Stinson,The Evolution,"6' 3""",170,,,30,10,0,False
-b4b496ec2197ee3e,Navajo,Stirling,Navajo Stirling,,"6' 4""",205,79.0,Orthodox,5,0,0,False
+b4b496ec2197ee3e,Navajo,Stirling,Navajo Stirling,,"6' 4""",205,79.0,Orthodox,6,0,0,False
 cc3147b49c7d7d92,Dan,Stittgen,Dan Stittgen,The Anvil,"6' 1""",170,,Orthodox,12,5,0,False
 4d25497994da569c,Lazar,Stojadinovic,Lazar Stojadinovic,The Bronx Bomber,"5' 7""",145,68.0,Southpaw,12,5,0,False
 a421465acbe59c77,Denis,Stojnic,Denis Stojnic,,"6' 0""",245,,Orthodox,13,3,0,False
 a78a87d8c2bbb1cb,Julija,Stoliarenko,Julija Stoliarenko,,"5' 7""",125,66.0,Orthodox,11,9,2,False
-71505842fb6455c3,Dustin,Stoltzfus,Dustin Stoltzfus,,"6' 0""",185,75.0,Orthodox,15,6,0,False
+71505842fb6455c3,Dustin,Stoltzfus,Dustin Stoltzfus,,"6' 0""",185,75.0,Orthodox,16,6,0,False
 62f7097c04311193,Niklas,Stolze,Niklas Stolze,Green Mask,"6' 1""",155,74.0,Switch,12,6,0,False
 fbf0947399d14323,Ken,Stone,Ken Stone,,"5' 8""",135,71.0,Southpaw,11,4,0,False
 8d477c3fbe001f9d,Ryan,Stonitsch,Ryan Stonitsch,,"5' 9""",170,,Southpaw,8,1,0,False
@@ -3742,7 +3749,7 @@ b205d4f2ff44bc89,Naho,Sugiyuma,Naho Sugiyuma,Sugi Rock,"5' 1""",105,,,12,5,0,Fal
 7aa88401f93ce836,Amar,Suloev,Amar Suloev,,"5' 9""",183,,Orthodox,24,7,0,False
 fe1fdc6be470f773,Magomed,Sultanakhmedov,Magomed Sultanakhmedov,,"6' 2""",185,,Southpaw,18,6,0,False
 31f9a1f56cbb6ac5,Justin,Sumter,Justin Sumter,,"6' 2""",185,80.0,Southpaw,7,3,0,False
-3cf18e01cb6cbde3,,Sumudaerji, Sumudaerji,The Tibetan Eagle,"5' 8""",125,72.0,Southpaw,16,6,0,False
+3cf18e01cb6cbde3,,Sumudaerji, Sumudaerji,The Tibetan Eagle,"5' 8""",125,72.0,Southpaw,16,7,0,False
 6d537248fe7cccf1,Rama,Supandhi,Rama Supandhi,Hellboy,"5' 5""",125,66.0,Southpaw,8,4,0,False
 22af3546bd967280,Aji,Susilo,Aji Susilo,,"5' 10""",155,,,6,4,0,False
 cc5834a495d1ea08,Jason,Suttie,Jason Suttie,Nobunaga,"6' 0""",210,,Orthodox,0,1,0,False
@@ -3751,11 +3758,11 @@ a6a9ab5a824e8f66,Joel,Sutton,Joel Sutton,,"5' 11""",205,,Orthodox,2,4,1,False
 3d99e5aa85d7576a,Danilo,Suzart,Danilo Suzart,,"6' 0""",260,,Orthodox,9,2,0,False
 bcad7223af3c19da,Martin,Svensson,Martin Svensson,,"6' 1""",155,,,15,6,0,False
 cc39185f2d7d89e4,Daniel,Swain,Daniel Swain,,"5' 9""",145,70.0,Orthodox,20,10,1,False
-d247691a6c0e9034,Cub,Swanson,Cub Swanson,,"5' 8""",145,70.0,Orthodox,29,14,0,False
+d247691a6c0e9034,Cub,Swanson,Cub Swanson,,"5' 8""",145,70.0,Orthodox,30,14,0,False
 9fe85152f351e737,Mike,Swick,Mike Swick,Quick,"6' 1""",170,77.0,Orthodox,15,6,0,False
 5330fe7e4c3af81c,Floyd,Sword,Floyd Sword,,"6' 0""",185,,Orthodox,12,3,0,False
 46e2011d92463b7e,Oumar,Sy,Oumar Sy,,"6' 4""",205,83.0,Orthodox,11,0,0,False
-9f5e3c20ce40b344,Klaudia,Sygula,Klaudia Sygula,,--,135,,,6,1,0,False
+9f5e3c20ce40b344,Klaudia,Sygula,Klaudia Sygula,,"5' 8""",135,69.0,Orthodox,6,2,0,False
 abd2109bc4cb0291,Bentley,Syler,Bentley Syler,Bolivia,"5' 4""",125,,Orthodox,5,1,0,False
 9094a881a7513de3,Kevin,Syler,Kevin Syler,El Nino Bala,"5' 9""",155,71.0,Switch,10,1,0,False
 58a36b4ccf5dc30e,Leo,Sylvest,Leo Sylvest,Lethal,"5' 11""",205,,Orthodox,10,16,0,False
@@ -3802,7 +3809,7 @@ ef927e4fe2117ab8,Deividas,Taurosevicius,Deividas Taurosevicius,,"5' 9""",145,68.
 8a59d346dc976a10,Thiago,Tavares,Thiago Tavares,,"5' 7""",145,70.0,Orthodox,21,7,1,False
 681d07e328798ec0,Jeremy,Tavares,Jeremy Tavares,,--,135,,,1,6,0,False
 0c6d9ea8306c029e,Brad,Tavares,Brad Tavares,,"6' 1""",185,74.0,Orthodox,20,11,0,False
-c5ccd878231c5407,Ramon,Taveras,Ramon Taveras,The Savage,"5' 8""",135,70.0,Southpaw,10,2,0,False
+c5ccd878231c5407,Ramon,Taveras,Ramon Taveras,The Savage,"5' 8""",135,70.0,Southpaw,10,3,0,False
 9b74de674c355425,Paul,Taylor,Paul Taylor,Relentless,"6' 0""",155,72.0,Orthodox,11,6,1,False
 dd992d569aaebee6,Jesse,Taylor,Jesse Taylor,JT Money,"6' 0""",170,73.0,Orthodox,31,15,0,False
 88e53ec16b801740,Torrance,Taylor,Torrance Taylor,,"5' 7""",155,,,13,8,1,False
@@ -3854,8 +3861,8 @@ fea8acf9bfcf09ec,Simeon,Thoresen,Simeon Thoresen,The Grin,"6' 1""",170,79.0,Orth
 0112352cb32f5026,Denis,Tiuliulin,Denis Tiuliulin,,"6' 1""",185,77.0,Orthodox,10,10,0,False
 57481f1f10530c61,Ryan,Tobar,Ryan Tobar,,--,155,,,3,3,0,False
 274ca7b799b402cc,Andrew,Todhunter,Andrew Todhunter,The Sniper,"6' 0""",185,,Switch,8,0,0,False
-866fd7b1a6c90e7f,Dusko,Todorovic,Dusko Todorovic,Thunder,"6' 1""",185,74.0,Orthodox,12,4,0,False
-3e8118c1ab52f211,Tuco,Tokkos,Tuco Tokkos,,"6' 4""",205,76.0,Orthodox,10,4,0,False
+866fd7b1a6c90e7f,Dusko,Todorovic,Dusko Todorovic,Thunder,"6' 1""",185,74.0,Orthodox,12,5,0,False
+3e8118c1ab52f211,Tuco,Tokkos,Tuco Tokkos,,"6' 4""",205,76.0,Orthodox,10,5,0,False
 2d5fbe2103f97053,Hideo,Tokoro,Hideo Tokoro,,"5' 7""",135,,Orthodox,34,29,2,False
 679ae8c4fd022c6b,Anatoly,Tokov,Anatoly Tokov,,"5' 10""",185,,,25,2,0,False
 c4af2feb4b58bc3b,Kazuki,Tokudome,Kazuki Tokudome,,"5' 11""",155,73.0,Southpaw,18,7,1,False
@@ -3864,7 +3871,7 @@ c4af2feb4b58bc3b,Kazuki,Tokudome,Kazuki Tokudome,,"5' 11""",155,73.0,Southpaw,18
 d10b35152277cf98,James,Toney,James Toney,Lights Out,"5' 9""",220,,Orthodox,0,1,0,False
 9de7c97e1c0d7927,Masanori,Tonooka,Masanori Tonooka,,"5' 8""",185,,Orthodox,1,2,0,False
 5ee87e0432205755,Carl,Toomey,Carl Toomey,,--,,,,3,3,0,False
-54f64b5e283b0ce7,Ilia,Topuria,Ilia Topuria,El Matador,"5' 7""",145,69.0,Orthodox,15,0,0,True
+54f64b5e283b0ce7,Ilia,Topuria,Ilia Topuria,El Matador,"5' 7""",145,69.0,Orthodox,16,0,0,True
 4a6dff1b260bcf61,Aleksandre,Topuria,Aleksandre Topuria,El Cazador,--,135,,,5,1,0,False
 918d9d89d4d52acc,Anthony,Torres,Anthony Torres,The Crush,"5' 8""",170,,Orthodox,5,3,0,False
 33b2f68ef95252e0,Miguel,Torres,Miguel Torres,,"5' 9""",135,76.0,Orthodox,44,9,0,False
@@ -3889,7 +3896,7 @@ d2d37e8eeb3abc8d,Frank,Trigg,Frank Trigg,Twinkle Toes,"5' 9""",170,71.0,Southpaw
 a8283a4f415e1eb9,Francisco,Trinaldo,Francisco Trinaldo,Massaranduba,"5' 9""",170,70.0,Southpaw,28,9,0,False
 cb1c09c8126dbee0,Damien,Trites,Damien Trites,The Omen,"5' 11""",165,,,7,6,0,False
 5bf31a46becc1204,Michael,Trizano,Michael Trizano,The Lone Wolf,"5' 11""",145,71.0,Orthodox,11,3,0,False
-6d48a2df51749d91,Antonio,Trocoli,Antonio Trocoli,Malvado,"6' 5""",185,80.0,Orthodox,12,4,0,False
+6d48a2df51749d91,Antonio,Trocoli,Antonio Trocoli,Malvado,"6' 6""",185,79.0,Orthodox,12,5,0,False
 8abf70f79e9e27c2,Tor,Troeng,Tor Troeng,The Hammer,"6' 2""",185,,Orthodox,16,7,1,False
 cc18abc046b382c9,Aaron,Trujillo,Aaron Trujillo,,"5' 5""",125,,,0,1,0,False
 e6b233a007cb06c4,Reynaldo,Trujillo,Reynaldo Trujillo,The Truth,"5' 9""",155,,,21,19,0,False
@@ -3905,8 +3912,8 @@ b9aa7d230865b5fe,Tom,Tuggle,Tom Tuggle,The Law,"6' 2""",250,,Orthodox,0,3,0,Fals
 c62fbc117d57b943,Tai,Tuivasa,Tai Tuivasa,Bam Bam,"6' 2""",264,75.0,Southpaw,15,8,0,False
 aceffa19749c4dc0,Zubaira,Tukhugov,Zubaira Tukhugov,Warrior,"5' 8""",155,68.0,Orthodox,20,6,1,False
 96eff1a628adcc7f,Teila,Tuli,Teila Tuli,,"6' 0""",430,,Orthodox,0,1,0,False
-9384e71bca6c409d,Marco,Tulio,Marco Tulio,Matuto,"6' 0""",185,74.0,Orthodox,12,1,0,False
-17cb6d8e8187f304,Nyamjargal,Tumendemberel,Nyamjargal Tumendemberel,Art of Knockout,"5' 7""",125,71.0,Orthodox,8,0,0,False
+9384e71bca6c409d,Marco,Tulio,Marco Tulio,Matuto,"6' 0""",185,74.0,Orthodox,13,1,0,False
+17cb6d8e8187f304,Nyamjargal,Tumendemberel,Nyamjargal Tumendemberel,Art of Knockout,"5' 7""",125,71.0,Orthodox,8,1,0,False
 ff6a1f63c254127e,Albert,Tumenov,Albert Tumenov,Einstein,"5' 11""",170,73.0,Orthodox,18,4,0,False
 cd3d7e37ff2d679c,Ricky,Turcios,Ricky Turcios,,"5' 9""",135,71.0,Orthodox,13,4,0,False
 82529ce93cd9a2cf,Anton,Turkalj,Anton Turkalj,The Pleasure Man,"6' 4""",205,78.0,Orthodox,8,4,0,False
@@ -3914,14 +3921,14 @@ cd3d7e37ff2d679c,Ricky,Turcios,Ricky Turcios,,"5' 9""",135,71.0,Orthodox,13,4,0,
 56f4b81ec4db61af,Courtney,Turner,Courtney Turner,,"6' 2""",170,,,0,3,0,False
 4d8fa64202cee4c1,Jalin,Turner,Jalin Turner,The Tarantula,"6' 3""",155,77.0,Southpaw,14,8,0,False
 885adaff8fe15cf7,Austin,Tweedy,Austin Tweedy,,"5' 9""",155,,Orthodox,8,2,0,False
-c9cf753cfdf77fc2,Marcin,Tybura,Marcin Tybura,Tybur,"6' 3""",249,78.0,Orthodox,25,9,0,False
+c9cf753cfdf77fc2,Marcin,Tybura,Marcin Tybura,Tybur,"6' 3""",249,78.0,Orthodox,26,9,0,False
 1d76f07ffdd765c2,Takeru,Uchida,Takeru Uchida,,"5' 5""",125,68.0,Southpaw,6,1,0,False
 8f2deefe8c5dfb5d,Alberto,Uda,Alberto Uda,,"6' 3""",185,,Orthodox,12,2,0,False
 bcd124bcd3d5be46,Ryuki,Ueyama,Ryuki Ueyama,,"5' 11""",180,,Southpaw,12,18,5,False
 10ccf4ec9913cadc,Christian,Uflacker,Christian Uflacker,,"5' 11""",170,,,5,0,0,False
 4a1a492f299581d9,Andy,Uhrich,Andy Uhrich,,"6' 0""",170,,,11,6,0,False
 f00ac08ab056af5d,Tagir,Ulanbekov,Tagir Ulanbekov,,"5' 7""",125,70.0,Southpaw,15,2,0,False
-9014c02eff8b3d62,Carlos,Ulberg,Carlos Ulberg,Black Jag,"6' 4""",205,77.0,Orthodox,11,1,0,False
+9014c02eff8b3d62,Carlos,Ulberg,Carlos Ulberg,Black Jag,"6' 4""",205,77.0,Orthodox,12,1,0,False
 7a39bbac8cc0fa70,Gasan,Umalatov,Gasan Umalatov,Cobra,"5' 11""",170,71.0,Orthodox,17,4,2,False
 4793a2d90f5ab8ae,Jeremy,Umphries,Jeremy Umphries,,--,160,,,5,2,0,False
 1e310618d02ff93b,Zach,Underwood,Zach Underwood,,"6' 2""",185,,,13,7,0,False
@@ -3950,7 +3957,7 @@ de277a4abcfeea46,Victor,Valenzuela,Victor Valenzuela,Joe Boxer,"5' 10""",155,,,1
 2a898bf9fb7710b3,Andrew,Valladerez,Andrew Valladerez,,--,135,,,5,7,0,False
 239d8e5359022f3b,Kevin,Vallejos,Kevin Vallejos,El Chino,"5' 7""",145,68.0,Switch,14,1,0,False
 c295de4e10acd4c9,Isaac,Vallie-Flagg,Isaac Vallie-Flagg,,"5' 8""",155,70.0,Orthodox,16,7,1,False
-17e97649403ba428,Joshua,Van,Joshua Van,The Fearless,"5' 5""",125,65.0,Orthodox,11,2,0,False
+17e97649403ba428,Joshua,Van,Joshua Van,The Fearless,"5' 5""",125,65.0,Orthodox,12,2,0,False
 2ee09ec2a0695eb9,Mike,van Arsdale,Mike van Arsdale,,"6' 2""",205,,Switch,8,5,0,False
 7b39035fae7268b8,Matt,Van Buren,Matt Van Buren,Gutter,"6' 5""",205,,,7,6,0,False
 23ab42947c1990e3,Ron,van Clief,Ron van Clief,The Black Dragon,"5' 10""",190,,Orthodox,0,1,0,False
@@ -3999,7 +4006,7 @@ f95381efb3051d81,Hugo,Viana,Hugo Viana,Wolverine,"5' 6""",135,67.0,Orthodox,8,4,
 9673a497a9da119a,Polyana,Viana,Polyana Viana,Dama de Ferro,"5' 5""",115,67.0,Orthodox,13,7,0,False
 744f50016c39c26c,Vitor,Vianna,Vitor Vianna,,--,205,,Orthodox,12,3,1,False
 6256b2b1562cb8e1,James,Vick,James Vick,The Texecutioner,"6' 3""",155,76.0,Orthodox,13,5,0,False
-4f3064faf17aa711,Tamires,Vidal,Tamires Vidal,Tractor,"5' 6""",135,68.0,Orthodox,7,3,0,False
+4f3064faf17aa711,Tamires,Vidal,Tamires Vidal,Tractor,"5' 6""",135,68.0,Orthodox,7,4,0,False
 7cf20446453f852b,Milton,Vieira,Milton Vieira,Miltinho,"6' 0""",145,,Orthodox,13,8,2,False
 f9081770e28ea2e1,Reginaldo,Vieira,Reginaldo Vieira,,"5' 7""",135,65.0,Orthodox,13,5,0,False
 b9706f80d005036c,Ketlen,Vieira,Ketlen Vieira,Fenomeno,"5' 8""",135,68.0,Orthodox,14,4,0,False
@@ -4024,7 +4031,7 @@ fb8a3025ae722e64,Bobby,Voelker,Bobby Voelker,Vicious,"6' 0""",170,74.0,Orthodox,
 d73a7c36746fbc5b,Danylo,Voievodkin,Danylo Voievodkin,,"6' 4""",265,78.0,Southpaw,7,0,0,False
 e1248941344b3288,Alexander,Volkanovski,Alexander Volkanovski,The Great,"5' 6""",145,71.0,Orthodox,26,4,0,False
 6f81b6de2557739a,Jacob,Volkmann,Jacob Volkmann,Christmas,"5' 9""",155,71.0,Southpaw,19,7,0,False
-279566840aa55bf2,Alexander,Volkov,Alexander Volkov,Drago,"6' 7""",250,80.0,Orthodox,38,10,0,False
+279566840aa55bf2,Alexander,Volkov,Alexander Volkov,Drago,"6' 7""",250,80.0,Orthodox,38,11,0,False
 c4b9296214f4c09c,Jason,Von Flue,Jason Von Flue,Live Wire,"6' 0""",170,,Orthodox,14,12,1,False
 277ffed20cf07aea,Milco,Voorn,Milco Voorn,,--,220,,Orthodox,20,11,1,False
 ef0344ed552d8a22,Mark,Vorgeas,Mark Vorgeas,,"5' 10""",135,,,5,3,1,False
@@ -4056,7 +4063,7 @@ a1d6b308781aa2f5,Dimitiri,Wanderley,Dimitiri Wanderley,,--,205,,Orthodox,5,2,0,F
 476414d2f18cd059,Andy,Wang,Andy Wang,,"5' 6""",155,,Orthodox,7,8,1,False
 efb9a43415a56d34,Sai,Wang,Sai Wang,The Fire Kylin,"6' 0""",170,,Southpaw,20,6,1,False
 69e8c632135af48b,Anying,Wang,Anying Wang,,"6' 0""",170,,Orthodox,2,1,0,False
-2997e7fe3c9d3d4a,Wang,Cong,Wang Cong,The Joker,"5' 6""",125,66.0,Southpaw,6,0,0,False
+2997e7fe3c9d3d4a,Wang,Cong,Wang Cong,The Joker,"5' 6""",125,66.0,Southpaw,6,1,0,False
 d538f13ab21d9633,Joshua,Wang-Kim,Joshua Wang-Kim,Twin Dragon,"5' 9""",135,71.0,Switch,5,2,0,False
 2721bb808bb2523c,Curt,Warburton,Curt Warburton,,"6' 0""",155,73.0,Orthodox,13,6,0,False
 67cd6495280b0a57,Brennan,Ward,Brennan Ward,The Irish Bad Boy,"5' 10""",170,71.0,,14,5,0,False
@@ -4087,7 +4094,7 @@ b9c03e7a4557e542,Royston,Wee,Royston Wee,,"5' 7""",135,67.0,Orthodox,4,1,0,False
 326a001926ffb7ec,Darian,Weeks,Darian Weeks,,"5' 11""",170,72.0,Orthodox,5,3,0,False
 69888118d968ba52,Joshua,Weems,Joshua Weems,Wide Open,"5' 8""",135,69.0,Orthodox,11,3,0,False
 7b9dade6bedaabbe,Daniel,Weichel,Daniel Weichel,The Weasel,"5' 10""",145,70.0,,39,9,0,False
-3a8176e15b9887c1,Chris,Weidman,Chris Weidman,The All-American,"6' 2""",185,78.0,Orthodox,16,7,0,False
+3a8176e15b9887c1,Chris,Weidman,Chris Weidman,The All-American,"6' 2""",185,78.0,Orthodox,16,8,0,False
 9ccdd2ce45903f34,Mark,Weir,Mark Weir,The Wizard,"6' 2""",185,,Southpaw,21,18,1,False
 f1b2a4365799c48b,Christian,Wellisch,Christian Wellisch,The Hungarian Nightmare,"6' 2""",234,77.0,Orthodox,8,5,0,False
 2e45d08b3f2f02c8,Malcolm,Wellmaker,Malcolm Wellmaker,The Machine,"5' 10""",135,71.0,Switch,8,0,0,False
@@ -4108,7 +4115,7 @@ c17041f1bb5768d8,Alex,White,Alex White,The Spartan,"6' 0""",155,71.0,Southpaw,13
 129537073431e52e,Garett,Whiteley,Garett Whiteley,Goodnight,"6' 0""",155,72.0,Orthodox,7,3,0,False
 b6debbda44d4a5a0,Mitch,Whitesel,Mitch Whitesel,,"5' 9""",185,,,17,27,0,False
 b3d21b2610dcfaeb,Emily,Whitmire,Emily Whitmire,Spitfire,"5' 5""",125,63.0,Orthodox,4,5,0,False
-e1147d3d2dabe1ce,Robert,Whittaker,Robert Whittaker,The Reaper,"6' 0""",185,73.0,Orthodox,27,7,0,False
+e1147d3d2dabe1ce,Robert,Whittaker,Robert Whittaker,The Reaper,"6' 0""",185,73.0,Orthodox,27,8,0,False
 13935768cf8aeb86,Josh,Wick,Josh Wick,The White Mamba,"5' 9""",155,69.0,Switch,12,6,0,False
 efa1f6b42c86793c,Adam,Wieczorek,Adam Wieczorek,Siwy,"6' 5""",250,81.0,Orthodox,10,2,0,False
 a6c2f5381d575920,Orlando,Wiet,Orlando Wiet,The Gladiator,"5' 10""",170,,Southpaw,1,5,0,False
@@ -4155,7 +4162,7 @@ daa89f01e1c0f42a,Xue Do,Won,Xue Do Won,,"5' 7""",165,,,0,1,0,False
 effd9de9937996f8,Tyron,Woodley,Tyron Woodley,The Chosen One,"5' 9""",170,74.0,Orthodox,19,7,1,False
 8de471543d9c933e,Salvador,Woods,Salvador Woods,,"5' 11""",170,,,8,17,0,False
 133a9d2e6efd8a50,Logan,Woods,Logan Woods,One Hit,--,185,,,5,1,0,False
-4682bc59d5f55145,Sean,Woodson,Sean Woodson,The Sniper,"6' 2""",145,78.0,Orthodox,12,1,1,False
+4682bc59d5f55145,Sean,Woodson,Sean Woodson,The Sniper,"6' 2""",145,78.0,Orthodox,13,1,1,False
 de3ed2e152520c8d,Cal,Worsham,Cal Worsham,,"5' 11""",230,,Orthodox,13,10,0,False
 8fb808fc2e145bd6,Hunter,Worsham,Hunter Worsham,The Future,--,185,,,7,3,0,False
 78e501478a36a018,Khama,Worthy,Khama Worthy,The Death Star,"5' 11""",155,74.0,Orthodox,16,9,0,False
@@ -4169,7 +4176,7 @@ fdbefee0827e1567,Wu,Yanan,Wu Yanan,Mulan,"5' 8""",135,66.0,Orthodox,13,6,0,False
 2296125b6c362355,,Wulijiburen, Wulijiburen,Beast Master,"5' 9""",135,69.0,Orthodox,20,9,0,False
 2d077e22886298be,Wuziazibieke,Jiahefu,Wuziazibieke Jiahefu,Prairie Kitty,"5' 9""",145,70.0,Orthodox,29,12,1,False
 e6dac752a2418a88,Rubens,Xavier,Rubens Xavier,Macula,"6' 3""",220,,Orthodox,5,3,0,False
-86bace9e4ad85542,Xiao,Long,Xiao Long,,"5' 8""",135,70.0,Orthodox,26,8,0,False
+86bace9e4ad85542,Xiao,Long,Xiao Long,,"5' 8""",135,70.0,Orthodox,27,9,0,False
 e415ea6f8d41c917,Xie,Bin,Xie Bin,The Stalker,"5' 9""",145,71.0,Orthodox,13,4,0,False
 85248da6e9e2f7e7,Jamie,Yager,Jamie Yager,The Chosyn 1,"6' 1""",185,,Orthodox,8,4,0,False
 cc84b68f862b466f,Eddie,Yagin,Eddie Yagin,The Filipino Phenom,"5' 7""",145,,Orthodox,16,7,1,False
@@ -4184,11 +4191,11 @@ eed2b71d77d95416,Yoshihisa,Yamamoto,Yoshihisa Yamamoto,,"6' 2""",220,,Southpaw,1
 283645128ae57eda,Hiroko,Yamanaka,Hiroko Yamanaka,Cat's Eye,"5' 11""",135,,,13,3,0,False
 9e1a7101fefe9746,Goiti,Yamauchi,Goiti Yamauchi,,"5' 10""",145,,,21,3,0,False
 d1d20e651e6cbc02,Takeshi,Yamazaki,Takeshi Yamazaki,,"5' 8""",139,,Southpaw,15,12,3,False
-c41d426cc7326d1b,Yan,Xiaonan,Yan Xiaonan,,"5' 5""",115,63.0,Orthodox,18,4,0,False
-d661ce4da776fc20,Petr,Yan,Petr Yan,No Mercy,"5' 7""",135,67.0,Switch,17,5,0,False
+c41d426cc7326d1b,Yan,Xiaonan,Yan Xiaonan,,"5' 5""",115,63.0,Orthodox,19,4,0,False
+d661ce4da776fc20,Petr,Yan,Petr Yan,No Mercy,"5' 7""",135,67.0,Switch,18,5,0,False
 5c9c2e247c836b67,Yan,Qihui,Yan Qihui,Queen Kong,"5' 3""",125,62.0,Orthodox,25,5,0,False
 0a95c474e61a6c44,Adam,Yandiev,Adam Yandiev,Boroda,"5' 9""",185,74.0,Orthodox,9,1,0,False
-0232cabbc30a2372,Adrian,Yanez,Adrian Yanez,,"5' 7""",135,70.0,Orthodox,17,5,0,False
+0232cabbc30a2372,Adrian,Yanez,Adrian Yanez,,"5' 7""",135,70.0,Orthodox,17,6,0,False
 aed06011bf62237b,Dongi,Yang,Dongi Yang,The Ox,"5' 10""",185,73.0,Southpaw,13,3,0,False
 d3c554d6e11fc9d6,Jianping,Yang,Jianping Yang,,"5' 7""",145,,Orthodox,11,4,1,False
 d56caaa5e123f518,Masutatsu,Yano,Masutatsu Yano,,"5' 9""",198,,Orthodox,2,4,1,False
@@ -4208,7 +4215,7 @@ a8e8587a06e73c87,Kazunori,Yokota,Kazunori Yokota,,"5' 8""",154,,Orthodox,25,7,3,
 ad99fa5325519169,Dong Sik,Yoon,Dong Sik Yoon,,"6' 0""",185,,Orthodox,9,9,0,False
 ab8900ae1f1dfd4c,Yoshiyuki,Yoshida,Yoshiyuki Yoshida,Zenko,"5' 11""",170,70.0,Southpaw,18,9,0,False
 2eae41f61776c60f,Hidehiko,Yoshida,Hidehiko Yoshida,,"5' 11""",225,,Orthodox,6,8,1,False
-a474aade8eb3a8f0,SuYoung,You,SuYoung You,Yoo-Jitsu,"5' 6""",135,65.0,Orthodox,13,3,0,False
+a474aade8eb3a8f0,SuYoung,You,SuYoung You,Yoo-Jitsu,"5' 6""",135,65.0,Orthodox,14,3,0,False
 79ff6545b0abc685,Kaitlin,Young,Kaitlin Young,,"5' 9""",135,,Orthodox,7,9,1,False
 8d4943a9ce9f521b,Artenus,Young,Artenus Young,,--,205,,,10,12,0,False
 bf5183e1c1afc3b2,Trenell,Young,Trenell Young,Savant,"5' 6""",145,,Orthodox,11,9,0,False
@@ -4223,10 +4230,10 @@ b2a78df161bd67f9,Gauge,Young,Gauge Young,Gee Money,"5' 9""",155,70.0,Orthodox,8,
 d29b5c4f22c6357d,Gilbert,Yvel,Gilbert Yvel,The Hurricane,"6' 2""",225,77.0,Orthodox,39,16,1,False
 2284092f8b63273b,Luke,Zachrich,Luke Zachrich,,"6' 2""",185,74.0,Orthodox,14,4,0,False
 8c822811eedc11ad,Anton,Zafir,Anton Zafir,The Professor,"5' 11""",170,,Orthodox,7,3,0,False
-24656ef4d605c96f,Aiemann,Zahabi,Aiemann Zahabi,,"5' 8""",135,68.0,Orthodox,11,2,0,False
+24656ef4d605c96f,Aiemann,Zahabi,Aiemann Zahabi,,"5' 8""",135,68.0,Orthodox,12,2,0,False
 6b614bda982f5214,Joao,Zaiden,Joao Zaiden,,--,205,,,10,3,0,False
-52c2ae6d2f2d2613,Youssef,Zalal,Youssef Zalal,The Moroccan Devil,"5' 10""",145,72.0,Switch,15,5,1,False
-8adcbd525fab8d9b,Elizeu,Zaleski dos Santos,Elizeu Zaleski dos Santos,Capoeira,"5' 11""",170,73.0,Orthodox,24,8,1,False
+52c2ae6d2f2d2613,Youssef,Zalal,Youssef Zalal,The Moroccan Devil,"5' 10""",145,72.0,Switch,16,5,1,False
+8adcbd525fab8d9b,Elizeu,Zaleski dos Santos,Elizeu Zaleski dos Santos,Capoeira,"5' 11""",170,73.0,Orthodox,25,8,1,False
 cc3878d1ab41a5fa,Zach,Zane,Zach Zane,The Hurricane,"5' 7""",145,69.0,Southpaw,10,7,0,False
 fe5ca7ef93c3f6a7,Roger,Zapata,Roger Zapata,Viva,"5' 11""",170,,Southpaw,4,2,0,False
 abcf7e55a0a9ed89,Marius,Zaromskis,Marius Zaromskis,The Whitemare,"5' 9""",170,,Orthodox,20,9,0,False
@@ -4241,7 +4248,7 @@ cbf69fa846c7e3ee,Carlos,Zevallos,Carlos Zevallos,,"6' 0""",205,,Orthodox,3,4,0,F
 c23e3d4875340d8d,Zhang,Tiequan,Zhang Tiequan,The Wolf,"5' 8""",155,69.0,Orthodox,15,4,0,False
 7b310409440c9102,Zhang,Lipeng,Zhang Lipeng,The Warrior,"5' 11""",155,71.0,Southpaw,23,9,1,False
 1ebe20ebbfa15e29,Zhang,Weili,Zhang Weili,Magnum,"5' 4""",115,63.0,Switch,25,3,0,True
-8a65fd9ba31fd3f7,Zhang,Mingyang,Zhang Mingyang,Mountain Tiger,"6' 2""",205,75.0,Orthodox,17,6,0,False
+8a65fd9ba31fd3f7,Zhang,Mingyang,Zhang Mingyang,Mountain Tiger,"6' 2""",205,75.0,Orthodox,18,6,0,False
 fd52e5f9ab25c94c,Daermisi,Zhawupasi,Daermisi Zhawupasi,,"5' 8""",135,68.0,Switch,9,2,0,False
 07047eb7d17fb0a2,Daria,Zhelezniakova,Daria Zhelezniakova,Iron Lady,"5' 9""",135,68.0,Orthodox,9,2,0,False
 5ea918ea81b7dee2,Yao,Zhikui,Yao Zhikui,The Conqueror,"5' 5""",125,64.0,Orthodox,2,4,0,False

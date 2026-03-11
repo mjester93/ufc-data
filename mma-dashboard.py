@@ -373,19 +373,19 @@ st.set_page_config(
 
 # GETTING ALL FIGHTERS
 all_fighters_df = pd.read_csv(
-    "https://github.com/mjester93/ufc-data/blob/main/fighters.csv?raw=True",
+    "https://raw.githubusercontent.com/mjester93/ufc-data/main/fighters.csv?raw=True",
     low_memory=False,
 )
 
 # GETTING CAREER STATS
 all_career_stats_df = pd.read_csv(
-    "https://github.com/mjester93/ufc-data/blob/main/fighter_career_stats.csv?raw=True",
+    "https://raw.githubusercontent.com/mjester93/ufc-data/main/fighter_career_stats.csv?raw=True",
     low_memory=False,
 )
 
 # GETTING INDIVIDUAL FIGHT DATA
 all_fight_data = pd.read_csv(
-    "https://github.com/mjester93/ufc-data/blob/main/fight_data.csv?raw=True",
+    "https://raw.githubusercontent.com/mjester93/ufc-data/main/fight_data.csv?raw=True",
     low_memory=False,
     thousands=",",
 )
@@ -531,7 +531,7 @@ all_career_stats_df = all_career_stats_df.merge(
 
 # GETTING EXTERNAL IDS
 external_ids_df = pd.read_csv(
-    "https://github.com/mjester93/ufc-data/blob/main/external_ids.csv?raw=True",
+    "https://raw.githubusercontent.com/mjester93/ufc-data/main/external_ids.csv?raw=True",
     low_memory=False,
     dtype={"espn_id": str, "sherdog_id": str},
 )[["ufcstats_id", "espn_id", "sherdog_id"]]
